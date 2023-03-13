@@ -5,7 +5,8 @@ title: Accueil
 
 Bienvenue !
 
-Je suis Mathilde Saliou, journaliste spécialisée dans le numérique. J'étudie les effets des technologies sur la société et la manière dont cette dernière modèle les innovations en cours. Dit autrement, je couvre des thématiques liées à la tech, à l'information et la désinformation, ainsi que beaucoup de questions liées au maintien et à la lutte contre les inégalités dans les médias et les mondes connectés.
+Je suis Mathilde Saliou, journaliste et autrice, spécialisée dans le numérique. J'étudie les effets des technologies sur la société et la manière dont cette dernière modèle les innovations en cours. Dit autrement, je couvre des thématiques liées à la tech, à l'information et la désinformation, ainsi que beaucoup de questions liées au maintien et à la lutte contre les inégalités dans les médias et les mondes connectés.
+Adepte de vulgarisation et soucieuse des questions d'éducation aux médias et à l'information (EMI), je réfléchis aux formats les mieux à même de transmettre de l'information en fonction des publics visés. Pour l'association Prenons la Une, j'anime aussi des formations de sensibilisation au cyberharcèlement à destination de mes collègues journalistes.
 
 J'ai écrit l'essai **_Technoféminisme, comment le numérique aggrave les inégalités_**, publié en février 2023 [aux éditions Grasset](https://www.grasset.fr/livres/technofeminisme-9782246828822).
 
