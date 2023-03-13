@@ -17,11 +17,11 @@ Dans cet essai-enquête unique, Mathilde Saliou décortique cette menace démocr
 
 ### Mes publications journalistiques
 
-Actuellement, je travaille principalement chez **_Next Inpact_**. Tous les articles longs que j'y ai publiés sont [accessibles ici](https://www.nextinpact.com/recherche;q=;a=54;r=;p=1). 
+Actuellement, je travaille principalement chez **Next Inpact**. Tous les articles longs que j'y ai publiés sont [accessibles ici](https://www.nextinpact.com/recherche;q=;a=54;r=;p=1). 
 
 En 2022, ma consœur Ingri Bergo et moi avons remporté une bourse du [Journalismfund Europe](https://www.journalismfund.eu/supported-projects/across-europe-revenge-porn-victims-are-taking-digital-abusers) pour enquêter sur le phénomène de la diffusion non consentie d'images à caractère sexuel en Europe. Ç'a donné lieu à plusieurs publications : 
-- dans **_the Guardian_**, ["‘They said: aren’t you that porn star?’ The woman hunting down image-based abuse"](https://www.theguardian.com/global-development/2022/oct/19/they-said-arent-you-that-porn-star-the-woman-hunting-down-image-based-abuse)
-- dans **_Slate_**, une série en quatre épisodes : 
+- dans **the Guardian**, ["‘They said: aren’t you that porn star?’ The woman hunting down image-based abuse"](https://www.theguardian.com/global-development/2022/oct/19/they-said-arent-you-that-porn-star-the-woman-hunting-down-image-based-abuse)
+- dans **Slate**, une série en quatre épisodes : 
  - [«J'ai eu des pensées suicidaires» : les graves conséquences du «revenge porn» pour les victimes](https://www.slate.fr/story/235033/revenge-porn-pornodivulgation-consequences-mortelles-victimes-suicide-depression)
  - [En ligne, on s'échange du «revenge porn» comme des cartes Pokémon](https://www.slate.fr/story/235372/revenge-porn-cartes-pokemon-collection-insultes-pornographie-intimite-femmes-discord-telegram)
  - [Ce qu'il manque à la lutte contre le «revenge porn» pour qu'elle soit vraiment efficace](https://www.slate.fr/story/235688/revenge-porn-consideration-lois-cyberviolences-femmes-cooperation-europe-reseaux-sociaux-sites-pornographiques)
@@ -33,7 +33,7 @@ De 2020 à 2022, j'ai été journaliste et coordinatrice de rédaction pour **Fl
 - [Debunk] [Vaccins anti-covid : comment débattre sans se battre ?](https://flint.media/posts/96-covid-comment-les-vaccins-agissent-t-ils)
 - [Les Français détestent-ils l’information ?](https://flint.media/posts/29-les-francais-detestent-ils-linformation)
 
-De 2018 à 2020, j'ai été journaliste économique chez **_mind Fintech_**. J'y ai principalement couvert les activités des Big Tech (GAFAM, BATX) dans le secteur de la banque et de l'assurance, les questions de cybersécurité et les sujets liés à l'écosystème blockchain/crypto. Quelques exemples :
+De 2018 à 2020, j'ai été journaliste économique chez **mind Fintech**. J'y ai principalement couvert les activités des Big Tech (GAFAM, BATX) dans le secteur de la banque et de l'assurance, les questions de cybersécurité et les sujets liés à l'écosystème blockchain/crypto. Quelques exemples :
 - [DataJournalisme] [Les “super-apps” chinoises, des écosystèmes financiers à part entière](https://www.mindfintech.fr/services-bancaires/les-super-apps-chinoises-des-ecosystemes-financiers-a-part-entiere/)
 - [Comment de nouveaux médias numériques contribuent à l’éducation financière](https://www.mindfintech.fr/services-bancaires/comment-de-nouveaux-medias-numeriques-contribuent-a-leducation-financiere/)
 - [DataJournalisme] [Crypto-actifs, moyens de paiement, régulation : que disent les activités des GAFAM du secteur financier ?](https://www.mindfintech.fr/services-bancaires/crypto-actifs-moyens-de-paiement-regulation-que-disent-les-activites-des-gafam-du-secteur-financier/)
