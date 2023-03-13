@@ -7,7 +7,8 @@ Je suis journaliste pour toutes sortes de média, le plus souvent écrits, quelq
 
 _Technoféminisme, comment le numérique aggrave les inégalités_ est paru [chez Grasset](https://www.grasset.fr/livres/technofeminisme-9782246828822) en février 2023.
 
-######La quatrième de couverture : 
+###### La quatrième de couverture : 
+
 Violence en ligne, algorithmes discriminatoires, manipulation des comportements… Le numérique n’a rien de virtuel : il a infiltré tous les pans de nos existences et y encode le sexisme.
 Dans les franges radicalisées de nos espaces en ligne, des communautés masculinistes prospèrent. Elles harcèlent, divulguent informations et images intimes, vont parfois jusqu'au meurtre. Dans son histoire, le monde technologique retient les hommes et efface les pionnières : Ada Lovelace, qui mit
 au point le premier programme informatique, ou Grace Hopper, qui permit de parler aux machines dans un langage proche du nôtre. Dans l’architecture profonde du Net, les algorithmes discriminent les femmes et les minorités, freinant leur accès à l’espace public, au travail, aux assurances, à
