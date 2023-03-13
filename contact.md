@@ -1,6 +1,8 @@
 ---
 title: Contact
 ---
-L'Échappée Belle est actuellement composée de 5 membres.
-
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
+Je suis joignable sur tout un tas d'applications de ce vaste réseau qu'est internet :
+- sur [Mastodon](https://piaille.fr/@mathildesaliou)
+- sur [Twitter](https://twitter.com/mathildsl)
+- sur [LinkedIn](https://www.linkedin.com/in/mathildesaliou/)
+et ailleurs sur demande via l'un des canaux cités ci-dessus.
