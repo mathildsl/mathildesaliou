@@ -17,12 +17,18 @@ Dans cet essai-enquête unique, Mathilde Saliou décortique cette menace démocr
 
 Actuellement, je travaille principalement chez Next Inpact. Tous les articles longs que j'y ai publiés sont [accessibles ici](https://www.nextinpact.com/recherche;q=;a=54;r=;p=1). 
 
-En 2022, ma consœur Ingri Bergo et moi avons remporté une bourse du Journalism fund pour enquêter sur le phénomène de la diffusion non consentie d'images à caractère sexuel en Europe. Ç'a donné lieu à plusieurs publications : 
+En 2022, ma consœur Ingri Bergo et moi avons remporté une bourse du [Journalismfund Europe](https://www.journalismfund.eu/supported-projects/across-europe-revenge-porn-victims-are-taking-digital-abusers) pour enquêter sur le phénomène de la diffusion non consentie d'images à caractère sexuel en Europe. Ç'a donné lieu à plusieurs publications : 
 - dans _the Guardian_, ["‘They said: aren’t you that porn star?’ The woman hunting down image-based abuse"](https://www.theguardian.com/global-development/2022/oct/19/they-said-arent-you-that-porn-star-the-woman-hunting-down-image-based-abuse)
 - dans _Slate_, une série en quatre épisodes : 
  - [«J'ai eu des pensées suicidaires» : les graves conséquences du «revenge porn» pour les victimes](https://www.slate.fr/story/235033/revenge-porn-pornodivulgation-consequences-mortelles-victimes-suicide-depression)
  - [En ligne, on s'échange du «revenge porn» comme des cartes Pokémon](https://www.slate.fr/story/235372/revenge-porn-cartes-pokemon-collection-insultes-pornographie-intimite-femmes-discord-telegram)
  - [Ce qu'il manque à la lutte contre le «revenge porn» pour qu'elle soit vraiment efficace](https://www.slate.fr/story/235688/revenge-porn-consideration-lois-cyberviolences-femmes-cooperation-europe-reseaux-sociaux-sites-pornographiques)
  - [Diffusion d'images intimes : des activistes au secours des victimes](https://www.slate.fr/story/235976/revenge-porn-diffusion-images-intimes-activistes-associations-secours-victimes-traque-reseaux-sociaux)
+
+De 2020 à 2022, j'ai été journaliste et coordinatrice de rédaction pour Flint.media. J'ai participé à l'élaboration de la stratégie éditoriale de la newsletter et construit des formats courts adaptés à la newsletter quotidienne, des séries explicatives ou encore des dispositifs plus ponctuels dédiés à décortiquer de gros débats de société (comme celui qui entourait à l'époque la question de la vaccination contre la Covid-19). Quelques exemples : 
+- [Série][Algorithmes, intelligence artificielle : quelle est la différence ?](https://flint.media/posts/190-algorithmes-intelligence-artificielle-quelle-est-la-difference)
+- [Série][La blockchain pour ceux qui n’y connaissent rien (et pour les autres aussi)](https://flint.media/posts/106-la-blockchain-pour-ceux-qui-n-rsquo-y-connaissent-rien-et-pour-les-autres-aussi)
+- [Vaccins anti-covid : comment débattre sans se battre ?](https://flint.media/posts/96-covid-comment-les-vaccins-agissent-t-ils)
+- [Les Français détestent-ils l’information ?](https://flint.media/posts/29-les-francais-detestent-ils-linformation)
 
 À l'Atelier des médias, chez RFI, j'ai réalisé [plusieurs émissions](https://www.rfi.fr/fr/auteur/mathilde-saliou/) en 2018, dont une intitulée ["Quand le féminisme rencontre le podcast"](https://www.rfi.fr/fr/emission/20180915-quand-le-feminisme-rencontre-le-podcast) et une autre, ["Les journalistes face au cyberharcèlement"](https://www.rfi.fr/fr/emission/20181013-journalistes-cyberharcelement-insultes-lynchages-menaces-reseaux-sociaux)
