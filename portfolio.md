@@ -44,16 +44,21 @@ Régulièrement pigiste, j'ai travailllé au fil des ans avec des médias comme
   - [« Hôtel du Temps » : L'émission de Thierry Ardisson est-elle la télévision de demain ou d'hier ?](https://www.20minutes.fr/arts-stars/television/3280539-20220502-hotel-temps-emission-thierry-ardisson-television-demain-hier)
 
 
+- **Arte FAQ** :
+  - [J'ai placé mes économies en crypto](https://story.snapchat.com/p/da34de3d-c1bc-45bc-abcb-66aa1a4becdf/902921768443904)
+
+
+- **Slate** :
+  - [Boutcha, charnier sur Google, havre de paix sur Yandex](https://www.slate.fr/story/226757/guerre-ukraine-illustre-non-neutralite-moteurs-recherche-russie-propagande)
+  - [Comment les algorithmes influencent nos comportements électoraux](https://www.slate.fr/story/226047/election-presidentielle-manipulations-algorithmes-influencent-comportements-electoraux-vote)
+
+
 - [**Numerama**](https://www.numerama.com/author/mathildesaliou/) :
   - [Faut-il dire cybercriminalité ou cyberdélinquance ?](https://www.numerama.com/cyberguerre/1144844-faut-il-dire-cybercriminalite-ou-cyberdelinquance.html)
   - [Que signifie « supply chain attack » ?](https://www.numerama.com/cyberguerre/1099428-quest-ce-quune-supply-chain-attack.html)
   - [Qu’est-ce qu’un phishing ?](https://www.numerama.com/cyberguerre/1094534-quest-ce-quun-phishing.html)
   - [Peut-on cartographier internet ?](https://www.numerama.com/tech/533403-peut-on-cartographier-internet.html)
   - [Google Maps nous fait-il perdre le sens de l’orientation ?](https://www.numerama.com/tech/403659-google-maps-nous-fait-il-perdre-le-sens-de-lorientation.html)
-
-
-- **Arte FAQ** :
-  - [J'ai placé mes économies en crypto](https://story.snapchat.com/p/da34de3d-c1bc-45bc-abcb-66aa1a4becdf/902921768443904)
 
 
 - **Les Inrocks/Cheek Magazine**
