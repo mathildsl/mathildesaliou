@@ -17,6 +17,8 @@ Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/tec
 
 📰 [« Technoféminisme : Comment le numérique aggrave les inégalités » : Rencontre avec Mathilde Saliou](https://www.madmoizelle.com/techno-feminisme-comment-le-numerique-aggrave-les-inegalites-rencontre-avec-mathilde-saliou-1493643), **Madmoizelle**, 11 février 2023
 
+📹 [Présentation de Technoféminisme](https://www.youtube.com/watch?v=DBGSB5oXygg), Grasset
+
 ##### Intelligence artificielle
 
 📰 [Journée des droits des femmes : pourquoi de nombreux algorithmes sont sexistes](https://www.lesechos.fr/tech-medias/hightech/journee-de-la-femme-pourquoi-de-nombreux-algorithmes-sont-sexistes-1912930), **Les Échos**, 7 mars 2023
