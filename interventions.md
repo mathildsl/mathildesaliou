@@ -3,6 +3,12 @@ title: Interventions
 ---
 Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/technofeminisme-9782246828822), pour parler tech ou pour évoquer la place des femmes dans les médias, il m'arrive d'être interviewée ou de participer à des tables rondes.
 
+### À venir
+
+Table-ronde "Résister au numérique : techno-luttes et féminisme", Mk2 Bibliothèque, Paris, 16 mars 2023. [Réservation](https://www.mk2.com/film/mathilde-saliou-nicolas-celnik-fabien-benoit-resister-numerique)
+
+Table-ronde "Sandrine Holin & Mathilde Saliou, Néolibéralisme, tech et Internet face au féminisme", Bibliothèques idéales "Le temps des féminismes", Strasbourg, 19 mars 2023. [Programme](https://biblideales.fr/)
+
 ##### Technoféminisme
 
 🎧 [Avec « Technoféminisme », Mathilde Saliou analyse comment le numérique creuse les inégalités](https://www.nova.fr/tech/avec-technofeminisme-mathilde-saliou-analyse-comment-le-numerique-creuse-les-inegalites-219453-06-03-2023/), **Radio Nova**, 6 mars 2023
