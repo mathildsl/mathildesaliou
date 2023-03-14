@@ -1,7 +1,7 @@
 ---
 title: Portfolio
 ---
-Je suis journaliste pour toutes sortes de média, le plus souvent écrits, quelquefois radio, plus rarement tv/vidéo.
+Je suis journaliste pour toutes sortes de média, le plus souvent écrits, quelquefois radio ou tv/vidéo.
 
 ### Mon essai
 
@@ -44,6 +44,8 @@ Régulièrement pigiste, j'ai écrit pour des médias comme
   - [Qu’est-ce qu’un phishing ?](https://www.numerama.com/cyberguerre/1094534-quest-ce-quun-phishing.html)
   - [Peut-on cartographier internet ?](https://www.numerama.com/tech/533403-peut-on-cartographier-internet.html)
   - [Google Maps nous fait-il perdre le sens de l’orientation ?](https://www.numerama.com/tech/403659-google-maps-nous-fait-il-perdre-le-sens-de-lorientation.html)
+- **Arte FAQ** :
+  - [J'ai placé mes économies en crypto](https://story.snapchat.com/p/da34de3d-c1bc-45bc-abcb-66aa1a4becdf/902921768443904)
 
 De 2020 à 2022, j'ai été journaliste et coordinatrice de rédaction pour **Flint.media**. J'ai participé à l'élaboration de la stratégie éditoriale et construit divers formats : des courts adaptés à la newsletter quotidienne, des séries explicatives ou encore des dispositifs plus ponctuels dédiés à décortiquer de gros débats de société (comme celui qui entourait à l'époque la question de la vaccination contre la Covid-19). Quelques exemples : 
 - [Série] [Algorithmes, intelligence artificielle : quelle est la différence ?](https://flint.media/posts/190-algorithmes-intelligence-artificielle-quelle-est-la-difference)
