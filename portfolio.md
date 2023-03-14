@@ -30,7 +30,7 @@ De 2018 à 2020, j'ai été journaliste économique chez **mind Fintech**. J'y a
 - une intitulée ["Quand le féminisme rencontre le podcast"](https://www.rfi.fr/fr/emission/20180915-quand-le-feminisme-rencontre-le-podcast) 
 - et une autre, ["Les journalistes face au cyberharcèlement"](https://www.rfi.fr/fr/emission/20181013-journalistes-cyberharcelement-insultes-lynchages-menaces-reseaux-sociaux)
 
-#### À la pige
+[color=#07357d]#### À la pige[/color]
 
 Régulièrement pigiste, j'ai travailllé au fil des ans avec des médias comme
 
