@@ -5,8 +5,7 @@ Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/tec
 
 ### À venir
 
-Table-ronde "Cyberharcèlement : que font les rédactions ?", partenariat entre Prenons la Une et Nothing2Hide, le 4 avril 2023.  
-J'animerai la discussion entre nos invité·es Guylaine Germain de l'[AJP](https://www.ajp.be/), Mathilde Goupil de France TV, Ivan Valerio de BFMTV, la documentariste Florence Hainaut et une responsable de Radio Canada.   [Inscription](https://www.helloasso.com/associations/prenons-la-une/evenements/cyberharcelement-que-font-les-redactions)
+Table-ronde "Cyberharcèlement : que font les rédactions ?", partenariat entre Prenons la Une et Nothing2Hide, le 4 avril 2023. J'animerai la discussion entre nos invité·es Guylaine Germain de l'[AJP](https://www.ajp.be/), Mathilde Goupil de France TV, Ivan Valerio de BFMTV, la documentariste Florence Hainaut et une responsable de Radio Canada. [Inscription](https://www.helloasso.com/associations/prenons-la-une/evenements/cyberharcelement-que-font-les-redactions)
 
 Table-ronde "Résister au numérique : techno-luttes et féminisme", Mk2 Bibliothèque, Paris, 16 mars 2023. [Réservation](https://www.mk2.com/film/mathilde-saliou-nicolas-celnik-fabien-benoit-resister-numerique)
 
