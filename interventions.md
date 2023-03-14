@@ -5,7 +5,7 @@ Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/tec
 
 ### À venir
 
-Table-ronde "Cyberharcèlement : que font les rédactions ?", partenariat entre Prenons la Une et Nothing2Hide, le 4 avril 2023. J'animerai la discussion entre nos invité·es Guylaine Germain de l'[AJP](https://www.ajp.be/), Mathilde Goupil de France TV, Ivan Valerio de BFMTV, la documentariste Florence Hainaut et une responsable de Radio Canada. [Inscription](https://www.helloasso.com/associations/prenons-la-une/evenements/cyberharcelement-que-font-les-redactions)
+Table-ronde "Cyberharcèlement : que font les rédactions ?", partenariat entre Prenons la Une et Nothing2Hide. Le 4 avril 2023, j'animerai la discussion entre nos invité·es Guylaine Germain de l'[AJP](https://www.ajp.be/), Mathilde Goupil de France TV, Ivan Valerio de BFMTV, la documentariste Florence Hainaut et une responsable de Radio Canada. [Inscription](https://www.helloasso.com/associations/prenons-la-une/evenements/cyberharcelement-que-font-les-redactions)
 
 Table-ronde "Résister au numérique : techno-luttes et féminisme", Mk2 Bibliothèque, Paris, 16 mars 2023. [Inscription](https://www.mk2.com/film/mathilde-saliou-nicolas-celnik-fabien-benoit-resister-numerique)
 
@@ -25,6 +25,8 @@ Table-ronde "Sandrine Holin & Mathilde Saliou, Néolibéralisme, tech et Interne
 
 ##### Technoféminisme, comment le numérique aggrave les inégalités
 
+📰 [« La tech est une industrie qui pose des problèmes pour le droit des femmes »](https://www.numerama.com/politique/1295330-il-faut-plus-de-figures-de-femmes-associees-a-la-tech-dans-nos-imaginaires.html), Numerama, 8 mars 2023
+
 🎧 [Avec « Technoféminisme », Mathilde Saliou analyse comment le numérique creuse les inégalités](https://www.nova.fr/tech/avec-technofeminisme-mathilde-saliou-analyse-comment-le-numerique-creuse-les-inegalites-219453-06-03-2023/), Radio Nova, 6 mars 2023
 
 🎧 [«Technoféminisme»: Mathilde Saliou raconte le problème du numérique avec la diversité](https://www.rfi.fr/fr/podcasts/atelier-des-m%C3%A9dias/20230304-technof%C3%A9minisme-mathilde-saliou-raconte-le-probl%C3%A8me-du-num%C3%A9rique-avec-la-diversit%C3%A9), Atelier des médias, RFI, 4 mars 2023
@@ -32,6 +34,8 @@ Table-ronde "Sandrine Holin & Mathilde Saliou, Néolibéralisme, tech et Interne
 🎧 [Internet, espace de sexisme ordinaire](https://www.slate.fr/audio/mansplaining/internet-espace-sexisme-ordinaire-mathilde-saliou-technofeminisme-place-femmes-minorites-internet-109), Mansplaining, Slate, 1er mars 2023
 
 🎧 [Inégalités dans le numérique : pour un futur technoféministe](https://www.radiofrance.fr/franceculture/podcasts/le-meilleur-des-mondes/inegalites-dans-le-numerique-pour-un-futur-technofeministe-7166073), Le Meilleur des Mondes, France Culture, 24 février 2023
+
+📰 [ « L’industrie numérique est un précipité de patriarcat et d’inégalités » ](https://usbeketrica.com/fr/article/l-industrie-du-numerique-est-un-petit-precipite-de-patriarcat-et-de-logique-d-inegalites), Usbek et Rica, 20 février 2023
 
 📰 [« Le numérique est une gigantesque machine à renforcer les inégalités »](https://start.lesechos.fr/societe/egalite-diversite/le-numerique-est-une-gigantesque-machine-a-renforcer-les-inegalites-1907845), Les Échos Start, 17 février 2023
 
