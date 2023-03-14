@@ -9,6 +9,8 @@ Table-ronde "Résister au numérique : techno-luttes et féminisme", Mk2 Bibliot
 
 Table-ronde "Sandrine Holin & Mathilde Saliou, Néolibéralisme, tech et Internet face au féminisme", Bibliothèques idéales "Le temps des féminismes", Strasbourg, 19 mars 2023. [Programme](https://biblideales.fr/)
 
+### Passé
+
 ##### Technoféminisme
 
 🎧 [Avec « Technoféminisme », Mathilde Saliou analyse comment le numérique creuse les inégalités](https://www.nova.fr/tech/avec-technofeminisme-mathilde-saliou-analyse-comment-le-numerique-creuse-les-inegalites-219453-06-03-2023/), **Radio Nova**, 6 mars 2023
