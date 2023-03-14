@@ -17,6 +17,8 @@ De 2020 à 2022, j'ai été journaliste et coordinatrice de rédaction pour **Fl
 - [Série] [Algorithmes, intelligence artificielle : quelle est la différence ?](https://flint.media/posts/190-algorithmes-intelligence-artificielle-quelle-est-la-difference)
 - [Série] [La blockchain pour ceux qui n’y connaissent rien (et pour les autres aussi)](https://flint.media/posts/106-la-blockchain-pour-ceux-qui-n-rsquo-y-connaissent-rien-et-pour-les-autres-aussi)
 - [Debunk] [Vaccins anti-covid : comment débattre sans se battre ?](https://flint.media/posts/96-covid-comment-les-vaccins-agissent-t-ils)
+- [Passion economy, banques et porno : le bingo OnlyFans](https://flint.media/posts/98-passion-economy-banques-et-porno-le-bingo-onlyfans)
+- [Pourquoi les influenceurs d’extrême-droite font-ils polémique ?](https://flint.media/posts/23-pourquoi-la-video-de-linfluenceur-dextreme-droite-papacito-fait-elle-polemique)
 - [Les Français détestent-ils l’information ?](https://flint.media/posts/29-les-francais-detestent-ils-linformation)
 
 De 2018 à 2020, j'ai été journaliste économique chez **mind Fintech**. J'y ai principalement couvert les activités des Big Tech (GAFAM, BATX) dans le secteur de la banque et de l'assurance, les questions de cybersécurité et les sujets liés à l'écosystème blockchain/crypto. Quelques exemples :
