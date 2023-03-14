@@ -11,7 +11,17 @@ Table-ronde "Sandrine Holin & Mathilde Saliou, Néolibéralisme, tech et Interne
 
 ### Passées
 
-##### Technoféminisme
+##### Intelligence artificielle
+
+📰 [Journée des droits des femmes : pourquoi de nombreux algorithmes sont sexistes](https://www.lesechos.fr/tech-medias/hightech/journee-de-la-femme-pourquoi-de-nombreux-algorithmes-sont-sexistes-1912930), **Les Échos**, 7 mars 2023
+
+🎧 ["La malédiction des algorithmes"](https://frenchspin.fr/2022/05/rdv-tech-461-la-malediction-des-algorithmes/), **RDV Tech** 461, 31 mai 2022
+
+##### Tech et représentations
+
+📰 [Les robots sexuels entretiennent-ils la culture du viol ?](https://www.madmoizelle.com/les-robots-sexuels-entretiennent-ils-la-culturel-du-viol-1491411), **Madmoizelle**, 7 février 2023
+
+##### Technoféminisme, comment le numérique aggrave les inégalités
 
 🎧 [Avec « Technoféminisme », Mathilde Saliou analyse comment le numérique creuse les inégalités](https://www.nova.fr/tech/avec-technofeminisme-mathilde-saliou-analyse-comment-le-numerique-creuse-les-inegalites-219453-06-03-2023/), **Radio Nova**, 6 mars 2023
 
@@ -29,15 +39,6 @@ Table-ronde "Sandrine Holin & Mathilde Saliou, Néolibéralisme, tech et Interne
 
 📹 [Présentation de Technoféminisme](https://www.youtube.com/watch?v=DBGSB5oXygg), **Grasset**
 
-##### Intelligence artificielle
-
-📰 [Journée des droits des femmes : pourquoi de nombreux algorithmes sont sexistes](https://www.lesechos.fr/tech-medias/hightech/journee-de-la-femme-pourquoi-de-nombreux-algorithmes-sont-sexistes-1912930), **Les Échos**, 7 mars 2023
-
-🎧 ["La malédiction des algorithmes"](https://frenchspin.fr/2022/05/rdv-tech-461-la-malediction-des-algorithmes/), **RDV Tech** 461, 31 mai 2022
-
-##### Tech et représentations
-
-📰 [Les robots sexuels entretiennent-ils la culture du viol ?](https://www.madmoizelle.com/les-robots-sexuels-entretiennent-ils-la-culturel-du-viol-1491411), **Madmoizelle**, 7 février 2023
 
 ##### Médias et représentations
 
