@@ -17,6 +17,8 @@ Table-ronde "Sandrine Holin & Mathilde Saliou, Néolibéralisme, tech et Interne
 
 📰 [Journée des droits des femmes : pourquoi de nombreux algorithmes sont sexistes](https://www.lesechos.fr/tech-medias/hightech/journee-de-la-femme-pourquoi-de-nombreux-algorithmes-sont-sexistes-1912930), Les Échos, 7 mars 2023
 
+🖥 ["IA : "Demandez un portrait de femme, vous aurez un décolleté plongeant"](https://www.arretsurimages.net/emissions/arret-sur-images/ia-demandez-un-portrait-de-femme-vous-aurez-un-decollete-plongeant), Arrêt sur images, 20 janvier 2023
+
 🎧 ["La malédiction des algorithmes"](https://frenchspin.fr/2022/05/rdv-tech-461-la-malediction-des-algorithmes/), RDV Tech 461, 31 mai 2022
 
 ##### Tech et représentations
@@ -42,6 +44,8 @@ Table-ronde "Sandrine Holin & Mathilde Saliou, Néolibéralisme, tech et Interne
 📰 [Mathilde Saliou : “Quand on se focalise sur Steve Jobs ou Elon Musk, on oublie les profils qui ont fait avancer le milieu”](https://leclaireur.fnac.com/article/242118-mathilde-saliou-quand-on-se-focalise-sur-steve-jobs-ou-elon-musk-on-oublie-les-profils-qui-ont-fait-avancer-le-milieu/), L'Éclaireur Fnac, 16 février 2023
 
 🖥 [Comment le numérique aggrave les inégalités ?](https://www.radiofrance.fr/franceinfo/podcasts/le-talk-franceinfo/comment-le-numerique-agrave-les-inegalites-9674325), Le Talk, France Info, 15 février 2023
+
+📰 [M. Saliou (Technoféminisme) : « La technologie impose une approche déterministe »](https://hellofuture.orange.com/fr/mathilde-saliou-technofeminisme-la-technologie-impose-une-approche-deterministe/), Hello Futures, Orange, 15 février 2023
 
 📰 [« Technoféminisme : Comment le numérique aggrave les inégalités » : Rencontre avec Mathilde Saliou](https://www.madmoizelle.com/techno-feminisme-comment-le-numerique-aggrave-les-inegalites-rencontre-avec-mathilde-saliou-1493643), Madmoizelle, 11 février 2023
 
