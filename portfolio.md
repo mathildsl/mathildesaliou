@@ -13,7 +13,24 @@ En 2022, ma consœur Ingri Bergo et moi avons remporté une bourse du [Journalis
   - [Ce qu'il manque à la lutte contre le «revenge porn» pour qu'elle soit vraiment efficace](https://www.slate.fr/story/235688/revenge-porn-consideration-lois-cyberviolences-femmes-cooperation-europe-reseaux-sociaux-sites-pornographiques)
   - [Diffusion d'images intimes : des activistes au secours des victimes](https://www.slate.fr/story/235976/revenge-porn-diffusion-images-intimes-activistes-associations-secours-victimes-traque-reseaux-sociaux)
 
-Régulièrement pigiste, j'ai écrit pour des médias comme
+De 2020 à 2022, j'ai été journaliste et coordinatrice de rédaction pour **Flint.media**. J'ai participé à l'élaboration de la stratégie éditoriale et construit divers formats : des courts adaptés à la newsletter quotidienne, des séries explicatives ou encore des dispositifs plus ponctuels dédiés à décortiquer de gros débats de société (comme celui qui entourait à l'époque la question de la vaccination contre la Covid-19). Quelques exemples : 
+- [Série] [Algorithmes, intelligence artificielle : quelle est la différence ?](https://flint.media/posts/190-algorithmes-intelligence-artificielle-quelle-est-la-difference)
+- [Série] [La blockchain pour ceux qui n’y connaissent rien (et pour les autres aussi)](https://flint.media/posts/106-la-blockchain-pour-ceux-qui-n-rsquo-y-connaissent-rien-et-pour-les-autres-aussi)
+- [Debunk] [Vaccins anti-covid : comment débattre sans se battre ?](https://flint.media/posts/96-covid-comment-les-vaccins-agissent-t-ils)
+- [Les Français détestent-ils l’information ?](https://flint.media/posts/29-les-francais-detestent-ils-linformation)
+
+De 2018 à 2020, j'ai été journaliste économique chez **mind Fintech**. J'y ai principalement couvert les activités des Big Tech (GAFAM, BATX) dans le secteur de la banque et de l'assurance, les questions de cybersécurité et les sujets liés à l'écosystème blockchain/crypto. Quelques exemples :
+- [DataJournalisme] [Les “super-apps” chinoises, des écosystèmes financiers à part entière](https://www.mindfintech.fr/services-bancaires/les-super-apps-chinoises-des-ecosystemes-financiers-a-part-entiere/)
+- [Comment de nouveaux médias numériques contribuent à l’éducation financière](https://www.mindfintech.fr/services-bancaires/comment-de-nouveaux-medias-numeriques-contribuent-a-leducation-financiere/)
+- [DataJournalisme] [Crypto-actifs, moyens de paiement, régulation : que disent les activités des GAFAM du secteur financier ?](https://www.mindfintech.fr/services-bancaires/crypto-actifs-moyens-de-paiement-regulation-que-disent-les-activites-des-gafam-du-secteur-financier/)
+- [DataJournalisme] [Comment les GAFAM pénètrent aussi le secteur financier](https://www.mindmedia.fr/medias-audiovisuel/comment-les-gafam-penetrent-aussi-le-secteur-financier/)
+- [Osint] [Mastercard Allemagne a été alerté dès juillet d’une faille dans son site Priceless Specials](https://www.mindfintech.fr/services-bancaires/mastercard-allemagne-a-ete-alerte-des-juillet-dune-faille-dans-son-site-priceless-specials/)
+
+À l'**Atelier des médias**, chez **RFI**, j'ai réalisé [plusieurs émissions](https://www.rfi.fr/fr/auteur/mathilde-saliou/) en 2018, dont 
+- une intitulée ["Quand le féminisme rencontre le podcast"](https://www.rfi.fr/fr/emission/20180915-quand-le-feminisme-rencontre-le-podcast) 
+- et une autre, ["Les journalistes face au cyberharcèlement"](https://www.rfi.fr/fr/emission/20181013-journalistes-cyberharcelement-insultes-lynchages-menaces-reseaux-sociaux)
+
+Régulièrement pigiste, j'ai travailllé au fil des ans avec des médias comme
 
 - **20 Minutes** : 
   - [Moxy Starr :« Le Web3 est une super opportunité pour les minorités »](https://www.20minutes.fr/20-mint/4008920-20221116-web3-super-opportunite-minorites)
@@ -41,21 +58,3 @@ Régulièrement pigiste, j'ai écrit pour des médias comme
   - [Une université en ligne pour les réfugié.es, c’est le pari de l’association Kiron France](https://www.lesinrocks.com/cheek/kiron-france-web-refugies-etudes-312281-28-07-2017/)
   - [Au Mexique, les filles de Las Morras dénoncent le machisme dans la rue](https://www.lesinrocks.com/cheek/mexique-las-morras-harcelement-rue-312115-20-06-2017/)
   - [Babes Day: d’Austin à Angers, naissance d’une internationale féministe](https://www.lesinrocks.com/cheek/babes-day-austin-angers-feminisme-312489-27-09-2017/)
-
-
-De 2020 à 2022, j'ai été journaliste et coordinatrice de rédaction pour **Flint.media**. J'ai participé à l'élaboration de la stratégie éditoriale et construit divers formats : des courts adaptés à la newsletter quotidienne, des séries explicatives ou encore des dispositifs plus ponctuels dédiés à décortiquer de gros débats de société (comme celui qui entourait à l'époque la question de la vaccination contre la Covid-19). Quelques exemples : 
-- [Série] [Algorithmes, intelligence artificielle : quelle est la différence ?](https://flint.media/posts/190-algorithmes-intelligence-artificielle-quelle-est-la-difference)
-- [Série] [La blockchain pour ceux qui n’y connaissent rien (et pour les autres aussi)](https://flint.media/posts/106-la-blockchain-pour-ceux-qui-n-rsquo-y-connaissent-rien-et-pour-les-autres-aussi)
-- [Debunk] [Vaccins anti-covid : comment débattre sans se battre ?](https://flint.media/posts/96-covid-comment-les-vaccins-agissent-t-ils)
-- [Les Français détestent-ils l’information ?](https://flint.media/posts/29-les-francais-detestent-ils-linformation)
-
-De 2018 à 2020, j'ai été journaliste économique chez **mind Fintech**. J'y ai principalement couvert les activités des Big Tech (GAFAM, BATX) dans le secteur de la banque et de l'assurance, les questions de cybersécurité et les sujets liés à l'écosystème blockchain/crypto. Quelques exemples :
-- [DataJournalisme] [Les “super-apps” chinoises, des écosystèmes financiers à part entière](https://www.mindfintech.fr/services-bancaires/les-super-apps-chinoises-des-ecosystemes-financiers-a-part-entiere/)
-- [Comment de nouveaux médias numériques contribuent à l’éducation financière](https://www.mindfintech.fr/services-bancaires/comment-de-nouveaux-medias-numeriques-contribuent-a-leducation-financiere/)
-- [DataJournalisme] [Crypto-actifs, moyens de paiement, régulation : que disent les activités des GAFAM du secteur financier ?](https://www.mindfintech.fr/services-bancaires/crypto-actifs-moyens-de-paiement-regulation-que-disent-les-activites-des-gafam-du-secteur-financier/)
-- [DataJournalisme] [Comment les GAFAM pénètrent aussi le secteur financier](https://www.mindmedia.fr/medias-audiovisuel/comment-les-gafam-penetrent-aussi-le-secteur-financier/)
-- [Osint] [Mastercard Allemagne a été alerté dès juillet d’une faille dans son site Priceless Specials](https://www.mindfintech.fr/services-bancaires/mastercard-allemagne-a-ete-alerte-des-juillet-dune-faille-dans-son-site-priceless-specials/)
-
-À l'Atelier des médias, chez **RFI**, j'ai réalisé [plusieurs émissions](https://www.rfi.fr/fr/auteur/mathilde-saliou/) en 2018, dont 
-- une intitulée ["Quand le féminisme rencontre le podcast"](https://www.rfi.fr/fr/emission/20180915-quand-le-feminisme-rencontre-le-podcast) 
-- et une autre, ["Les journalistes face au cyberharcèlement"](https://www.rfi.fr/fr/emission/20181013-journalistes-cyberharcelement-insultes-lynchages-menaces-reseaux-sociaux)
