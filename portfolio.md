@@ -57,7 +57,7 @@ Au fil des ans, j'ai aussi travaillé avec des médias comme
   - [J'ai placé mes économies en crypto](https://story.snapchat.com/p/da34de3d-c1bc-45bc-abcb-66aa1a4becdf/902921768443904)
 
 
-**Slate** :
+[**Slate**](https://www.slate.fr/source/170175/mathilde-saliou) :
   - [Boutcha, charnier sur Google, havre de paix sur Yandex](https://www.slate.fr/story/226757/guerre-ukraine-illustre-non-neutralite-moteurs-recherche-russie-propagande)
   - [Comment les algorithmes influencent nos comportements électoraux](https://www.slate.fr/story/226047/election-presidentielle-manipulations-algorithmes-influencent-comportements-electoraux-vote)
 
