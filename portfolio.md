@@ -3,7 +3,7 @@ title: Portfolio
 ---
 Je suis journaliste pour toutes sortes de média, le plus souvent écrits, quelquefois radio ou tv/vidéo.
 
-Actuellement, je travaille principalement chez **Next Inpact**. Tous les articles longs que j'y ai publiés sont [accessibles ici](https://www.nextinpact.com/recherche;q=;a=54;r=;p=1). 
+Actuellement, je travaille principalement chez **Next Inpact**. Tous les articles longs que j'y ai publié sont [accessibles ici](https://www.nextinpact.com/recherche;q=;a=54;r=;p=1). 
 
 En 2022, ma consœur Ingri Bergo et moi avons remporté une bourse du [Journalismfund Europe](https://www.journalismfund.eu/supported-projects/across-europe-revenge-porn-victims-are-taking-digital-abusers) pour enquêter sur le phénomène de la diffusion non consentie d'images à caractère sexuel en Europe. Ç'a donné lieu à plusieurs publications : 
 - dans **the Guardian**, ["‘They said: aren’t you that porn star?’ The woman hunting down image-based abuse"](https://www.theguardian.com/global-development/2022/oct/19/they-said-arent-you-that-porn-star-the-woman-hunting-down-image-based-abuse)
@@ -43,6 +43,7 @@ Régulièrement pigiste, j'ai travailllé au fil des ans avec des médias comme
   - [Incidents au Stade de France : La reconnaissance faciale permettrait-elle vraiment d’améliorer la gestion des foules ?](https://www.20minutes.fr/high-tech/3303651-20220609-incidents-stade-france-reconnaissance-faciale-permettrait-vraiment-ameliorer-gestion-foules)
   - [« Hôtel du Temps » : L'émission de Thierry Ardisson est-elle la télévision de demain ou d'hier ?](https://www.20minutes.fr/arts-stars/television/3280539-20220502-hotel-temps-emission-thierry-ardisson-television-demain-hier)
 
+
 - [**Numerama**](https://www.numerama.com/author/mathildesaliou/) :
   - [Faut-il dire cybercriminalité ou cyberdélinquance ?](https://www.numerama.com/cyberguerre/1144844-faut-il-dire-cybercriminalite-ou-cyberdelinquance.html)
   - [Que signifie « supply chain attack » ?](https://www.numerama.com/cyberguerre/1099428-quest-ce-quune-supply-chain-attack.html)
@@ -50,8 +51,10 @@ Régulièrement pigiste, j'ai travailllé au fil des ans avec des médias comme
   - [Peut-on cartographier internet ?](https://www.numerama.com/tech/533403-peut-on-cartographier-internet.html)
   - [Google Maps nous fait-il perdre le sens de l’orientation ?](https://www.numerama.com/tech/403659-google-maps-nous-fait-il-perdre-le-sens-de-lorientation.html)
 
+
 - **Arte FAQ** :
   - [J'ai placé mes économies en crypto](https://story.snapchat.com/p/da34de3d-c1bc-45bc-abcb-66aa1a4becdf/902921768443904)
+
 
 - **Les Inrocks/Cheek Magazine**
   - [Féminiser Wikipédia, le pari féministe de l’association les sans pagEs](https://www.lesinrocks.com/cheek/les-sans-pages-feminisation-wikipedia-313640-21-06-2018/)
