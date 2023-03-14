@@ -34,7 +34,7 @@ De 2018 à 2020, j'ai été journaliste économique chez **mind Fintech**. J'y a
 
 #### À la pige
 
-Régulièrement pigiste, j'ai travailllé au fil des ans avec des médias comme
+Au fil des ans, j'ai aussi travaillé avec des médias comme
 
 - **20 Minutes** : 
   - [Moxy Starr :« Le Web3 est une super opportunité pour les minorités »](https://www.20minutes.fr/20-mint/4008920-20221116-web3-super-opportunite-minorites)
