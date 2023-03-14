@@ -68,6 +68,9 @@ Au fil des ans, j'ai aussi travaillé avec des médias comme
   - [Peut-on cartographier internet ?](https://www.numerama.com/tech/533403-peut-on-cartographier-internet.html)
   - [Google Maps nous fait-il perdre le sens de l’orientation ?](https://www.numerama.com/tech/403659-google-maps-nous-fait-il-perdre-le-sens-de-lorientation.html)
 
+**Usbek & Rica**
+- [On a assisté à un cours d’informatique pour les réfugiés](https://usbeketrica.com/fr/article/on-a-assiste-a-un-cours-d-informatique-pour-les-refugies)
+
 
 **Les Inrocks / Cheek Magazine**
   - [Féminiser Wikipédia, le pari féministe de l’association les sans pagEs](https://www.lesinrocks.com/cheek/les-sans-pages-feminisation-wikipedia-313640-21-06-2018/)
