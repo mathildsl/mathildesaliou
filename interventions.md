@@ -37,9 +37,11 @@ Table-ronde "Sandrine Holin & Mathilde Saliou, Néolibéralisme, tech et Interne
 
 📰 [Mathilde Saliou : “Quand on se focalise sur Steve Jobs ou Elon Musk, on oublie les profils qui ont fait avancer le milieu”](https://leclaireur.fnac.com/article/242118-mathilde-saliou-quand-on-se-focalise-sur-steve-jobs-ou-elon-musk-on-oublie-les-profils-qui-ont-fait-avancer-le-milieu/), L'Éclaireur Fnac, 16 février 2023
 
+🖥 [Comment le numérique aggrave les inégalités ?](https://www.radiofrance.fr/franceinfo/podcasts/le-talk-franceinfo/comment-le-numerique-agrave-les-inegalites-9674325), Le Talk, France Info, 15 février 2023
+
 📰 [« Technoféminisme : Comment le numérique aggrave les inégalités » : Rencontre avec Mathilde Saliou](https://www.madmoizelle.com/techno-feminisme-comment-le-numerique-aggrave-les-inegalites-rencontre-avec-mathilde-saliou-1493643), Madmoizelle, 11 février 2023
 
-📹 [Présentation de Technoféminisme](https://www.youtube.com/watch?v=DBGSB5oXygg), Grasset
+🖥 [Présentation de Technoféminisme](https://www.youtube.com/watch?v=DBGSB5oXygg), Grasset
 
 
 ##### Médias et représentations
