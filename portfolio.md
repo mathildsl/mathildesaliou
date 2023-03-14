@@ -22,10 +22,10 @@ Actuellement, je travaille principalement chez **Next Inpact**. Tous les article
 En 2022, ma consœur Ingri Bergo et moi avons remporté une bourse du [Journalismfund Europe](https://www.journalismfund.eu/supported-projects/across-europe-revenge-porn-victims-are-taking-digital-abusers) pour enquêter sur le phénomène de la diffusion non consentie d'images à caractère sexuel en Europe. Ç'a donné lieu à plusieurs publications : 
 - dans **the Guardian**, ["‘They said: aren’t you that porn star?’ The woman hunting down image-based abuse"](https://www.theguardian.com/global-development/2022/oct/19/they-said-arent-you-that-porn-star-the-woman-hunting-down-image-based-abuse)
 - dans **Slate**, une série en quatre épisodes : 
- - [«J'ai eu des pensées suicidaires» : les graves conséquences du «revenge porn» pour les victimes](https://www.slate.fr/story/235033/revenge-porn-pornodivulgation-consequences-mortelles-victimes-suicide-depression)
- - [En ligne, on s'échange du «revenge porn» comme des cartes Pokémon](https://www.slate.fr/story/235372/revenge-porn-cartes-pokemon-collection-insultes-pornographie-intimite-femmes-discord-telegram)
- - [Ce qu'il manque à la lutte contre le «revenge porn» pour qu'elle soit vraiment efficace](https://www.slate.fr/story/235688/revenge-porn-consideration-lois-cyberviolences-femmes-cooperation-europe-reseaux-sociaux-sites-pornographiques)
- - [Diffusion d'images intimes : des activistes au secours des victimes](https://www.slate.fr/story/235976/revenge-porn-diffusion-images-intimes-activistes-associations-secours-victimes-traque-reseaux-sociaux)
+  - [«J'ai eu des pensées suicidaires» : les graves conséquences du «revenge porn» pour les victimes](https://www.slate.fr/story/235033/revenge-porn-pornodivulgation-consequences-mortelles-victimes-suicide-depression)
+  - [En ligne, on s'échange du «revenge porn» comme des cartes Pokémon](https://www.slate.fr/story/235372/revenge-porn-cartes-pokemon-collection-insultes-pornographie-intimite-femmes-discord-telegram)
+  - [Ce qu'il manque à la lutte contre le «revenge porn» pour qu'elle soit vraiment efficace](https://www.slate.fr/story/235688/revenge-porn-consideration-lois-cyberviolences-femmes-cooperation-europe-reseaux-sociaux-sites-pornographiques)
+  - [Diffusion d'images intimes : des activistes au secours des victimes](https://www.slate.fr/story/235976/revenge-porn-diffusion-images-intimes-activistes-associations-secours-victimes-traque-reseaux-sociaux)
 
 Régulièrement pigiste, j'ai écrit pour des médias comme **20 Minutes** : 
 - [Moxy Starr :« Le Web3 est une super opportunité pour les minorités »](https://www.20minutes.fr/20-mint/4008920-20221116-web3-super-opportunite-minorites)
