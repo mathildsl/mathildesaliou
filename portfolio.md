@@ -3,7 +3,7 @@ title: Portfolio
 ---
 Je suis journaliste pour toutes sortes de média, le plus souvent écrits, quelquefois radio ou tv/vidéo.
 
-Actuellement, je travaille principalement chez **Next Inpact**. Tous les articles longs que j'y ai publié sont [accessibles ici](https://www.nextinpact.com/recherche;q=;a=54;r=;p=1). 
+Actuellement, je travaille principalement chez **Next Inpact**. Tous les articles longs que j'y publie sont [accessibles ici](https://www.nextinpact.com/recherche;q=;a=54;r=;p=1). 
 
 En 2022, ma consœur Ingri Bergo et moi avons remporté une bourse du [Journalismfund Europe](https://www.journalismfund.eu/supported-projects/across-europe-revenge-porn-victims-are-taking-digital-abusers) pour enquêter sur le phénomène de la diffusion non consentie d'images à caractère sexuel en Europe. Ç'a donné lieu à plusieurs publications : 
 - dans **the Guardian**, ["‘They said: aren’t you that porn star?’ The woman hunting down image-based abuse"](https://www.theguardian.com/global-development/2022/oct/19/they-said-arent-you-that-porn-star-the-woman-hunting-down-image-based-abuse)
