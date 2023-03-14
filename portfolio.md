@@ -26,7 +26,7 @@ De 2020 à 2022, j'ai été journaliste et coordinatrice de rédaction pour **Fl
 - [Pourquoi les influenceurs d’extrême-droite font-ils polémique ?](https://flint.media/posts/23-pourquoi-la-video-de-linfluenceur-dextreme-droite-papacito-fait-elle-polemique)
 - [Les Français détestent-ils l’information ?](https://flint.media/posts/29-les-francais-detestent-ils-linformation)
 
-De 2018 à 2020, j'ai été journaliste économique chez **mind Fintech**. J'y ai principalement couvert les activités des Big Tech (GAFAM, BATX) dans le secteur de la banque et de l'assurance, les questions de cybersécurité et les sujets liés à l'écosystème blockchain/crypto. Quelques exemples :
+De début 2019 à fin 2020, j'ai été journaliste économique chez **mind Fintech**. J'y ai principalement couvert les activités des Big Tech (GAFAM, BATX) dans le secteur de la banque et de l'assurance, les questions de cybersécurité et les sujets liés à l'écosystème blockchain/crypto. Quelques exemples :
 - [DataJournalisme] [Les “super-apps” chinoises, des écosystèmes financiers à part entière](https://www.mindfintech.fr/services-bancaires/les-super-apps-chinoises-des-ecosystemes-financiers-a-part-entiere/)
 - [Comment de nouveaux médias numériques contribuent à l’éducation financière](https://www.mindfintech.fr/services-bancaires/comment-de-nouveaux-medias-numeriques-contribuent-a-leducation-financiere/)
 - [DataJournalisme] [Crypto-actifs, moyens de paiement, régulation : que disent les activités des GAFAM du secteur financier ?](https://www.mindfintech.fr/services-bancaires/crypto-actifs-moyens-de-paiement-regulation-que-disent-les-activites-des-gafam-du-secteur-financier/)
@@ -41,7 +41,7 @@ De 2018 à 2020, j'ai été journaliste économique chez **mind Fintech**. J'y a
 
 Au fil des ans, j'ai aussi travaillé avec des médias comme
 
-- **20 Minutes** : 
+**20 Minutes** : 
   - [Moxy Starr :« Le Web3 est une super opportunité pour les minorités »](https://www.20minutes.fr/20-mint/4008920-20221116-web3-super-opportunite-minorites)
   - [Frédéric Cavazza : « Le Web3 ne résoudra pas la fracture numérique »](https://www.20minutes.fr/20-mint/4008141-20221115-frederic-cavazza-web3-resoudra-fracture-numerique)
   - [« Les âges d’or viennent après des périodes d’inégalité accrue et de prospérité pour une minorité », selon Carlota Perez](« Les âges d’or viennent après des périodes d’inégalité accrue et de prospérité pour une minorité », selon Carlota Perez)
@@ -53,11 +53,11 @@ Au fil des ans, j'ai aussi travaillé avec des médias comme
   - [« Hôtel du Temps » : L'émission de Thierry Ardisson est-elle la télévision de demain ou d'hier ?](https://www.20minutes.fr/arts-stars/television/3280539-20220502-hotel-temps-emission-thierry-ardisson-television-demain-hier)
 
 
-- **Arte FAQ** :
+**Arte FAQ** :
   - [J'ai placé mes économies en crypto](https://story.snapchat.com/p/da34de3d-c1bc-45bc-abcb-66aa1a4becdf/902921768443904)
 
 
-- **Slate** :
+**Slate** :
   - [Boutcha, charnier sur Google, havre de paix sur Yandex](https://www.slate.fr/story/226757/guerre-ukraine-illustre-non-neutralite-moteurs-recherche-russie-propagande)
   - [Comment les algorithmes influencent nos comportements électoraux](https://www.slate.fr/story/226047/election-presidentielle-manipulations-algorithmes-influencent-comportements-electoraux-vote)
 
@@ -71,7 +71,7 @@ Au fil des ans, j'ai aussi travaillé avec des médias comme
   - [Google Maps nous fait-il perdre le sens de l’orientation ?](https://www.numerama.com/tech/403659-google-maps-nous-fait-il-perdre-le-sens-de-lorientation.html)
 
 
-- **Les Inrocks / Cheek Magazine**
+**Les Inrocks / Cheek Magazine**
   - [Féminiser Wikipédia, le pari féministe de l’association les sans pagEs](https://www.lesinrocks.com/cheek/les-sans-pages-feminisation-wikipedia-313640-21-06-2018/)
   - [Pourquoi y a-t-il aussi peu de diversité dans la tech?](https://www.lesinrocks.com/cheek/diversite-mixite-tech-312373-15-09-2017/)
   - [Babes Day: d’Austin à Angers, naissance d’une internationale féministe](https://www.lesinrocks.com/cheek/babes-day-austin-angers-feminisme-312489-27-09-2017/)
@@ -83,4 +83,4 @@ Au fil des ans, j'ai aussi travaillé avec des médias comme
   - [Avec Empow’Her, Soazig Barthélémy aide les femmes à devenir entrepreneures
 ](https://www.lesinrocks.com/cheek/empowher-soazig-barthelemy-femmes-entrepreneures-312045-23-05-2017/)
 
-J'ai aussi travaillé pour _Industrie et technologies_, _L'Étudiant_, Petit Web, _Nichons nous dans l'Internet_, etc.
+J'ai aussi travaillé pour **Industrie et technologies**, **L'Étudiant**, **Petit Web**, **Nichons nous dans l'Internet**, etc.
