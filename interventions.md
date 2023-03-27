@@ -3,15 +3,15 @@ title: Interventions
 ---
 Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/technofeminisme-9782246828822), pour parler tech ou pour évoquer la place des femmes dans les médias, il m'arrive d'être interviewée, de participer à voire d'animer des tables rondes.
 
-## À venir
+# À venir
 
 Table-ronde "Cyberharcèlement : que font les rédactions ?", partenariat entre Prenons la Une et Nothing2Hide. Le 4 avril 2023, j'animerai la discussion entre nos invité·es Guylaine Germain de l'[AJP](https://www.ajp.be/), Mathilde Goupil de France TV, Ivan Valerio de BFMTV, la documentariste Florence Hainaut et une responsable de Radio Canada. [Inscription](https://www.helloasso.com/associations/prenons-la-une/evenements/cyberharcelement-que-font-les-redactions)
 
 Table-ronde "Lutter contre les bulles informationnelles : comment éviter que les algorithmes nous imposent un menu unique ?", Assises internationales du journalisme, Tours, 30 mars 2023. [Programme](https://journalisme.com/tours/programmation-assises-de-tours/)
 
-## Passées
+# Passées
 
-#### Médias
+### Médias
 
 ##### Cybersécurité
 
@@ -34,13 +34,13 @@ Table-ronde "Lutter contre les bulles informationnelles : comment éviter que le
 
 📰 ["Inclusion dans les médias : un double déséquilibre à combler"](https://www.medianes.org/inclusion-dans-les-medias-un-double-desequilibre-a-combler/), Médianes, 23 février 2022
 
-#### Événements
+### Événements
 
 Table-ronde "Résister au numérique : techno-luttes et féminisme", Mk2 Bibliothèque, Paris, 16 mars 2023.
 
 Table-ronde "Sandrine Holin & Mathilde Saliou, Néolibéralisme, tech et Internet face au féminisme", Bibliothèques idéales "Le temps des féminismes", Strasbourg, 19 mars 2023.
 
-#### Au sujet de _Technoféminisme, comment le numérique aggrave les inégalités_
+### Au sujet de _Technoféminisme, comment le numérique aggrave les inégalités_
 
 📰 [« La tech est une industrie qui pose des problèmes pour le droit des femmes »](https://www.numerama.com/politique/1295330-il-faut-plus-de-figures-de-femmes-associees-a-la-tech-dans-nos-imaginaires.html), Numerama, 8 mars 2023
 
