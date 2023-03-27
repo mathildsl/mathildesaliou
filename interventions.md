@@ -60,6 +60,6 @@ Table-ronde "Lutter contre les bulles informationnelles : comment éviter que le
 
 ##### Événements
 
-Table-ronde "Résister au numérique : techno-luttes et féminisme", Mk2 Bibliothèque, Paris, 16 mars 2023. [Inscription](https://www.mk2.com/film/mathilde-saliou-nicolas-celnik-fabien-benoit-resister-numerique)
+Table-ronde "Résister au numérique : techno-luttes et féminisme", Mk2 Bibliothèque, Paris, 16 mars 2023.
 
-Table-ronde "Sandrine Holin & Mathilde Saliou, Néolibéralisme, tech et Internet face au féminisme", Bibliothèques idéales "Le temps des féminismes", Strasbourg, 19 mars 2023. [Programme](https://biblideales.fr/)
+Table-ronde "Sandrine Holin & Mathilde Saliou, Néolibéralisme, tech et Internet face au féminisme", Bibliothèques idéales "Le temps des féminismes", Strasbourg, 19 mars 2023.
