@@ -7,7 +7,8 @@ Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/tec
 
 Table-ronde "Lutter contre les bulles informationnelles : comment éviter que les algorithmes nous imposent un menu unique ?", Assises internationales du journalisme, Tours, 30 mars 2023. [Programme](https://journalisme.com/tours/programmation-assises-de-tours/)
 
-Table-ronde "Cyberharcèlement : que font les rédactions ?", partenariat entre Prenons la Une et Nothing2Hide. Le 4 avril 2023, j'animerai la discussion entre nos invité·es Guylaine Germain de l'[AJP](https://www.ajp.be/), Mathilde Goupil de France TV, Ivan Valerio de BFMTV, la documentariste Florence Hainaut et une responsable de Radio Canada. [Inscription](https://www.helloasso.com/associations/prenons-la-une/evenements/cyberharcelement-que-font-les-redactions)
+Table-ronde "Cyberharcèlement : que font les rédactions ?", partenariat entre [Prenons la Une](https://prenonslaune.fr/) et [Nothing2Hide](https://nothing2hide.org/fr/). 
+Le 4 avril 2023, j'animerai la discussion entre nos invité·es Guylaine Germain de l'[AJP](https://www.ajp.be/), Mathilde Goupil de France TV, Ivan Valerio de BFMTV, la documentariste Florence Hainaut et une responsable de Radio Canada. [Inscription](https://www.helloasso.com/associations/prenons-la-une/evenements/cyberharcelement-que-font-les-redactions)
 
 Café littéraire, Forum du livre, Saint-Louis, 14 mai 2023. [Programme](https://forumlivre.fr/le-forum-2022/)
 
