@@ -7,11 +7,13 @@ Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/tec
 
 Table-ronde "Cyberharcèlement : que font les rédactions ?", partenariat entre Prenons la Une et Nothing2Hide. Le 4 avril 2023, j'animerai la discussion entre nos invité·es Guylaine Germain de l'[AJP](https://www.ajp.be/), Mathilde Goupil de France TV, Ivan Valerio de BFMTV, la documentariste Florence Hainaut et une responsable de Radio Canada. [Inscription](https://www.helloasso.com/associations/prenons-la-une/evenements/cyberharcelement-que-font-les-redactions)
 
-Table-ronde "Résister au numérique : techno-luttes et féminisme", Mk2 Bibliothèque, Paris, 16 mars 2023. [Inscription](https://www.mk2.com/film/mathilde-saliou-nicolas-celnik-fabien-benoit-resister-numerique)
-
-Table-ronde "Sandrine Holin & Mathilde Saliou, Néolibéralisme, tech et Internet face au féminisme", Bibliothèques idéales "Le temps des féminismes", Strasbourg, 19 mars 2023. [Programme](https://biblideales.fr/)
+Table-ronde "Lutter contre les bulles informationnelles : comment éviter que les algorithmes nous imposent un menu unique ?", Assises internationales du journalisme, Tours, 30 mars 2023. [Programme](https://journalisme.com/tours/programmation-assises-de-tours/)
 
 ### Passées
+
+##### Cybersécurité
+
+🖥 [Piratage de Vinted : les cagnottes en ligne, point faible de la sécurité numérique ?](https://www.tf1info.fr/conso/video-piratage-de-vinted-les-cagnottes-en-ligne-point-faible-de-la-securite-numerique-2252084.html), TF1, 26 mars 2023
 
 ##### Intelligence artificielle
 
