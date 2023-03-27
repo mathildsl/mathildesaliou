@@ -55,3 +55,9 @@ Table-ronde "Sandrine Holin & Mathilde Saliou, Néolibéralisme, tech et Interne
 ##### Médias et représentations
 
 📰 ["Inclusion dans les médias : un double déséquilibre à combler"](https://www.medianes.org/inclusion-dans-les-medias-un-double-desequilibre-a-combler/), Médianes, 23 février 2022
+
+##### Événements
+
+Table-ronde "Résister au numérique : techno-luttes et féminisme", Mk2 Bibliothèque, Paris, 16 mars 2023. [Inscription](https://www.mk2.com/film/mathilde-saliou-nicolas-celnik-fabien-benoit-resister-numerique)
+
+Table-ronde "Sandrine Holin & Mathilde Saliou, Néolibéralisme, tech et Internet face au féminisme", Bibliothèques idéales "Le temps des féminismes", Strasbourg, 19 mars 2023. [Programme](https://biblideales.fr/)
