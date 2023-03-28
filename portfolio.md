@@ -4,6 +4,8 @@ title: Portfolio
 Je suis journaliste pour toutes sortes de média, le plus souvent écrits, quelquefois radio ou tv/vidéo.
 
 Actuellement, je travaille chez **Next Inpact**. Tous les articles longs que j'y publie sont [accessibles ici](https://www.nextinpact.com/recherche;q=;a=54;r=;p=1). Une petite sélection tout de même :
+  - [Mesurer l'empreinte environnementale du numérique, un vrai casse-tête](https://www.nextinpact.com/article/71228/mesurer-empreinte-environnementale-numerique-vrai-casse-tete)
+  - [Si une banque fait faillite, les fonds des particuliers sont-ils sécurisés ?](https://www.nextinpact.com/article/71229/si-banque-fait-faillite-fonds-particuliers-sont-ils-securises)
   - [Peut-on corriger les biais des algorithmes ?](https://www.nextinpact.com/article/70943/peut-on-corriger-biais-algorithmes)
   - [Qu'implique la construction d'un smartphone équitable ?](https://www.nextinpact.com/article/70871/quimplique-construction-dun-smartphone-equitable)
   - [Milliardaires de la tech : pourquoi altruisme efficace et longtermisme font-ils débat ?](https://www.nextinpact.com/article/70712/milliardaires-tech-pourquoi-altruisme-efficace-et-longtermisme-font-ils-debat)
