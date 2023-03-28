@@ -14,30 +14,6 @@ Café littéraire, Forum du livre, Saint-Louis, 14 mai 2023. [Programme](https:/
 
 ## Passées
 
-### Médias
-
-##### > Cybersécurité
-🖥 [Piratage de Vinted : les cagnottes en ligne, point faible de la sécurité numérique ?](https://www.tf1info.fr/conso/video-piratage-de-vinted-les-cagnottes-en-ligne-point-faible-de-la-securite-numerique-2252084.html), TF1, 26 mars 2023
-
-##### > Intelligence artificielle
-📰 [Journée des droits des femmes : pourquoi de nombreux algorithmes sont sexistes](https://www.lesechos.fr/tech-medias/hightech/journee-de-la-femme-pourquoi-de-nombreux-algorithmes-sont-sexistes-1912930), Les Échos, 7 mars 2023
-
-🖥 ["IA : "Demandez un portrait de femme, vous aurez un décolleté plongeant"](https://www.arretsurimages.net/emissions/arret-sur-images/ia-demandez-un-portrait-de-femme-vous-aurez-un-decollete-plongeant), Arrêt sur images, 20 janvier 2023
-
-🎧 ["La malédiction des algorithmes"](https://frenchspin.fr/2022/05/rdv-tech-461-la-malediction-des-algorithmes/), RDV Tech 461, 31 mai 2022
-
-##### > Tech et représentations
-📰 [Les robots sexuels entretiennent-ils la culture du viol ?](https://www.madmoizelle.com/les-robots-sexuels-entretiennent-ils-la-culturel-du-viol-1491411), Madmoizelle, 7 février 2023
-
-
-##### > Médias et représentations
-📰 ["Inclusion dans les médias : un double déséquilibre à combler"](https://www.medianes.org/inclusion-dans-les-medias-un-double-desequilibre-a-combler/), Médianes, 23 février 2022
-
-### Événements
-Table-ronde "Résister au numérique : techno-luttes et féminisme", Mk2 Bibliothèque, Paris, 16 mars 2023.
-
-Table-ronde "Sandrine Holin & Mathilde Saliou, Néolibéralisme, tech et Internet face au féminisme", Bibliothèques idéales "Le temps des féminismes", Strasbourg, 19 mars 2023.
-
 ### Technoféminisme, comment le numérique aggrave les inégalités
 📰 [« La tech est une industrie qui pose des problèmes pour le droit des femmes »](https://www.numerama.com/politique/1295330-il-faut-plus-de-figures-de-femmes-associees-a-la-tech-dans-nos-imaginaires.html), Numerama, 8 mars 2023
 
@@ -62,3 +38,27 @@ Table-ronde "Sandrine Holin & Mathilde Saliou, Néolibéralisme, tech et Interne
 📰 [« Technoféminisme : Comment le numérique aggrave les inégalités » : Rencontre avec Mathilde Saliou](https://www.madmoizelle.com/techno-feminisme-comment-le-numerique-aggrave-les-inegalites-rencontre-avec-mathilde-saliou-1493643), Madmoizelle, 11 février 2023
 
 🖥 [Présentation de Technoféminisme](https://www.youtube.com/watch?v=DBGSB5oXygg), Grasset
+
+### Médias
+
+##### > Cybersécurité
+🖥 [Piratage de Vinted : les cagnottes en ligne, point faible de la sécurité numérique ?](https://www.tf1info.fr/conso/video-piratage-de-vinted-les-cagnottes-en-ligne-point-faible-de-la-securite-numerique-2252084.html), TF1, 26 mars 2023
+
+##### > Intelligence artificielle
+📰 [Journée des droits des femmes : pourquoi de nombreux algorithmes sont sexistes](https://www.lesechos.fr/tech-medias/hightech/journee-de-la-femme-pourquoi-de-nombreux-algorithmes-sont-sexistes-1912930), Les Échos, 7 mars 2023
+
+🖥 ["IA : "Demandez un portrait de femme, vous aurez un décolleté plongeant"](https://www.arretsurimages.net/emissions/arret-sur-images/ia-demandez-un-portrait-de-femme-vous-aurez-un-decollete-plongeant), Arrêt sur images, 20 janvier 2023
+
+🎧 ["La malédiction des algorithmes"](https://frenchspin.fr/2022/05/rdv-tech-461-la-malediction-des-algorithmes/), RDV Tech 461, 31 mai 2022
+
+##### > Tech et représentations
+📰 [Les robots sexuels entretiennent-ils la culture du viol ?](https://www.madmoizelle.com/les-robots-sexuels-entretiennent-ils-la-culturel-du-viol-1491411), Madmoizelle, 7 février 2023
+
+
+##### > Médias et représentations
+📰 ["Inclusion dans les médias : un double déséquilibre à combler"](https://www.medianes.org/inclusion-dans-les-medias-un-double-desequilibre-a-combler/), Médianes, 23 février 2022
+
+### Événements
+Table-ronde "Résister au numérique : techno-luttes et féminisme", Mk2 Bibliothèque, Paris, 16 mars 2023.
+
+Table-ronde "Sandrine Holin & Mathilde Saliou, Néolibéralisme, tech et Internet face au féminisme", Bibliothèques idéales "Le temps des féminismes", Strasbourg, 19 mars 2023.
