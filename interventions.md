@@ -15,6 +15,9 @@ Café littéraire, Forum du livre, Saint-Louis, 14 mai 2023. [Programme](https:/
 ## Passées
 
 ### Technoféminisme, comment le numérique aggrave les inégalités
+
+📰 [INTERVIEW. “Il faut organiser de vastes campagnes pour former les filles et les femmes aux bases de la cybersécurité” ](https://87eot.r.ag.d.sendibm3.com/mk/mr/50fMaIvH3r6uz802MfjeUrDweYbrxeaQ2jZEzLA5MpZGLmjaujt712RnT0jXG0A6GZiH6rWN1QxuMtHzLa9dC0Pi6bspfesUMBvPjhdL2RW8Q1nNE8T_uCAxzeoC1gCVOVAzZOav), Badass la newsletter, 25 mars 2023
+
 📰 [« La tech est une industrie qui pose des problèmes pour le droit des femmes »](https://www.numerama.com/politique/1295330-il-faut-plus-de-figures-de-femmes-associees-a-la-tech-dans-nos-imaginaires.html), Numerama, 8 mars 2023
 
 🎧 [Avec « Technoféminisme », Mathilde Saliou analyse comment le numérique creuse les inégalités](https://www.nova.fr/tech/avec-technofeminisme-mathilde-saliou-analyse-comment-le-numerique-creuse-les-inegalites-219453-06-03-2023/), Radio Nova, 6 mars 2023
