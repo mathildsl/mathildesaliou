@@ -77,12 +77,9 @@ Au fil des ans, j'ai aussi travaillé avec des médias comme
 **Les Inrocks / Cheek Magazine**
   - [Féminiser Wikipédia, le pari féministe de l’association les sans pagEs](https://www.lesinrocks.com/cheek/les-sans-pages-feminisation-wikipedia-313640-21-06-2018/)
   - [Pourquoi y a-t-il aussi peu de diversité dans la tech?](https://www.lesinrocks.com/cheek/diversite-mixite-tech-312373-15-09-2017/)
-  - [Babes Day: d’Austin à Angers, naissance d’une internationale féministe](https://www.lesinrocks.com/cheek/babes-day-austin-angers-feminisme-312489-27-09-2017/)
   - [Une université en ligne pour les réfugié.es, c’est le pari de l’association Kiron France](https://www.lesinrocks.com/cheek/kiron-france-web-refugies-etudes-312281-28-07-2017/)
   - [Eve Plenel lutte infatigablement contre le sida](https://www.lesinrocks.com/cheek/eve-plenel-lutte-contre-sida-312300-26-07-2017/)
   - [Céline Lazorthes, l’entrepreneure multitâches qui a inventé la cagnotte Leetchi](https://www.lesinrocks.com/cheek/celine-lazhortes-leetchi-french-tech-312245-11-07-2017/)
-  - [L’accouchement à domicile, une pratique de “sorcière”?](https://www.lesinrocks.com/cheek/accouchement-domicile-isabelle-koenig-312221-30-06-2017/)
-  - [Au Mexique, les filles de Las Morras dénoncent le machisme dans la rue](https://www.lesinrocks.com/cheek/mexique-las-morras-harcelement-rue-312115-20-06-2017/)
   - [Avec Empow’Her, Soazig Barthélémy aide les femmes à devenir entrepreneures
 ](https://www.lesinrocks.com/cheek/empowher-soazig-barthelemy-femmes-entrepreneures-312045-23-05-2017/)
 
