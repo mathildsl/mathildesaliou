@@ -16,7 +16,7 @@ Café littéraire, Forum du livre, Saint-Louis, 14 mai 2023. [Programme](https:/
 
 ### Technoféminisme, comment le numérique aggrave les inégalités
 
-📰 [INTERVIEW. “Il faut organiser de vastes campagnes pour former les filles et les femmes aux bases de la cybersécurité” ](https://87eot.r.ag.d.sendibm3.com/mk/mr/50fMaIvH3r6uz802MfjeUrDweYbrxeaQ2jZEzLA5MpZGLmjaujt712RnT0jXG0A6GZiH6rWN1QxuMtHzLa9dC0Pi6bspfesUMBvPjhdL2RW8Q1nNE8T_uCAxzeoC1gCVOVAzZOav), Badass la newsletter, 25 mars 2023
+📰 [“Il faut organiser de vastes campagnes pour former les filles et les femmes aux bases de la cybersécurité” ](https://87eot.r.ag.d.sendibm3.com/mk/mr/50fMaIvH3r6uz802MfjeUrDweYbrxeaQ2jZEzLA5MpZGLmjaujt712RnT0jXG0A6GZiH6rWN1QxuMtHzLa9dC0Pi6bspfesUMBvPjhdL2RW8Q1nNE8T_uCAxzeoC1gCVOVAzZOav), Badass la newsletter, 25 mars 2023
 
 📰 [Rencontre avec Mathilde Saliou : « Les femmes perdent en liberté d’expression sur internet »](https://maze.fr/2023/03/rencontre-avec-mathilde-saliou-les-femmes-perdent-en-liberte-dexpression-sur-internet/), Maze, 20 mars 2023
 
