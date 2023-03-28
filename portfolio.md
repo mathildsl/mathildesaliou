@@ -3,7 +3,7 @@ title: Portfolio
 ---
 Je suis journaliste pour toutes sortes de média, le plus souvent écrits, quelquefois radio ou tv/vidéo.
 
-Actuellement, je travaille principalement chez **Next Inpact**. Tous les articles longs que j'y publie sont [accessibles ici](https://www.nextinpact.com/recherche;q=;a=54;r=;p=1). Une petite sélection tout de même :
+Actuellement, je travaille chez **Next Inpact**. Tous les articles longs que j'y publie sont [accessibles ici](https://www.nextinpact.com/recherche;q=;a=54;r=;p=1). Une petite sélection tout de même :
   - [Peut-on corriger les biais des algorithmes ?](https://www.nextinpact.com/article/70943/peut-on-corriger-biais-algorithmes)
   - [Qu'implique la construction d'un smartphone équitable ?](https://www.nextinpact.com/article/70871/quimplique-construction-dun-smartphone-equitable)
   - [Milliardaires de la tech : pourquoi altruisme efficace et longtermisme font-ils débat ?](https://www.nextinpact.com/article/70712/milliardaires-tech-pourquoi-altruisme-efficace-et-longtermisme-font-ils-debat)
