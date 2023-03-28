@@ -3,7 +3,7 @@ title: Accueil
 ---
 # Bienvenue !
 
-Je suis **Mathilde Saliou**, journaliste et autrice, spécialisée dans le numérique. J'étudie les effets des technologies sur la société et la manière dont cette dernière modèle les innovations en cours. Dit autrement, je couvre des thématiques liées à la tech, à l'information, ainsi que les questions liées au maintien et à la lutte contre les inégalités dans les médias et les mondes connectés.
+Je suis **Mathilde Saliou**, journaliste et autrice, spécialisée dans le numérique. J'étudie les effets des technologies sur la société et la manière dont cette dernière modèle les innovations en cours. Dit autrement, je couvre des thématiques liées à la tech, à l'information, ainsi que des questions liées au maintien et à la lutte contre les inégalités dans les médias et les mondes connectés.
 
 Adepte de vulgarisation et soucieuse des questions d'éducation aux médias et à l'information (EMI), je réfléchis aux formats les mieux à même de transmettre de l'information en fonction des publics visés. Pour l'association Prenons la Une, j'ai aussi créé et j'anime des formations de sensibilisation au cyberharcèlement.
 
