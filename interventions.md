@@ -14,6 +14,8 @@ Café littéraire, Forum du livre, Saint-Louis, 14 mai 2023. [Programme](https:/
 
 ## Passées
 
+Passages médias 📰 écrits, 🎧 radio, 🖥 vidéo :
+
 ### Technoféminisme, comment le numérique aggrave les inégalités
 
 📰 [“Il faut organiser de vastes campagnes pour former les filles et les femmes aux bases de la cybersécurité” ](https://87eot.r.ag.d.sendibm3.com/mk/mr/50fMaIvH3r6uz802MfjeUrDweYbrxeaQ2jZEzLA5MpZGLmjaujt712RnT0jXG0A6GZiH6rWN1QxuMtHzLa9dC0Pi6bspfesUMBvPjhdL2RW8Q1nNE8T_uCAxzeoC1gCVOVAzZOav), Badass la newsletter, 25 mars 2023
