@@ -9,6 +9,7 @@ Actuellement, je travaille chez **Next Inpact**. Tous les articles longs que j'y
   - [Peut-on corriger les biais des algorithmes ?](https://www.nextinpact.com/article/70943/peut-on-corriger-biais-algorithmes)
   - [Qu'implique la construction d'un smartphone équitable ?](https://www.nextinpact.com/article/70871/quimplique-construction-dun-smartphone-equitable)
   - [Milliardaires de la tech : pourquoi altruisme efficace et longtermisme font-ils débat ?](https://www.nextinpact.com/article/70712/milliardaires-tech-pourquoi-altruisme-efficace-et-longtermisme-font-ils-debat)
+  - [Comment les mouvements politiques français jouent des techniques de manipulation de l'information sur les réseaux sociaux](https://www.nextinpact.com/article/70132/comment-mouvements-politiques-francais-jouent-techniques-manipulation-information-sur-reseaux-sociaux)
 
 En 2022, ma consœur Ingri Bergo et moi avons remporté une bourse du [Journalismfund Europe](https://www.journalismfund.eu/supported-projects/across-europe-revenge-porn-victims-are-taking-digital-abusers) pour enquêter sur le phénomène de la diffusion non consentie d'images à caractère sexuel en Europe. Ç'a donné lieu à plusieurs publications : 
 - dans **the Guardian**, ["‘They said: aren’t you that porn star?’ The woman hunting down image-based abuse"](https://www.theguardian.com/global-development/2022/oct/19/they-said-arent-you-that-porn-star-the-woman-hunting-down-image-based-abuse)
