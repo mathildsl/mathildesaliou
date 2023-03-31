@@ -17,7 +17,6 @@ Café littéraire, Forum du livre, Saint-Louis, 14 mai 2023. [Programme](https:/
 Interventions IRL et passages médias 📰 écrits, 🎧 radio, 🖥 vidéo :
 
 ### Médias
-
 ##### > Intelligence artificielle
 🖥 ["Intelligence Artificielle : sommes-nous en danger ?"](https://www.france.tv/france-5/c-ce-soir/c-ce-soir-saison-3/4725334-intelligence-artificielle-sommes-nous-en-danger.html), C ce soir, France 5, 31 mars 2023
 
