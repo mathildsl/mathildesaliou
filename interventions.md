@@ -5,10 +5,10 @@ Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/tec
 
 ## À venir
 
-Table-ronde "Lutter contre les bulles informationnelles : comment éviter que les algorithmes nous imposent un menu unique ?", Assises internationales du journalisme, Tours, 30 mars 2023. [Programme](https://journalisme.com/tours/programmation-assises-de-tours/)
-
 Table-ronde "Cyberharcèlement : que font les rédactions ?", partenariat entre [Prenons la Une](https://prenonslaune.fr/) et [Nothing2Hide](https://nothing2hide.org/fr/).
 Le 4 avril 2023, j'animerai la discussion entre nos invité·es Guylaine Germain de l'[AJP](https://www.ajp.be/), Mathilde Goupil de France TV, Ivan Valerio de BFMTV et la documentariste Florence Hainaut. [Inscription](https://www.helloasso.com/associations/prenons-la-une/evenements/cyberharcelement-que-font-les-redactions)
+
+Keynote, MiXiT, Lyon, 14 avril 2023. [Programme](https://mixitconf.org/2023)
 
 Café littéraire, Forum du livre, Saint-Louis, 14 mai 2023. [Programme](https://forumlivre.fr/le-forum-2022/)
 
@@ -67,6 +67,8 @@ Interventions IRL et passages médias 📰 écrits, 🎧 radio, 🖥 vidéo :
 🖥 [Présentation de Technoféminisme](https://www.youtube.com/watch?v=DBGSB5oXygg), Grasset
 
 ### Événements
+Table-ronde "Lutter contre les bulles informationnelles : comment éviter que les algorithmes nous imposent un menu unique ?", Assises internationales du journalisme, Tours, 30 mars 2023. [Programme](https://journalisme.com/tours/programmation-assises-de-tours/)
+
 Table-ronde "Résister au numérique : techno-luttes et féminisme", Mk2 Bibliothèque, Paris, 16 mars 2023.
 
 Table-ronde "Sandrine Holin & Mathilde Saliou, Néolibéralisme, tech et Internet face au féminisme", Bibliothèques idéales "Le temps des féminismes", Strasbourg, 19 mars 2023.
