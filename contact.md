@@ -10,4 +10,4 @@ Je suis joignable sur tout un tas d'applications de ce vaste et chouette réseau
 Vous pouvez me demander mon téléphone (pour WhatsApp, Telegram, Signal) ou un CV via l'un des canaux cités ci-dessus.
 
 __
-Ce site a été construit vraiment très simplement grâce à [Scribouilli](http://scribouilli.lechappeebelle.team/).
+Ce site a été construit grâce à [Scribouilli](http://scribouilli.lechappeebelle.team/).
