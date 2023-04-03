@@ -37,6 +37,8 @@ Interventions IRL et passages médias 📰 écrits, 🎧 radio, 🖥 vidéo :
 
 ### Technoféminisme, comment le numérique aggrave les inégalités
 
+🎧 [Les inégalités dans le numérique](https://www.rts.ch/audio-podcast/2023/audio/les-inegalites-dans-le-numerique-26113900.html), Radio Télé Suisse, 3 avril 2023
+
 📰 [“Il faut organiser de vastes campagnes pour former les filles et les femmes aux bases de la cybersécurité” ](https://87eot.r.ag.d.sendibm3.com/mk/mr/50fMaIvH3r6uz802MfjeUrDweYbrxeaQ2jZEzLA5MpZGLmjaujt712RnT0jXG0A6GZiH6rWN1QxuMtHzLa9dC0Pi6bspfesUMBvPjhdL2RW8Q1nNE8T_uCAxzeoC1gCVOVAzZOav), Badass la newsletter, 25 mars 2023
 
 📰 [Rencontre avec Mathilde Saliou : « Les femmes perdent en liberté d’expression sur internet »](https://maze.fr/2023/03/rencontre-avec-mathilde-saliou-les-femmes-perdent-en-liberte-dexpression-sur-internet/), Maze, 20 mars 2023
