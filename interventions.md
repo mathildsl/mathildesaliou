@@ -35,6 +35,7 @@ Interventions IRL et passages médias 📰 écrits, 🎧 radio, 📺 vidéo :
 📰 ["Inclusion dans les médias : un double déséquilibre à combler"](https://www.medianes.org/inclusion-dans-les-medias-un-double-desequilibre-a-combler/), Médianes, 23 février 2022
 
 ### Technoféminisme, comment le numérique aggrave les inégalités
+🎧 [Technoféminisme : une plongée dans le numérique et ses inégalités - Partie 1](https://shows.acast.com/siecle-digital-culture-numerique/episodes/technofeminisme-une-plongee-dans-le-numerique-et-ses-inegali), Culture Numérique, Siècle Digital, 10 avril 2023
 
 🎧 [Les inégalités dans le numérique](https://www.rts.ch/audio-podcast/2023/audio/les-inegalites-dans-le-numerique-26113900.html), Question Genre, Radio Télé Suisse, 3 avril 2023
 
