@@ -5,8 +5,6 @@ Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/tec
 
 ## À venir
 
-Keynote, MiXiT, Lyon, 14 avril 2023. [Programme](https://mixitconf.org/2023)
-
 Café littéraire, Forum du livre, Saint-Louis, 14 mai 2023. [Programme](https://forumlivre.fr/le-forum-2022/)
 
 Rencontre, Toulouse Hacker Space Factory, Toulouse, 27 mai 2023. [Programme](https://23.thsf.net/thsf-2023/schedule/#2023-05-27)
@@ -68,6 +66,8 @@ Interventions IRL et passages médias 📰 écrits, 🎧 radio, 📺 vidéo :
 📺 [Présentation de Technoféminisme](https://www.youtube.com/watch?v=DBGSB5oXygg), Grasset
 
 ### Événements
+Keynote, MiXiT, Lyon, 14 avril 2023. [Programme](https://mixitconf.org/2023)
+
 Table-ronde "Cyberharcèlement : que font les rédactions ?", partenariat entre [Prenons la Une](https://prenonslaune.fr/) et [Nothing2Hide](https://nothing2hide.org/fr/).
 Le 4 avril 2023, j'animerai la discussion entre nos invité·es Guylaine Germain de l'[AJP](https://www.ajp.be/), Mathilde Goupil de France TV, Ivan Valerio de BFMTV et la documentariste Florence Hainaut. [Inscription](https://www.helloasso.com/associations/prenons-la-une/evenements/cyberharcelement-que-font-les-redactions)
 > 🎧 [[ Podcast] Cyberharcèlement : que font les rédactions ?](https://prenonslaune.fr/2023/04/podcast-cyberharcelement-que-font-les-redactions/)
