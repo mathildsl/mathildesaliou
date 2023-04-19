@@ -68,7 +68,8 @@ Interventions IRL et passages médias 📰 écrits, 🎧 radio, 📺 vidéo :
 📺 [Présentation de Technoféminisme](https://www.youtube.com/watch?v=DBGSB5oXygg), Grasset
 
 ### Événements
-Keynote, MiXiT, Lyon, 14 avril 2023. [Programme](https://mixitconf.org/2023)
+"Comment le numérique restreint les libertés des femmes et des minorités", MiXiT, Lyon, 14 avril 2023. [Programme](https://mixitconf.org/2023)
+> 📺 [Replay de la Keynote](https://www.twitch.tv/videos/1796259389)
 
 Table-ronde "Cyberharcèlement : que font les rédactions ?", partenariat entre [Prenons la Une](https://prenonslaune.fr/) et [Nothing2Hide](https://nothing2hide.org/fr/).
 Le 4 avril 2023, j'animerai la discussion entre nos invité·es Guylaine Germain de l'[AJP](https://www.ajp.be/), Mathilde Goupil de France TV, Ivan Valerio de BFMTV et la documentariste Florence Hainaut. [Inscription](https://www.helloasso.com/associations/prenons-la-une/evenements/cyberharcelement-que-font-les-redactions)
