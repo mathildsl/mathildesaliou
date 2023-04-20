@@ -7,13 +7,16 @@ Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/tec
 
 Café littéraire, Forum du livre, Saint-Louis, 14 mai 2023. [Programme](https://forumlivre.fr/le-forum-2022/)
 
-Rencontre, Toulouse Hacker Space Factory, Toulouse, 27 mai 2023. [Programme](https://23.thsf.net/thsf-2023/schedule/#2023-05-27)
+Rencontre, Toulouse Hacker Space Factory, Toulouse, 27 mai 2023. [Programme](https://www.thsf.net/)
 
 ## Passées
 
 Interventions IRL et passages médias 📰 écrits, 🎧 radio, 📺 vidéo :
 
 ### Médias
+##### > Espace public numérique et cyberviolences
+🎧 [Geeks, trolls & compagnie](https://www.binge.audio/podcast/les-couilles-sur-la-table/geeks-trolls-cie-1-2), Les Couilles sur la table, Binge Audio, 20 avril 2023
+
 ##### > Intelligence artificielle
 📺 ["Intelligence Artificielle : sommes-nous en danger ?"](https://www.france.tv/france-5/c-ce-soir/c-ce-soir-saison-3/4725334-intelligence-artificielle-sommes-nous-en-danger.html), C ce soir, France 5, 31 mars 2023
 
