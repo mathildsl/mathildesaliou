@@ -7,6 +7,7 @@ Actuellement, je travaille chez **Next Inpact**. Tous les articles longs que j'y
   - [Mesurer l'empreinte environnementale du numérique, un vrai casse-tête](https://www.nextinpact.com/article/71228/mesurer-empreinte-environnementale-numerique-vrai-casse-tete)
   - [Si une banque fait faillite, les fonds des particuliers sont-ils sécurisés ?](https://www.nextinpact.com/article/71229/si-banque-fait-faillite-fonds-particuliers-sont-ils-securises)
   - [Peut-on corriger les biais des algorithmes ?](https://www.nextinpact.com/article/70943/peut-on-corriger-biais-algorithmes)
+  - [Les Français veulent des explications claires sur les modèles algorithmiques](https://www.nextinpact.com/article/71068/les-francais-veulent-explications-claires-sur-modeles-algorithmiques)
   - [Qu'implique la construction d'un smartphone équitable ?](https://www.nextinpact.com/article/70871/quimplique-construction-dun-smartphone-equitable)
   - [Milliardaires de la tech : pourquoi altruisme efficace et longtermisme font-ils débat ?](https://www.nextinpact.com/article/70712/milliardaires-tech-pourquoi-altruisme-efficace-et-longtermisme-font-ils-debat)
   - [Comment les mouvements politiques français jouent des techniques de manipulation de l'information sur les réseaux sociaux](https://www.nextinpact.com/article/70132/comment-mouvements-politiques-francais-jouent-techniques-manipulation-information-sur-reseaux-sociaux)
