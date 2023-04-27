@@ -15,6 +15,7 @@ Interventions IRL et passages médias 📰 écrits, 🎧 radio, 📺 vidéo :
 
 ### Médias
 ##### > Espace public numérique, cyberviolences et discriminations
+
 🎧 [Geeks, trolls & compagnie, épisode 2](https://www.binge.audio/podcast/les-couilles-sur-la-table/geeks-trolls-cie-2-2), Les Couilles sur la table, Binge Audio, 27 avril 2023
 
 🎧 [Geeks, trolls & compagnie, épisode 1](https://www.binge.audio/podcast/les-couilles-sur-la-table/geeks-trolls-cie-1-2), Les Couilles sur la table, Binge Audio, 20 avril 2023
