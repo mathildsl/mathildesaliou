@@ -38,6 +38,21 @@ Interventions IRL et passages médias 📰 écrits, 🎧 radio, 📺 vidéo :
 ##### > Médias et représentations
 📰 ["Inclusion dans les médias : un double déséquilibre à combler"](https://www.medianes.org/inclusion-dans-les-medias-un-double-desequilibre-a-combler/), Médianes, 23 février 2022
 
+### Événements
+"Comment le numérique restreint les libertés des femmes et des minorités", MiXiT, Lyon, 14 avril 2023. [Programme](https://mixitconf.org/2023)
+> 📺 [Replay de la Keynote](https://mixitconf.org/2023/comment-le-numerique-limite-les-libertes-des-femmes-et-des-minorites)
+
+Table-ronde "Cyberharcèlement : que font les rédactions ?", partenariat entre [Prenons la Une](https://prenonslaune.fr/) et [Nothing2Hide](https://nothing2hide.org/fr/).
+Le 4 avril 2023, j'animerai la discussion entre nos invité·es Guylaine Germain de l'[AJP](https://www.ajp.be/), Mathilde Goupil de France TV, Ivan Valerio de BFMTV et la documentariste Florence Hainaut. [Inscription](https://www.helloasso.com/associations/prenons-la-une/evenements/cyberharcelement-que-font-les-redactions)
+> 🎧 [[ Podcast] Cyberharcèlement : que font les rédactions ?](https://prenonslaune.fr/2023/04/podcast-cyberharcelement-que-font-les-redactions/)
+
+Table-ronde "Lutter contre les bulles informationnelles : comment éviter que les algorithmes nous imposent un menu unique ?", Assises internationales du journalisme, Tours, 30 mars 2023. [Programme](https://journalisme.com/tours/programmation-assises-de-tours/)
+> 📰 [Coincés par l’algorithme : ces bulles d’infos qui proposent toujours les mêmes contenus sur les réseaux sociaux](https://www.sudouest.fr/economie/reseaux-sociaux/coinces-par-l-algorithme-bulles-d-infos-qui-proposent-toujours-les-memes-contenus-sur-les-reseaux-sociaux-14636537.php), Sud Ouest, 31 mars 2023
+
+Table-ronde "Sandrine Holin & Mathilde Saliou, Néolibéralisme, tech et Internet face au féminisme", Bibliothèques idéales "Le temps des féminismes", Strasbourg, 19 mars 2023.
+
+Table-ronde "Résister au numérique : techno-luttes et féminisme", Mk2 Bibliothèque, Paris, 16 mars 2023.
+
 ### Technoféminisme, comment le numérique aggrave les inégalités
 📺 [Technoféminisme : le numérique, un monde qui manque de diversité](https://www.france24.com/fr/%C3%A9missions/actuelles/20230421-t%C3%A9chnof%C3%A9minisme-le-num%C3%A9rique-un-monde-qui-manque-de-diversit%C3%A9), ActuElles, France 24, 21 avril 2023
 
@@ -74,18 +89,3 @@ Interventions IRL et passages médias 📰 écrits, 🎧 radio, 📺 vidéo :
 📰 [« Technoféminisme : Comment le numérique aggrave les inégalités » : Rencontre avec Mathilde Saliou](https://www.madmoizelle.com/techno-feminisme-comment-le-numerique-aggrave-les-inegalites-rencontre-avec-mathilde-saliou-1493643), Madmoizelle, 11 février 2023
 
 📺 [Présentation de Technoféminisme](https://www.youtube.com/watch?v=DBGSB5oXygg), Grasset
-
-### Événements
-"Comment le numérique restreint les libertés des femmes et des minorités", MiXiT, Lyon, 14 avril 2023. [Programme](https://mixitconf.org/2023)
-> 📺 [Replay de la Keynote](https://mixitconf.org/2023/comment-le-numerique-limite-les-libertes-des-femmes-et-des-minorites)
-
-Table-ronde "Cyberharcèlement : que font les rédactions ?", partenariat entre [Prenons la Une](https://prenonslaune.fr/) et [Nothing2Hide](https://nothing2hide.org/fr/).
-Le 4 avril 2023, j'animerai la discussion entre nos invité·es Guylaine Germain de l'[AJP](https://www.ajp.be/), Mathilde Goupil de France TV, Ivan Valerio de BFMTV et la documentariste Florence Hainaut. [Inscription](https://www.helloasso.com/associations/prenons-la-une/evenements/cyberharcelement-que-font-les-redactions)
-> 🎧 [[ Podcast] Cyberharcèlement : que font les rédactions ?](https://prenonslaune.fr/2023/04/podcast-cyberharcelement-que-font-les-redactions/)
-
-Table-ronde "Lutter contre les bulles informationnelles : comment éviter que les algorithmes nous imposent un menu unique ?", Assises internationales du journalisme, Tours, 30 mars 2023. [Programme](https://journalisme.com/tours/programmation-assises-de-tours/)
-> 📰 [Coincés par l’algorithme : ces bulles d’infos qui proposent toujours les mêmes contenus sur les réseaux sociaux](https://www.sudouest.fr/economie/reseaux-sociaux/coinces-par-l-algorithme-bulles-d-infos-qui-proposent-toujours-les-memes-contenus-sur-les-reseaux-sociaux-14636537.php), Sud Ouest, 31 mars 2023
-
-Table-ronde "Sandrine Holin & Mathilde Saliou, Néolibéralisme, tech et Internet face au féminisme", Bibliothèques idéales "Le temps des féminismes", Strasbourg, 19 mars 2023.
-
-Table-ronde "Résister au numérique : techno-luttes et féminisme", Mk2 Bibliothèque, Paris, 16 mars 2023.
