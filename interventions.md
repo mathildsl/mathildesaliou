@@ -54,7 +54,7 @@ Table-ronde "Sandrine Holin & Mathilde Saliou, Néolibéralisme, tech et Interne
 Table-ronde "Résister au numérique : techno-luttes et féminisme", Mk2 Bibliothèque, Paris, 16 mars 2023.
 
 ### Technoféminisme, comment le numérique aggrave les inégalités
-📰 [Mathilde Saliou : « Plus les inégalités seront inscrites dans le code des machines, plus elles seront difficiles à corriger »](https://chut.media/influence/mathilde-saliou-plus-les-inegalites-seront-inscrites-dans-le-code-des-machines-plus-elles-seront-difficiles-a-corriger/), Chut !, 24 avril 2023
+📰 [Mathilde Saliou : « Plus les inégalités seront inscrites dans le code des machines, plus elles seront difficiles à corriger »](https://chut.media/influence/mathilde-saliou-plus-les-inegalites-seront-inscrites-dans-le-code-des-machines-plus-elles-seront-difficiles-a-corriger/), Chut ! media, 24 avril 2023
 
 📺 [Technoféminisme : le numérique, un monde qui manque de diversité](https://www.france24.com/fr/%C3%A9missions/actuelles/20230421-t%C3%A9chnof%C3%A9minisme-le-num%C3%A9rique-un-monde-qui-manque-de-diversit%C3%A9), ActuElles, France 24, 21 avril 2023
 
