@@ -5,8 +5,6 @@ Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/tec
 
 ## À venir
 
-Café littéraire, Forum du livre, Saint-Louis, 14 mai 2023. [Programme](https://forumlivre.fr/le-forum-2022/)
-
 Rencontre, Toulouse Hacker Space Factory, Toulouse, 27 mai 2023. [Programme](https://www.thsf.net/)
 
 ## Passées
@@ -41,6 +39,8 @@ Interventions IRL et passages médias 📰 écrits, 🎧 radio, 📺 vidéo :
 📰 ["Inclusion dans les médias : un double déséquilibre à combler"](https://www.medianes.org/inclusion-dans-les-medias-un-double-desequilibre-a-combler/), Médianes, 23 février 2022
 
 ### Événements
+Café littéraire, Forum du livre, Saint-Louis, 14 mai 2023. [Programme](https://forumlivre.fr/le-forum-2022/)
+
 "Comment le numérique restreint les libertés des femmes et des minorités", MiXiT, Lyon, 14 avril 2023. [Programme](https://mixitconf.org/2023)
 > 📺 [Replay de la Keynote](https://mixitconf.org/2023/comment-le-numerique-limite-les-libertes-des-femmes-et-des-minorites)
 
