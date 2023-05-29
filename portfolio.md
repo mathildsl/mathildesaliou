@@ -1,7 +1,7 @@
 ---
 title: Portfolio
 ---
-Je travaille pour toutes sortes de média, le plus souvent écrits, quelquefois radio ou tv/vidéo. Vous trouverez ci-dessous une sélection de mes travaux récents, mais si vous préférez avoir les images, vous pouvez aussi scroller dans mon [profil Ginkio](https://ginkio.com/mathilde-saliou).
+Je travaille pour toutes sortes de média, le plus souvent écrits, quelquefois radio ou tv/vidéo. Vous trouverez ci-dessous une sélection de mes travaux récents, mais si vous préférez avoir les images, vous pouvez aussi scroller dans mon [profil Ginkio](https://ginkio.com/mathilde-saliou) (mais je ne promets rien sur la régularité de sa mise à jour).
 
 Actuellement, je travaille chez **Next Inpact**. Tous les articles longs que j'y publie sont [accessibles ici](https://www.nextinpact.com/recherche;q=;a=54;r=;p=1). Une petite sélection tout de même :
   - [Fuite de données : l’URSSAF diffuse des dizaines d’échéanciers aux mauvais destinataires](https://www.nextinpact.com/article/71595/fuite-donnees-lurssaf-diffuse-dizaines-decheanciers-aux-mauvais-destinataires)
