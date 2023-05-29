@@ -35,7 +35,6 @@ Interventions IRL et passages médias 📰 écrits, 🎧 radio, 📺 vidéo :
 📰 ["Inclusion dans les médias : un double déséquilibre à combler"](https://www.medianes.org/inclusion-dans-les-medias-un-double-desequilibre-a-combler/), Médianes, 23 février 2022
 
 ### Événements
-
 Rencontres et conférences pour lesquels il existe une captation :
 
 Rencontre, Toulouse Hacker Space Factory, Toulouse, 27 mai 2023. [Programme](https://www.thsf.net/)
@@ -52,6 +51,8 @@ Table-ronde "Lutter contre les bulles informationnelles : comment éviter que le
 > 📰 [Coincés par l’algorithme : ces bulles d’infos qui proposent toujours les mêmes contenus sur les réseaux sociaux](https://www.sudouest.fr/economie/reseaux-sociaux/coinces-par-l-algorithme-bulles-d-infos-qui-proposent-toujours-les-memes-contenus-sur-les-reseaux-sociaux-14636537.php), Sud Ouest, 31 mars 2023
 
 ### Technoféminisme, comment le numérique aggrave les inégalités
+📰 [Mathilde Saliou : « Les algorithmes entretiennent les discriminations »](https://journal-labreche.fr/numeros-parus/), La Brèche n°3, mai-juin 2023
+
 📰 [Mathilde Saliou : « Plus les inégalités seront inscrites dans le code des machines, plus elles seront difficiles à corriger »](https://chut.media/influence/mathilde-saliou-plus-les-inegalites-seront-inscrites-dans-le-code-des-machines-plus-elles-seront-difficiles-a-corriger/), Chut ! media, 24 avril 2023
 
 📺 [Technoféminisme : le numérique, un monde qui manque de diversité](https://www.france24.com/fr/%C3%A9missions/actuelles/20230421-t%C3%A9chnof%C3%A9minisme-le-num%C3%A9rique-un-monde-qui-manque-de-diversit%C3%A9), ActuElles, France 24, 21 avril 2023
