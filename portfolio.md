@@ -1,7 +1,7 @@
 ---
 title: Portfolio
 ---
-Je travaille pour toutes sortes de média, le plus souvent écrits, quelquefois radio ou tv/vidéo. Vous trouverez ci-dessous une sélection de mes travaux récents, mais si vous préférez avoir les images, vous pouvez aussi scroller dans mon [profil Ginkio](https://ginkio.com/mathilde-saliou) (mais je ne promets rien sur la régularité de sa mise à jour).
+Je travaille pour toutes sortes de média, le plus souvent écrits, quelquefois radio ou tv/vidéo. Vous trouverez ci-dessous une sélection de mes travaux récents, mais si vous préférez avoir les images, vous pouvez aussi scroller dans mon [profil Ginkio](https://ginkio.com/mathilde-saliou) (cela dit, je ne promets rien sur la régularité de sa mise à jour).
 
 Actuellement, je travaille chez **Next Inpact**. Tous les articles longs que j'y publie sont [accessibles ici](https://www.nextinpact.com/recherche;q=;a=54;r=;p=1). Une petite sélection tout de même :
   - [Fuite de données : l’URSSAF diffuse des dizaines d’échéanciers aux mauvais destinataires](https://www.nextinpact.com/article/71595/fuite-donnees-lurssaf-diffuse-dizaines-decheanciers-aux-mauvais-destinataires)
@@ -21,7 +21,7 @@ En 2022, ma consœur Ingri Bergo et moi avons remporté une bourse du [Journalis
   - [Ce qu'il manque à la lutte contre le «revenge porn» pour qu'elle soit vraiment efficace](https://www.slate.fr/story/235688/revenge-porn-consideration-lois-cyberviolences-femmes-cooperation-europe-reseaux-sociaux-sites-pornographiques)
   - [Diffusion d'images intimes : des activistes au secours des victimes](https://www.slate.fr/story/235976/revenge-porn-diffusion-images-intimes-activistes-associations-secours-victimes-traque-reseaux-sociaux)
 
-De 2020 à 2022, j'ai été journaliste et coordinatrice de rédaction pour **Flint.media**. J'ai participé à l'élaboration de la stratégie éditoriale et construit divers formats : des courts adaptés à la newsletter quotidienne, des séries explicatives ou encore des dispositifs plus ponctuels dédiés à décortiquer de gros débats de société (comme celui qui entourait à l'époque la question de la vaccination contre la Covid-19). Quelques exemples : 
+De 2020 à 2022, j'ai été journaliste et coordinatrice de la rédaction de **Flint.media**. J'ai participé à l'élaboration de la stratégie éditoriale et construit divers formats : des courts adaptés à la newsletter quotidienne, des séries explicatives ou encore des dispositifs plus ponctuels dédiés à décortiquer de gros débats de société (comme celui qui entourait à l'époque la question de la vaccination contre la Covid-19). Quelques exemples : 
 - [Série] [Algorithmes, intelligence artificielle : quelle est la différence ?](https://flint.media/posts/190-algorithmes-intelligence-artificielle-quelle-est-la-difference)
 - [Série] [La blockchain pour ceux qui n’y connaissent rien (et pour les autres aussi)](https://flint.media/posts/106-la-blockchain-pour-ceux-qui-n-rsquo-y-connaissent-rien-et-pour-les-autres-aussi)
 - [Debunk] [Vaccins anti-covid : comment débattre sans se battre ?](https://flint.media/posts/96-covid-comment-les-vaccins-agissent-t-ils)
