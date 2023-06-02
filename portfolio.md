@@ -73,6 +73,7 @@ Au fil des ans, j'ai aussi travaillé avec des médias comme
   - [Qu’est-ce qu’un phishing ?](https://www.numerama.com/cyberguerre/1094534-quest-ce-quun-phishing.html)
   - [Peut-on cartographier internet ?](https://www.numerama.com/tech/533403-peut-on-cartographier-internet.html)
   - [Google Maps nous fait-il perdre le sens de l’orientation ?](https://www.numerama.com/tech/403659-google-maps-nous-fait-il-perdre-le-sens-de-lorientation.html)
+- [Les intelligences artificielles sont-elles sexistes ? Des spécialistes nous répondent](https://www.numerama.com/politique/330075-les-intelligences-artificielles-sont-elles-sexistes-des-specialistes-nous-repondent.html)
 
 **Usbek & Rica**
 - [On a assisté à un cours d’informatique pour les réfugiés](https://usbeketrica.com/fr/article/on-a-assiste-a-un-cours-d-informatique-pour-les-refugies)
