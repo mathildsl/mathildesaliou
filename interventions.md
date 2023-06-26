@@ -6,13 +6,9 @@ Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/tec
 Interventions IRL et passages médias 📰 écrits, 🎧 radio, 📺 vidéo :
 
 ### Médias
-##### > Espace public numérique, cyberviolences et discriminations
-
-🎧 [Geeks, trolls & compagnie, épisode 2](https://www.binge.audio/podcast/les-couilles-sur-la-table/geeks-trolls-cie-2-2), Les Couilles sur la table, Binge Audio, 27 avril 2023
-
-🎧 [Geeks, trolls & compagnie, épisode 1](https://www.binge.audio/podcast/les-couilles-sur-la-table/geeks-trolls-cie-1-2), Les Couilles sur la table, Binge Audio, 20 avril 2023
-
 ##### > Intelligence artificielle
+📺/🎧 ["¿Hay que tener miedo a la Inteligencia Artificial?"](https://www.rfi.fr/es/programas/en-primera-plana/20230623-hay-que-tener-miedo-a-la-inteligencia-artificial), En Primera Plana, RFI / France 24, 23 juin 2023
+
 📺 ["Intelligence Artificielle : sommes-nous en danger ?"](https://www.france.tv/france-5/c-ce-soir/c-ce-soir-saison-3/4725334-intelligence-artificielle-sommes-nous-en-danger.html), C ce soir, France 5, 31 mars 2023
 
 📰 [Journée des droits des femmes : pourquoi de nombreux algorithmes sont sexistes](https://www.lesechos.fr/tech-medias/hightech/journee-de-la-femme-pourquoi-de-nombreux-algorithmes-sont-sexistes-1912930), Les Échos, 7 mars 2023
@@ -21,7 +17,14 @@ Interventions IRL et passages médias 📰 écrits, 🎧 radio, 📺 vidéo :
 
 🎧 ["La malédiction des algorithmes"](https://frenchspin.fr/2022/05/rdv-tech-461-la-malediction-des-algorithmes/), RDV Tech 461, 31 mai 2022
 
+##### > Espace public numérique, cyberviolences et discriminations
+🎧 [Geeks, trolls & compagnie, épisode 2](https://www.binge.audio/podcast/les-couilles-sur-la-table/geeks-trolls-cie-2-2), Les Couilles sur la table, Binge Audio, 27 avril 2023
+
+🎧 [Geeks, trolls & compagnie, épisode 1](https://www.binge.audio/podcast/les-couilles-sur-la-table/geeks-trolls-cie-1-2), Les Couilles sur la table, Binge Audio, 20 avril 2023
+
 ##### > Cybersécurité
+📰 [« Faites méga attention » : l’AirTag, ce gadget d’Apple qui facilite le cyberharcèlement des femmes](https://www.ouest-france.fr/high-tech/apple/faites-mega-attention-lairtag-dapple-ce-gadget-qui-facilite-le-cyberharcelement-des-femmes-ae2da88a-0ab0-11ee-8e64-75fa9f3906ed), Ouest France, 15 juin 2023
+
 📺 [Piratage de Vinted : les cagnottes en ligne, point faible de la sécurité numérique ?](https://www.tf1info.fr/conso/video-piratage-de-vinted-les-cagnottes-en-ligne-point-faible-de-la-securite-numerique-2252084.html), TF1, 26 mars 2023
 
 ##### > Tech et représentations
@@ -49,6 +52,8 @@ Table-ronde "Lutter contre les bulles informationnelles : comment éviter que le
 > 📰 [Coincés par l’algorithme : ces bulles d’infos qui proposent toujours les mêmes contenus sur les réseaux sociaux](https://www.sudouest.fr/economie/reseaux-sociaux/coinces-par-l-algorithme-bulles-d-infos-qui-proposent-toujours-les-memes-contenus-sur-les-reseaux-sociaux-14636537.php), Sud Ouest, 31 mars 2023
 
 ### Technoféminisme, comment le numérique aggrave les inégalités
+🎧 [Justice Sociale : le numérique à la barre](https://trench-tech.fr/podcast/episode/mathilde-saliou-justice-sociale-le-numerique-a-la-barre/), Trench Tech, 21 juin 2023
+
 📰 [Mathilde Saliou : « Les algorithmes entretiennent les discriminations »](https://journal-labreche.fr/numeros-parus/), La Brèche n°3, mai-juin 2023
 
 📰 [Mathilde Saliou : « Plus les inégalités seront inscrites dans le code des machines, plus elles seront difficiles à corriger »](https://chut.media/influence/mathilde-saliou-plus-les-inegalites-seront-inscrites-dans-le-code-des-machines-plus-elles-seront-difficiles-a-corriger/), Chut ! media, 24 avril 2023
