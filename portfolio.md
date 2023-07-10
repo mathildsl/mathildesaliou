@@ -36,6 +36,7 @@ De début 2019 à fin 2020, j'ai été journaliste économique chez **mind Finte
 - [DataJournalisme] [Crypto-actifs, moyens de paiement, régulation : que disent les activités des GAFAM du secteur financier ?](https://www.mindfintech.fr/services-bancaires/crypto-actifs-moyens-de-paiement-regulation-que-disent-les-activites-des-gafam-du-secteur-financier/)
 - [DataJournalisme] [Comment les GAFAM pénètrent aussi le secteur financier](https://www.mindmedia.fr/medias-audiovisuel/comment-les-gafam-penetrent-aussi-le-secteur-financier/)
 - [Osint] [Mastercard Allemagne a été alerté dès juillet d’une faille dans son site Priceless Specials](https://www.mindfintech.fr/services-bancaires/mastercard-allemagne-a-ete-alerte-des-juillet-dune-faille-dans-son-site-priceless-specials/)
+- [Carine Cartaud (LexisNexis Risk Solutions) : “Nous sommes capables de reconnaître 1,5 milliard d’identités numériques”](https://www.mind.eu.com/fintech/services-bancaires/carine-cartaud-lexisnexis-risk-solutions-nous-sommes-capables-de-reconnaitre-15-milliard-didentites-numeriques/)
 
 À l'**Atelier des médias**, chez **RFI**, j'ai réalisé [plusieurs émissions](https://www.rfi.fr/fr/auteur/mathilde-saliou/) en 2018, dont 
 - une intitulée ["Quand le féminisme rencontre le podcast"](https://www.rfi.fr/fr/emission/20180915-quand-le-feminisme-rencontre-le-podcast) 
@@ -88,4 +89,4 @@ Au fil des ans, j'ai aussi travaillé avec des médias comme
   - [Avec Empow’Her, Soazig Barthélémy aide les femmes à devenir entrepreneures
 ](https://www.lesinrocks.com/cheek/empowher-soazig-barthelemy-femmes-entrepreneures-312045-23-05-2017/)
 
-J'ai aussi travaillé pour **Industrie et technologies**, **L'Étudiant**, **Petit Web**, **Nichons nous dans l'Internet**, **Plan Cash**, etc.
+J'ai aussi travaillé pour **Industrie et technologies**, **L'Étudiant**, **Petit Web**, **Nichons nous dans l'Internet**, **Plan Cash**, etc. 
