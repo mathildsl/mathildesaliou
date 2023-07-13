@@ -3,6 +3,12 @@ title: Interventions
 ---
 Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/technofeminisme-9782246828822), pour parler tech ou pour évoquer la place des femmes et des minorités dans les médias, il m'arrive d'être interviewée, de participer à, voire d'animer des tables rondes.
 
+## Futures
+
+"Comment le numérique aggrave les inégalités", Assises Genre/numérique, Lausanne, 8 septembre 2023 ([inscriptions](https://wp.unil.ch/genre-numerique/deuxieme-edition-des-assises-vers-une-egalite-de-genre-dans-le-numerique/))
+
+## Passées
+
 Interventions IRL et passages médias 📰 écrits, 🎧 radio, 📺 vidéo :
 
 ### Médias
