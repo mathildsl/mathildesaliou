@@ -4,6 +4,7 @@ title: Portfolio
 Je travaille pour toutes sortes de média, le plus souvent écrits, quelquefois radio ou tv/vidéo. Vous trouverez ci-dessous une sélection de mes travaux récents, mais si vous préférez avoir les images, vous pouvez aussi scroller dans mon [profil Ginkio](https://ginkio.com/mathilde-saliou) (cela dit, je ne promets rien sur la régularité de sa mise à jour).
 
 Actuellement, je travaille chez **Next Inpact**. Tous les articles longs que j'y publie sont [accessibles ici](https://www.nextinpact.com/recherche;q=;a=54;r=;p=1). Une petite sélection tout de même :
+ - [Derrière le détournement d’AirTag, des atteintes à la vie privée plus courantes](https://www.nextinpact.com/article/71896/derriere-detournement-dairtag-atteintes-a-vie-prive-plus-courantes)
   - [Fuite de données : l’URSSAF diffuse des dizaines d’échéanciers aux mauvais destinataires](https://www.nextinpact.com/article/71595/fuite-donnees-lurssaf-diffuse-dizaines-decheanciers-aux-mauvais-destinataires)
   - [Mesurer l'empreinte environnementale du numérique, un vrai casse-tête](https://www.nextinpact.com/article/71228/mesurer-empreinte-environnementale-numerique-vrai-casse-tete)
   - [Si une banque fait faillite, les fonds des particuliers sont-ils sécurisés ?](https://www.nextinpact.com/article/71229/si-banque-fait-faillite-fonds-particuliers-sont-ils-securises)
@@ -89,4 +90,4 @@ Au fil des ans, j'ai aussi travaillé avec des médias comme
   - [Avec Empow’Her, Soazig Barthélémy aide les femmes à devenir entrepreneures
 ](https://www.lesinrocks.com/cheek/empowher-soazig-barthelemy-femmes-entrepreneures-312045-23-05-2017/)
 
-J'ai aussi travaillé pour **Industrie et technologies**, **L'Étudiant**, **Petit Web**, **Nichons nous dans l'Internet**, **Plan Cash**, etc. 
+J'ai aussi travaillé pour **Industrie et technologies**, **L'Étudiant**, **Petit Web**, **Nichons nous dans l'Internet**, **Plan Cash**, etc.
