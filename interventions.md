@@ -3,11 +3,11 @@ title: Interventions
 ---
 Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/technofeminisme-9782246828822), pour parler tech ou pour évoquer la place des femmes et des minorités dans les médias, il m'arrive d'être interviewée, de participer à, voire d'animer des tables rondes.
 
-## Futures
+## Événements Futurs
 
 "Comment le numérique aggrave les inégalités", Assises Genre/numérique, Lausanne, 8 septembre 2023 ([inscriptions](https://wp.unil.ch/genre-numerique/deuxieme-edition-des-assises-vers-une-egalite-de-genre-dans-le-numerique/))
 
-## Passées
+## Intervention passées
 
 Interventions IRL et passages médias 📰 écrits, 🎧 radio, 📺 vidéo :
 
@@ -43,8 +43,8 @@ Interventions IRL et passages médias 📰 écrits, 🎧 radio, 📺 vidéo :
 ##### > Médias et représentations
 📰 ["Inclusion dans les médias : un double déséquilibre à combler"](https://www.medianes.org/inclusion-dans-les-medias-un-double-desequilibre-a-combler/), Médianes, 23 février 2022
 
-### Événements
-##### (pour lesquels il existe une captation)
+### Événements 
+(pour lesquels il existe une captation)
 
 Rencontre, Toulouse Hacker Space Factory, Toulouse, 27 mai 2023. [Programme](https://www.thsf.net/)
 > 📺 [Replay de la discussion](https://video.audiovisuel-participatif.org/w/2GN92kMcfP47j1YymjADPy)
