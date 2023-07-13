@@ -7,7 +7,7 @@ Interventions IRL et passages médias 📰 écrits, 🎧 radio, 📺 vidéo :
 
 ### Médias
 ##### > Intelligence artificielle
-📺 ["L'itnelligence artificielle est-elle sexiste ?"](https://www.arte.tv/fr/videos/113219-006-A/l-intelligence-artificielle-est-elle-sexiste/), Kreatur, RFI, 6 juillet 2023
+📺 ["L'intelligence artificielle est-elle sexiste ?"](https://www.arte.tv/fr/videos/113219-006-A/l-intelligence-artificielle-est-elle-sexiste/), Kreatur, RFI, 6 juillet 2023
 
 📺/🎧 ["¿Hay que tener miedo a la Inteligencia Artificial?"](https://www.rfi.fr/es/programas/en-primera-plana/20230623-hay-que-tener-miedo-a-la-inteligencia-artificial), En Primera Plana, RFI / France 24, 23 juin 2023
 
