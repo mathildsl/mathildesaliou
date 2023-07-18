@@ -26,6 +26,8 @@ Interventions IRL et passages médias 📰 écrits, 🎧 radio, 📺 vidéo :
 🎧 ["La malédiction des algorithmes"](https://frenchspin.fr/2022/05/rdv-tech-461-la-malediction-des-algorithmes/), RDV Tech 461, 31 mai 2022
 
 ##### > Espace public numérique, cyberviolences et discriminations
+📰 [« Les femmes ne sont pas assez incluses dans la création des plateformes »](https://www.lesoir.be/524484/article/2023-07-09/les-femmes-ne-sont-pas-assez-incluses-dans-la-creation-des-plateformes), Le Soir, 9 juillet 2023
+
 🎧 [Justice Sociale : le numérique à la barre](https://trench-tech.fr/podcast/episode/mathilde-saliou-justice-sociale-le-numerique-a-la-barre/), Trench Tech, 21 juin 2023
 
 🎧 [Geeks, trolls & compagnie, épisode 2](https://www.binge.audio/podcast/les-couilles-sur-la-table/geeks-trolls-cie-2-2), Les Couilles sur la table, Binge Audio, 27 avril 2023
