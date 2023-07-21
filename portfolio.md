@@ -94,4 +94,4 @@ Au fil des ans, j'ai aussi travaillé avec des médias comme
   - [Avec Empow’Her, Soazig Barthélémy aide les femmes à devenir entrepreneures
 ](https://www.lesinrocks.com/cheek/empowher-soazig-barthelemy-femmes-entrepreneures-312045-23-05-2017/)
 
-J'ai aussi travaillé pour **Industrie et technologies**, **L'Étudiant**, **Petit Web**, **Nichons nous dans l'Internet**, **Plan Cash**, etc.
+J'ai aussi travaillé pour **Industrie et technologies**, **L'Étudiant**, **Petit Web**, **Nichons nous dans l'Internet**, etc.
