@@ -47,6 +47,10 @@ De début 2019 à fin 2020, j'ai été journaliste économique chez **mind Finte
 
 Au fil des ans, j'ai aussi travaillé avec des médias comme
 
+**Plan Cash** : 
+  - [Ces aides sociales qui font gagner "un pognon de dingue" à l’État](https://plancash.substack.com/p/n41-ces-aides-sociales-qui-font-gagners)
+  - [Noël arrivant, faillite au tournant?](https://plancash.substack.com/p/noel-arrivant-faillite-au-tournant)
+
 **20 Minutes** : 
   - [Moxy Starr :« Le Web3 est une super opportunité pour les minorités »](https://www.20minutes.fr/20-mint/4008920-20221116-web3-super-opportunite-minorites)
   - [Frédéric Cavazza : « Le Web3 ne résoudra pas la fracture numérique »](https://www.20minutes.fr/20-mint/4008141-20221115-frederic-cavazza-web3-resoudra-fracture-numerique)
