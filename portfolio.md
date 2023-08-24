@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: "Portfolio"
 ---
 Je travaille pour toutes sortes de média, le plus souvent écrits, quelquefois radio ou tv/vidéo. Vous trouverez ci-dessous une sélection de mes travaux récents, mais si vous préférez avoir les images, vous pouvez aussi scroller dans mon [profil Ginkio](https://ginkio.com/mathilde-saliou) (cela dit, je ne promets rien sur la régularité de sa mise à jour).
 
@@ -29,9 +29,10 @@ De 2020 à 2022, j'ai été journaliste et coordinatrice de la rédaction de **F
 - [Facebook et l’art de produire de l’ignorance](https://flint.media/posts/122-facebook-et-l-art-de-produire-de-l-ignorance)
 - [Passion economy, banques et porno : le bingo OnlyFans](https://flint.media/posts/98-passion-economy-banques-et-porno-le-bingo-onlyfans)
 - [Pourquoi les influenceurs d’extrême-droite font-ils polémique ?](https://flint.media/posts/23-pourquoi-la-video-de-linfluenceur-dextreme-droite-papacito-fait-elle-polemique)
+- [Faut-il libérer Britney Spears ?](https://flint.media/posts/49-faut-il-liberer-britney-spears)
 - [Les Français détestent-ils l’information ?](https://flint.media/posts/29-les-francais-detestent-ils-linformation)
 
-De début 2019 à fin 2020, j'ai été journaliste économique chez **mind Fintech**. J'y ai principalement couvert les activités des Big Tech (GAFAM, BATX) dans le secteur de la banque et de l'assurance, les questions de cybersécurité et les sujets liés à l'écosystème blockchain/crypto. Quelques exemples :
+De fin 2018 à fin 2020, j'ai été journaliste économique chez **mind Fintech**. J'y ai principalement couvert les activités des Big Tech (GAFAM, BATX) dans le secteur de la banque et de l'assurance, les questions de cybersécurité et les sujets liés à l'écosystème blockchain/crypto. Quelques exemples :
 - [DataJournalisme] [Les “super-apps” chinoises, des écosystèmes financiers à part entière](https://www.mindfintech.fr/services-bancaires/les-super-apps-chinoises-des-ecosystemes-financiers-a-part-entiere/)
 - [Comment de nouveaux médias numériques contribuent à l’éducation financière](https://www.mindfintech.fr/services-bancaires/comment-de-nouveaux-medias-numeriques-contribuent-a-leducation-financiere/)
 - [DataJournalisme] [Crypto-actifs, moyens de paiement, régulation : que disent les activités des GAFAM du secteur financier ?](https://www.mindfintech.fr/services-bancaires/crypto-actifs-moyens-de-paiement-regulation-que-disent-les-activites-des-gafam-du-secteur-financier/)
@@ -94,4 +95,4 @@ Au fil des ans, j'ai aussi travaillé avec des médias comme
   - [Avec Empow’Her, Soazig Barthélémy aide les femmes à devenir entrepreneures
 ](https://www.lesinrocks.com/cheek/empowher-soazig-barthelemy-femmes-entrepreneures-312045-23-05-2017/)
 
-J'ai aussi travaillé pour **Industrie et technologies**, **L'Étudiant**, **Petit Web**, **Nichons nous dans l'Internet**, etc.
+J'ai aussi travaillé pour **Industrie et technologies**, **L'Étudiant**, **Petit Web**, **Nichons nous dans l'Internet**, etc. 
