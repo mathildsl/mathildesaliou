@@ -102,6 +102,4 @@ Table-ronde "Lutter contre les bulles informationnelles : comment éviter que le
 
 📰 [M. Saliou (Technoféminisme) : « La technologie impose une approche déterministe »](https://hellofuture.orange.com/fr/mathilde-saliou-technofeminisme-la-technologie-impose-une-approche-deterministe/), Hello Futures, Orange, 15 février 2023
 
-📰 [« Technoféminisme : Comment le numérique aggrave les inégalités » : Rencontre avec Mathilde Saliou](https://www.madmoizelle.com/techno-feminisme-comment-le-numerique-aggrave-les-inegalites-rencontre-avec-mathilde-saliou-1493643), Madmoizelle, 11 février 2023
-
-📺 [Présentation de Technoféminisme](https://www.youtube.com/watch?v=DBGSB5oXygg), Grasset 
+📰 [« Technoféminisme : Comment le numérique aggrave les inégalités » : Rencontre avec Mathilde Saliou](https://www.madmoizelle.com/techno-feminisme-comment-le-numerique-aggrave-les-inegalites-rencontre-avec-mathilde-saliou-1493643), Madmoizelle, 11 février 2023 
