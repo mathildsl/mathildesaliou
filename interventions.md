@@ -86,7 +86,7 @@ Table-ronde "Lutter contre les bulles informationnelles : comment éviter que le
 🎧 [Avec « Technoféminisme », Mathilde Saliou analyse comment le numérique creuse les inégalités](https://www.nova.fr/tech/avec-technofeminisme-mathilde-saliou-analyse-comment-le-numerique-creuse-les-inegalites-219453-06-03-2023/), Radio Nova, 6 mars 2023
 
 🎧 [«Technoféminisme»: Mathilde Saliou raconte le problème du numérique avec la diversité](https://www.rfi.fr/fr/podcasts/atelier-des-m%C3%A9dias/20230304-technof%C3%A9minisme-mathilde-saliou-raconte-le-probl%C3%A8me-du-num%C3%A9rique-avec-la-diversit%C3%A9), Atelier des médias, RFI, 4 mars 2023
->> Retranscription par L'April [sur Libre à lire](https://www.librealire.org/technofeminisme-mathilde-saliou-raconte-le-probleme-du-numerique-avec-la-diversite#avertissement-). Merci !
+> Retranscription par L'April [sur Libre à lire](https://www.librealire.org/technofeminisme-mathilde-saliou-raconte-le-probleme-du-numerique-avec-la-diversite#avertissement-). Merci !
 
 🎧 [Internet, espace de sexisme ordinaire](https://www.slate.fr/audio/mansplaining/internet-espace-sexisme-ordinaire-mathilde-saliou-technofeminisme-place-femmes-minorites-internet-109), Mansplaining, Slate, 1er mars 2023
 
