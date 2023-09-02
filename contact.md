@@ -12,4 +12,4 @@ Vous pouvez me demander mon téléphone (pour WhatsApp, Telegram, Signal) ou un 
 
 ____
 
-Ce site a été construit grâce à [Scribouilli](https://www.maiwann.net/blog/enfin-scribouilli/). 
+Ce site a été construit grâce à [Scribouilli](https://scribouilli.org/). 
