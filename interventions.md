@@ -6,7 +6,7 @@ Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/tec
 
 ## Événements Futurs
 
-"Comment le numérique aggrave les inégalités", Assises Genre/numérique, Université de Lausanne, 8 septembre 2023 ([inscriptions](https://wp.unil.ch/genre-numerique/deuxieme-edition-des-assises-vers-une-egalite-de-genre-dans-le-numerique/))
+"La place des femmes dans le numérique", Fête de l'Humanité, 16 septembre 2023 ([programme](https://fete.humanite.fr/humadvisor-2/?date=2023-09-16&event=64e604297ef76624c076483a))
 
 ## Intervention passées
 
