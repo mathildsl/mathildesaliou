@@ -7,6 +7,7 @@ Je travaille pour toutes sortes de média, le plus souvent écrits, quelquefois 
 Actuellement, je travaille chez **Next Inpact**. Tous les articles longs que j'y publie sont [accessibles ici](https://www.nextinpact.com/recherche;q=;a=54;r=;p=1). Une petite sélection tout de même :
  - [Boursorama demande les identifiants et mots de passe des impôts, la CNIL la met en demeure](https://www.nextinpact.com/article/72308/boursorama-demande-identifiants-et-mots-passe-impots-cnil-met-en-demeure)
  - [Derrière le détournement d’AirTag, des atteintes à la vie privée plus courantes](https://www.nextinpact.com/article/71896/derriere-detournement-dairtag-atteintes-a-vie-prive-plus-courantes)
+ - [Aux États-Unis, l’avortement révélateur des problématiques de vie privée et de désinformation](https://www.nextinpact.com/article/71785/aux-etats-unis-lavortement-revelateur-problematiques-vie-privee-et-desinformation)
   - [Fuite de données : l’URSSAF diffuse des dizaines d’échéanciers aux mauvais destinataires](https://www.nextinpact.com/article/71595/fuite-donnees-lurssaf-diffuse-dizaines-decheanciers-aux-mauvais-destinataires)
   - [Mesurer l'empreinte environnementale du numérique, un vrai casse-tête](https://www.nextinpact.com/article/71228/mesurer-empreinte-environnementale-numerique-vrai-casse-tete)
   - [Si une banque fait faillite, les fonds des particuliers sont-ils sécurisés ?](https://www.nextinpact.com/article/71229/si-banque-fait-faillite-fonds-particuliers-sont-ils-securises)
