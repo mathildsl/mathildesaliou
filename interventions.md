@@ -6,7 +6,7 @@ Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/tec
 
 ## Événements Futurs
 
-Rencontre littéraire, La semaine numérique, Evere, Belgique, 19 octobre 2023, ([Programme](https://www.lasemainenumerique.be/activit%C3%A9/rencontre-litteraire-avec-mathilde-saliou-et-son-livre-technofeminisme/))
+Rencontre littéraire, La semaine numérique, Evere, Belgique, 19 octobre 2023 ([Programme](https://www.lasemainenumerique.be/activit%C3%A9/rencontre-litteraire-avec-mathilde-saliou-et-son-livre-technofeminisme/))
 
 ## Intervention passées
 
