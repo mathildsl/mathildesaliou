@@ -6,7 +6,7 @@ Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/tec
 
 ## Événements Futurs
 
-"La place des femmes dans le numérique", Fête de l'Humanité, 16 septembre 2023 ([programme](https://fete.humanite.fr/humadvisor-2/?date=2023-09-16&event=64e604297ef76624c076483a))
+Rencontre littéraire, La semaine numérique, Evere, Belgique, 19 octobre 2023, ([Programme](https://www.lasemainenumerique.be/activit%C3%A9/rencontre-litteraire-avec-mathilde-saliou-et-son-livre-technofeminisme/))
 
 ## Intervention passées
 
