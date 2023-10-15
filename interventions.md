@@ -27,6 +27,8 @@ Interventions IRL et passages médias 📰 écrits, 🎧 radio, 📺 vidéo :
 🎧 ["La malédiction des algorithmes"](https://frenchspin.fr/2022/05/rdv-tech-461-la-malediction-des-algorithmes/), RDV Tech 461, 31 mai 2022
 
 ##### > Espace public numérique, cyberviolences et discriminations
+🎧 [Technoféminisme et inégalités - Mathilde Saliou](https://open.spotify.com/episode/0An7Lc8EnlKe6PGDtQQqZR), Imaginaires, 12 avril 2023
+
 📰 [« Les femmes ne sont pas assez incluses dans la création des plateformes »](https://www.lesoir.be/524484/article/2023-07-09/les-femmes-ne-sont-pas-assez-incluses-dans-la-creation-des-plateformes), Le Soir, 9 juillet 2023
 
 🎧 [Justice Sociale : le numérique à la barre](https://trench-tech.fr/podcast/episode/mathilde-saliou-justice-sociale-le-numerique-a-la-barre/), Trench Tech, 21 juin 2023
@@ -65,8 +67,6 @@ Table-ronde "Lutter contre les bulles informationnelles : comment éviter que le
 > 📰 [Coincés par l’algorithme : ces bulles d’infos qui proposent toujours les mêmes contenus sur les réseaux sociaux](https://www.sudouest.fr/economie/reseaux-sociaux/coinces-par-l-algorithme-bulles-d-infos-qui-proposent-toujours-les-memes-contenus-sur-les-reseaux-sociaux-14636537.php), Sud Ouest, 31 mars 2023
 
 ### Technoféminisme, comment le numérique aggrave les inégalités
-🎧 [Technoféminisme et inégalités - Mathilde Saliou](https://open.spotify.com/episode/0An7Lc8EnlKe6PGDtQQqZR), Imaginaires, 12 avril 2023
-
 📰 [Mathilde Saliou : « Les algorithmes entretiennent les discriminations »](https://journal-labreche.fr/numeros-parus/), La Brèche n°3, mai-juin 2023
 
 📰 [Mathilde Saliou : « Plus les inégalités seront inscrites dans le code des machines, plus elles seront difficiles à corriger »](https://chut.media/influence/mathilde-saliou-plus-les-inegalites-seront-inscrites-dans-le-code-des-machines-plus-elles-seront-difficiles-a-corriger/), Chut ! media, 24 avril 2023
