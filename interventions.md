@@ -65,6 +65,8 @@ Table-ronde "Lutter contre les bulles informationnelles : comment éviter que le
 > 📰 [Coincés par l’algorithme : ces bulles d’infos qui proposent toujours les mêmes contenus sur les réseaux sociaux](https://www.sudouest.fr/economie/reseaux-sociaux/coinces-par-l-algorithme-bulles-d-infos-qui-proposent-toujours-les-memes-contenus-sur-les-reseaux-sociaux-14636537.php), Sud Ouest, 31 mars 2023
 
 ### Technoféminisme, comment le numérique aggrave les inégalités
+🎧 [Technoféminisme et inégalités - Mathilde Saliou](https://open.spotify.com/episode/0An7Lc8EnlKe6PGDtQQqZR), Imaginaires, 12 avril 2023
+
 📰 [Mathilde Saliou : « Les algorithmes entretiennent les discriminations »](https://journal-labreche.fr/numeros-parus/), La Brèche n°3, mai-juin 2023
 
 📰 [Mathilde Saliou : « Plus les inégalités seront inscrites dans le code des machines, plus elles seront difficiles à corriger »](https://chut.media/influence/mathilde-saliou-plus-les-inegalites-seront-inscrites-dans-le-code-des-machines-plus-elles-seront-difficiles-a-corriger/), Chut ! media, 24 avril 2023
