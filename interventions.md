@@ -8,6 +8,8 @@ Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/tec
 
 Rencontre littéraire, La semaine numérique, Evere, Belgique, 19 octobre 2023 ([Programme](https://www.lasemainenumerique.be/activit%C3%A9/rencontre-litteraire-avec-mathilde-saliou-et-son-livre-technofeminisme/))
 
+Projection-rencontre : "Clean with me (after dark)" de Gabrielle Stemmer, puis discussion avec la réalisatrice, Médiathèque Françoise Sagan, Paris 10e, 14 novembre 2023 ([Réservation (gratuite)](https://moisdudoc.com/programme/tout-le-programme/projection-14112023-mediatheque-francoise-sagan-ile-de-france-paris))
+
 ## Intervention passées
 
 Interventions IRL et passages médias 📰 écrits, 🎧 radio, 📺 vidéo :
