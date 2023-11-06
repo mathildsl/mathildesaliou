@@ -7,9 +7,9 @@ in_menu: true
 
 Je suis **Mathilde Saliou**, journaliste et autrice, spécialisée dans le numérique. J'étudie les effets des technologies sur la société et la manière dont cette dernière modèle les innovations en cours. Dit autrement, je couvre des thématiques liées à la tech, à l'information, ainsi qu'aux inégalités présentes dans les médias et les mondes connectés.
 
-Je travaille principalement pour [Next](https://www.nextinpact.com/). Mes articles ont aussi [été publiés](https://mathildesaliou.com/portfolio.html) dans des médias comme the Guardian, 20 Minutes, Slate, Numerama, les Inrocks ou La Déferlante.
+Adepte de vulgarisation et soucieuse des questions d'éducation aux médias et à l'information (EMI), je réfléchis aux formats les mieux à même de transmettre de l'information en fonction des publics visés. 
 
-Adepte de vulgarisation et soucieuse des questions d'éducation aux médias et à l'information (EMI), je réfléchis aux formats les mieux à même de transmettre de l'information en fonction des publics visés. Il m'arrive aussi de [prendre la parole](https://mathildesaliou.com/conferences.html) pour parler de technologies, de médias et d'inégalités.
+Actuellement, je travaille principalement pour [Next](https://www.nextinpact.com/). Mes articles ont aussi [été publiés](https://mathildesaliou.com/portfolio.html) dans des médias comme the Guardian, 20 Minutes, Slate, Numerama, les Inrocks ou La Déferlante. Il m'arrive aussi de [prendre la parole](https://mathildesaliou.com/conferences.html) pour parler de technologies, de médias et d'inégalités.
 
 J'ai écrit l'essai **Technoféminisme, comment le numérique aggrave les inégalités**, publié en février 2023 [aux éditions Grasset](https://www.grasset.fr/livres/technofeminisme-9782246828822).
 
