@@ -11,7 +11,7 @@ Adepte de vulgarisation et soucieuse des questions d'éducation aux médias et �
 
 Je travaille principalement pour [Next](https://www.nextinpact.com/). Par le passé, j'ai publié [des articles](https://mathildesaliou.com/portfolio.html) dans des médias comme the Guardian, 20 Minutes, Slate, Numerama, les Inrocks ou La Déferlante. Il m'arrive aussi de [prendre la parole](https://mathildesaliou.com/evenements.html) pour parler de technologies, de médias et d'inégalités.
 
-J'ai écrit l'essai **Technoféminisme, comment le numérique aggrave les inégalités**, publié en février 2023 [aux éditions Grasset](https://www.grasset.fr/livres/technofeminisme-9782246828822).
+Mon enquête **Technoféminisme, comment le numérique aggrave les inégalités** a été publiée en février 2023 [aux éditions Grasset](https://www.grasset.fr/livres/technofeminisme-9782246828822).
 
 ![Couverture Technoféminisme](https://github.com/mathildsl/test-website-repo-3796/blob/main/images/Technofeminisme_MathildeSaliou_small.jpeg?raw=true)
 
