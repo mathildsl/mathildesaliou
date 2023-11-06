@@ -6,6 +6,7 @@ in_menu: true
 Je travaille pour toutes sortes de média, le plus souvent écrits, quelquefois radio ou tv/vidéo. Vous trouverez ci-dessous une sélection de mes travaux récents. Si vous préférez avoir les images, vous pouvez aussi scroller dans mon [profil Ginkio](https://ginkio.com/mathilde-saliou) (cela dit, je ne promets rien sur la régularité de sa mise à jour).
 
 Je travaille principalement pour **Next**. Tous les articles longs que j'y publie sont [accessibles ici](https://www.nextinpact.com/recherche;q=;a=54;r=;p=1). Une petite sélection tout de même :
+ - [Israël - Hamas : sur le front numérique aussi, le conflit fait rage](https://www.nextinpact.com/article/72763/israel-hamas-sur-front-numerique-aussi-conflit-fait-rage)
  - [Boursorama demande les identifiants et mots de passe des impôts, la CNIL la met en demeure](https://www.nextinpact.com/article/72308/boursorama-demande-identifiants-et-mots-passe-impots-cnil-met-en-demeure)
  - [Derrière le détournement d’AirTag, des atteintes à la vie privée plus courantes](https://www.nextinpact.com/article/71896/derriere-detournement-dairtag-atteintes-a-vie-prive-plus-courantes)
  - [Aux États-Unis, l’avortement révélateur des problématiques de vie privée et de désinformation](https://www.nextinpact.com/article/71785/aux-etats-unis-lavortement-revelateur-problematiques-vie-privee-et-desinformation)
