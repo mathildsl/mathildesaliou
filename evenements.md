@@ -1,5 +1,5 @@
 ---
-title: "Évènements"
+title: "Événements"
 order: 4
 in_menu: true
 ---
