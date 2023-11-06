@@ -1,6 +1,7 @@
 ---
 title: "Contact"
-order: 4
+order: 5
+in_menu: true
 ---
 Je suis joignable sur tout un tas d'applications de ce vaste réseau qu'est internet&nbsp;:
 - sur [LinkedIn](https://www.linkedin.com/in/mathildesaliou/)
