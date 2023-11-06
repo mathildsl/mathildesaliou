@@ -3,7 +3,7 @@ title: "Portfolio"
 order: 2
 in_menu: true
 ---
-Je travaille pour toutes sortes de média, le plus souvent écrits, quelquefois radio ou tv/vidéo. Vous trouverez ci-dessous une sélection de mes travaux récents, mais si vous préférez avoir les images, vous pouvez aussi scroller dans mon [profil Ginkio](https://ginkio.com/mathilde-saliou) (cela dit, je ne promets rien sur la régularité de sa mise à jour).
+Je travaille pour toutes sortes de média, le plus souvent écrits, quelquefois radio ou tv/vidéo. Vous trouverez ci-dessous une sélection de mes travaux récents. Si vous préférez avoir les images, vous pouvez aussi scroller dans mon [profil Ginkio](https://ginkio.com/mathilde-saliou) (cela dit, je ne promets rien sur la régularité de sa mise à jour).
 
 Actuellement, je travaille principalement chez **Next Inpact**. Tous les articles longs que j'y publie sont [accessibles ici](https://www.nextinpact.com/recherche;q=;a=54;r=;p=1). Une petite sélection tout de même :
  - [Boursorama demande les identifiants et mots de passe des impôts, la CNIL la met en demeure](https://www.nextinpact.com/article/72308/boursorama-demande-identifiants-et-mots-passe-impots-cnil-met-en-demeure)
