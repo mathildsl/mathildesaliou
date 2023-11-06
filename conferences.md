@@ -5,6 +5,8 @@ in_menu: true
 ---
 Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/technofeminisme-9782246828822), pour parler tech ou pour évoquer la place des femmes et des minorités dans les médias, il m'arrive de participer à des tables rondes et de donner des conférences. 
 
+Pour toutes questions, n'hésitez pas à [m'écrire](https://mathildesaliou.com/contact.html).
+
 ## À venir
 Projection-rencontre : "Clean with me (after dark)" de Gabrielle Stemmer, puis discussion avec la réalisatrice, Médiathèque Françoise Sagan, Paris 10e, 14 novembre 2023 ([Réservation (gratuite)](https://moisdudoc.com/programme/tout-le-programme/projection-14112023-mediatheque-francoise-sagan-ile-de-france-paris))
 
