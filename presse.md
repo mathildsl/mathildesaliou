@@ -3,7 +3,7 @@ title: "Presse"
 order: 3
 in_menu: true
 ---
-Il m'arrive d'être interviewée pour parler tech, pour évoquer la place des femmes et des minorités dans les médias ou pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/technofeminisme-9782246828822). Voici un aperçu de ces passages dans des médias 📰 écrits, 🎧 radio ou 📺 vidéo :
+Il m'arrive d'être interviewée par des médias 📰 écrits, 🎧 radio ou 📺 vidéo pour parler de divers sujets :
 
 ##### > Intelligence artificielle
 📺 ["L'intelligence artificielle est-elle sexiste ?"](https://www.arte.tv/fr/videos/113219-006-A/l-intelligence-artificielle-est-elle-sexiste/), Kreatur, Arte, 6 juillet 2023
