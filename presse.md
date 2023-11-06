@@ -5,7 +5,7 @@ in_menu: true
 ---
 Il m'arrive d'être interviewée par des médias 📰 écrits, 🎧 radio ou 📺 vidéo pour parler de divers sujets :
 
-##### > Intelligence artificielle
+##### Intelligence artificielle
 📺 ["L'intelligence artificielle est-elle sexiste ?"](https://www.arte.tv/fr/videos/113219-006-A/l-intelligence-artificielle-est-elle-sexiste/), Kreatur, Arte, 6 juillet 2023
 
 📺/🎧 ["¿Hay que tener miedo a la Inteligencia Artificial?"](https://www.rfi.fr/es/programas/en-primera-plana/20230623-hay-que-tener-miedo-a-la-inteligencia-artificial), En Primera Plana, RFI / France 24, 23 juin 2023
@@ -18,7 +18,7 @@ Il m'arrive d'être interviewée par des médias 📰 écrits, 🎧 radio ou �
 
 🎧 ["La malédiction des algorithmes"](https://frenchspin.fr/2022/05/rdv-tech-461-la-malediction-des-algorithmes/), RDV Tech 461, 31 mai 2022
 
-##### > Espace public numérique, cyberviolences et discriminations
+##### Espace public numérique, cyberviolences et discriminations
 🎧 [Technoféminisme et inégalités - Mathilde Saliou](https://open.spotify.com/episode/0An7Lc8EnlKe6PGDtQQqZR), Imaginaires, 12 avril 2023
 
 📰 [« Les femmes ne sont pas assez incluses dans la création des plateformes »](https://www.lesoir.be/524484/article/2023-07-09/les-femmes-ne-sont-pas-assez-incluses-dans-la-creation-des-plateformes), Le Soir, 9 juillet 2023
@@ -30,17 +30,17 @@ Il m'arrive d'être interviewée par des médias 📰 écrits, 🎧 radio ou �
 
 🎧 [Geeks, trolls & compagnie, épisode 1](https://www.binge.audio/podcast/les-couilles-sur-la-table/geeks-trolls-cie-1-2), Les Couilles sur la table, Binge Audio, 20 avril 2023
 
-##### > Cybersécurité
+##### Cybersécurité
 📰 [« Faites méga attention » : l’AirTag, ce gadget d’Apple qui facilite le cyberharcèlement des femmes](https://www.ouest-france.fr/high-tech/apple/faites-mega-attention-lairtag-dapple-ce-gadget-qui-facilite-le-cyberharcelement-des-femmes-ae2da88a-0ab0-11ee-8e64-75fa9f3906ed), Ouest France, 15 juin 2023
 
 📺 [Piratage de Vinted : les cagnottes en ligne, point faible de la sécurité numérique ?](https://www.tf1info.fr/conso/video-piratage-de-vinted-les-cagnottes-en-ligne-point-faible-de-la-securite-numerique-2252084.html), TF1, 26 mars 2023
 
-##### > Tech et représentations
+##### Tech et représentations
 📰 [Les robots sexuels entretiennent-ils la culture du viol ?](https://www.madmoizelle.com/les-robots-sexuels-entretiennent-ils-la-culturel-du-viol-1491411), Madmoizelle, 7 février 2023
 
 📰 [Cryptomonnaies : concours de bitcoin](https://www.causette.fr/societe/en-france/cryptomonnaies-concours-de-bitcoins), Causette, 1 juin 2022
 
-##### > Médias et représentations
+##### Médias et représentations
 📰 ["Inclusion dans les médias : un double déséquilibre à combler"](https://www.medianes.org/inclusion-dans-les-medias-un-double-desequilibre-a-combler/), Médianes, 23 février 2022
 
 
