@@ -1,10 +1,11 @@
 ---
 title: "Accueil"
 order: 1
+in_menu: true
 ---
 # Bienvenue !
 
-Je suis **Mathilde Saliou**, journaliste et autrice, spécialisée dans le numérique. J'étudie les effets des technologies sur la société et la manière dont cette dernière modèle les innovations en cours. Dit autrement, je couvre des thématiques liées à la tech, à l'information, ainsi qu'aux inégalités présentes dans les médias et les mondes connectés.
+Je suis **Mathilde Saliou**, journaliste et autrice, spécialisée dans le numérique. J'étudie les effets des technologies sur la société et la manière dont cette dernière modèle les innovations en cours. Dit autrement, je couvre des thématiques liées à la tech, à l'information, ainsi qu'aux inégalités présentes dans les médias et les mondes connectés (principalement pour [Next](https://www.nextinpact.com/recherche;q=;a=54;r=;p=1)).
 
 Adepte de vulgarisation et soucieuse des questions d'éducation aux médias et à l'information (EMI), je réfléchis aux formats les mieux à même de transmettre de l'information en fonction des publics visés.
 
