@@ -18,6 +18,9 @@ Actuellement, je travaille principalement chez **Next Inpact**. Tous les article
   - [Milliardaires de la tech : pourquoi altruisme efficace et longtermisme font-ils débat ?](https://www.nextinpact.com/article/70712/milliardaires-tech-pourquoi-altruisme-efficace-et-longtermisme-font-ils-debat)
   - [Comment les mouvements politiques français jouent des techniques de manipulation de l'information sur les réseaux sociaux](https://www.nextinpact.com/article/70132/comment-mouvements-politiques-francais-jouent-techniques-manipulation-information-sur-reseaux-sociaux)
 
+En 2023, j'ai rejoint le [fellowship](https://algorithmwatch.org/en/second-group-algorithmwatch-fellows/) de l'ONG **AlgorithmWatch**. Ceci m'a conduite à publier :
+- [Automated navigation systems are still wreaking havoc on small towns’ streets](https://algorithmwatch.org/en/navigation-systems-small-towns/)
+
 En 2022, ma consœur Ingri Bergo et moi avons remporté une bourse du [Journalismfund Europe](https://www.journalismfund.eu/supported-projects/across-europe-revenge-porn-victims-are-taking-digital-abusers) pour enquêter sur le phénomène de la diffusion non consentie d'images à caractère sexuel en Europe. Ç'a donné lieu à plusieurs publications : 
 - dans **the Guardian**, ["‘They said: aren’t you that porn star?’ The woman hunting down image-based abuse"](https://www.theguardian.com/global-development/2022/oct/19/they-said-arent-you-that-porn-star-the-woman-hunting-down-image-based-abuse)
 - dans **Slate**, une série en quatre épisodes : 
@@ -51,9 +54,6 @@ De fin 2018 à fin 2020, j'ai été journaliste économique chez **mind Fintech*
 #### À la pige
 
 Au fil des ans, j'ai aussi travaillé avec des médias comme
-
-**Algorithm Watch**
-  - [Automated navigation systems are still wreaking havoc on small towns’ streets](https://algorithmwatch.org/en/navigation-systems-small-towns/)
 
 **Plan Cash** : 
   - [Ces aides sociales qui font gagner "un pognon de dingue" à l’État](https://plancash.substack.com/p/n41-ces-aides-sociales-qui-font-gagners)
