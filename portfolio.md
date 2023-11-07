@@ -56,6 +56,9 @@ De fin 2018 à fin 2020, j'ai été journaliste économique chez **mind Fintech*
 
 Au fil des ans, j'ai aussi travaillé avec des médias comme
 
+**La Déferlante** : 
+ - [Comment rendre l'intelligence artificielle plus inclusive ?](https://revueladeferlante.fr/intelligence-artificielle-comment-la-rendre-plus-inclusive/)
+
 **Plan Cash** : 
   - [Ces aides sociales qui font gagner "un pognon de dingue" à l’État](https://plancash.substack.com/p/n41-ces-aides-sociales-qui-font-gagners)
   - [Noël arrivant, faillite au tournant?](https://plancash.substack.com/p/noel-arrivant-faillite-au-tournant)
