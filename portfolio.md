@@ -60,6 +60,7 @@ Au fil des ans, j'ai aussi travaillé avec des médias comme
  - [Comment rendre l'intelligence artificielle plus inclusive ?](https://revueladeferlante.fr/intelligence-artificielle-comment-la-rendre-plus-inclusive/)
 
 **Plan Cash** : 
+  - [Le “cashback”, technique anti-inflation ou arnaque?](https://plancash.substack.com/p/n43-le-cashback-technique-anti-inflation)
   - [Ces aides sociales qui font gagner "un pognon de dingue" à l’État](https://plancash.substack.com/p/n41-ces-aides-sociales-qui-font-gagners)
   - [Noël arrivant, faillite au tournant?](https://plancash.substack.com/p/noel-arrivant-faillite-au-tournant)
 
