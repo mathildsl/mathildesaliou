@@ -6,7 +6,7 @@ in_menu: true
 Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/technofeminisme-9782246828822), pour parler tech ou pour évoquer la place des femmes et des minorités dans les médias, il m'arrive de participer à des tables rondes et de donner des conférences. Pour toutes questions, n'hésitez pas à [m'écrire](https://mathildesaliou.com/contact.html).
 
 ## À venir
-Rencontre en ligne : "Féminisme et réseaux sociaux", 17 novembre 2023, 12h30, [sur LinkedIn](https://www.linkedin.com/events/7111342439524618240/comments/))
+Rencontre en ligne : "Féminisme et réseaux sociaux", 17 novembre 2023, 12h30, [sur LinkedIn](https://www.linkedin.com/events/7111342439524618240/comments/)
 
 ## Événements passés
 (pour lesquels il existe une captation)
