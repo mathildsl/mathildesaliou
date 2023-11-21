@@ -24,12 +24,12 @@ J'ai étudié à l'École de journalisme et à l'École de la communication de S
 
 # Welcome!
 
-I am Mathilde Saliou, a journalist and author specializing in digital issues. I study the effects of technology on society and the ways in which society shapes current innovations. In other words, I cover topics related to tech, information and inequalities in the media and connected worlds.
+I am Mathilde Saliou, a journalist and author specializing in digital issues. I study the effects of technology on society and how society shapes current innovations. In other words, I cover topics related to tech, information, and inequalities in the media and connected worlds.
 
-I work mainly for [Next](https://www.nextinpact.com/). In the past, I've published [articles](https://mathildesaliou.com/portfolio.html) in media such as the Guardian or Algorithm Watch (in English), 20 Minutes, Slate, Numerama, les Inrocks and La Déferlante (in French). I also occasionally [speak out](https://mathildesaliou.com/evenements.html) on technology, the media and inequality.
+I mainly work for [Next](https://next.ink/). In the past, I have published [articles](https://mathildesaliou.com/portfolio.html) in media such as the Guardian or Algorithm Watch (in English), 20 Minutes, Slate, Numerama, les Inrocks and La Déferlante (in French). I also occasionally [speak out](https://mathildesaliou.com/evenements.html) (in French, English or Spanish) on technology, the media and inequality.
 
 My book __Technoféminisme, comment le numérique aggrave les inégalités__ (Technofeminism, how tech exacerbates inequalities) was published in February 2023 [by Grasset](https://www.grasset.fr/livres/technofeminisme-9782246828822).
 
 From 2020 to 2022, I was Secretary General of the association [Prenons la Une](https://prenonslaune.fr/), which works to improve the representation of women in the media and promote equality in editorial departments. I set up and run cyberbullying awareness [training courses](https://prenonslaune.fr/2020/11/cyberharcelement-journaliste/) on behalf of Prenons la Une.
 
-I studied at the École de journalisme and the École de la communication at Sciences Po Paris, after a bachelor degree at the same university. I also spent an academic year at the Ludwig Maximilians Universität in Munich. 
+I studied at the École de journalisme and the École de la communication at Sciences Po Paris, after a bachelor's degree at the same university. I also spent an academic year at the Ludwig Maximilians Universität in Munich. 
