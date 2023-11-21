@@ -26,7 +26,7 @@ J'ai étudié à l'École de journalisme et à l'École de la communication de S
 
 I am Mathilde Saliou, a journalist and author specializing in digital issues. I study the effects of technology on society and how society shapes current innovations. In other words, I cover topics related to tech, information, and inequalities in the media and connected worlds.
 
-I mainly work for [Next](https://next.ink/). In the past, I have published [articles](https://mathildesaliou.com/portfolio.html) in media such as the Guardian or Algorithm Watch (in English), 20 Minutes, Slate, Numerama, les Inrocks and La Déferlante (in French). I also occasionally [speak out](https://mathildesaliou.com/evenements.html) (in French, English or Spanish) on technology, the media and inequality.
+I mainly work for [Next](https://next.ink/). In the past, I have published [articles](https://mathildesaliou.com/portfolio.html) in media such as the Guardian or Algorithm Watch (in English), 20 Minutes, Slate, Numerama, les Inrocks and La Déferlante (in French). I also occasionally [speak out](https://mathildesaliou.com/evenements.html) on technology, the media and inequality.
 
 My book __Technoféminisme, comment le numérique aggrave les inégalités__ (Technofeminism, how tech exacerbates inequalities) was published in February 2023 [by Grasset](https://www.grasset.fr/livres/technofeminisme-9782246828822).
 
