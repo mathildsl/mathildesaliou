@@ -5,6 +5,9 @@ in_menu: true
 ---
 Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/technofeminisme-9782246828822), pour parler tech ou pour évoquer la place des femmes et des minorités dans les médias, il m'arrive de participer à des tables rondes et de donner des conférences. Pour toutes questions, n'hésitez pas à [m'écrire](https://mathildesaliou.com/contact.html).
 
+## Événements à venir
+
+"L'IA, une machine à renforcer les inégalités", Cycle de conférences sur l'intelligence artificielle, Café Le Dorothy, Paris 20, 7 décembre 2023, [infos pratiques](https://www.ledorothy.fr/2023/11/10/cycle-ia/)
 
 ## Événements passés
 (pour lesquels il existe une captation)
