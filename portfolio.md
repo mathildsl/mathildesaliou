@@ -91,6 +91,7 @@ Au fil des ans, j'ai aussi travaillé avec des médias comme
   - [Que signifie « supply chain attack » ?](https://www.numerama.com/cyberguerre/1099428-quest-ce-quune-supply-chain-attack.html)
   - [Qu’est-ce qu’un phishing ?](https://www.numerama.com/cyberguerre/1094534-quest-ce-quun-phishing.html)
   - [Peut-on cartographier internet ?](https://www.numerama.com/tech/533403-peut-on-cartographier-internet.html)
+  - [Comment les jumeaux numériques bouleversent le secteur de la santé](https://www.numerama.com/tech/451414-comment-les-jumeaux-numeriques-bouleversent-la-sante.html)
   - [Google Maps nous fait-il perdre le sens de l’orientation ?](https://www.numerama.com/tech/403659-google-maps-nous-fait-il-perdre-le-sens-de-lorientation.html)
 - [Les intelligences artificielles sont-elles sexistes ? Des spécialistes nous répondent](https://www.numerama.com/politique/330075-les-intelligences-artificielles-sont-elles-sexistes-des-specialistes-nous-repondent.html)
 
