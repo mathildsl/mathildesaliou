@@ -35,9 +35,12 @@ De 2020 à 2022, j'ai été journaliste et coordinatrice de la rédaction de **F
 - [Série] [La blockchain pour ceux qui n’y connaissent rien (et pour les autres aussi)](https://flint.media/posts/106-la-blockchain-pour-ceux-qui-n-rsquo-y-connaissent-rien-et-pour-les-autres-aussi)
 - [Debunk] [Vaccins anti-covid : comment débattre sans se battre ?](https://flint.media/posts/96-covid-comment-les-vaccins-agissent-t-ils)
 - [Facebook et l’art de produire de l’ignorance](https://flint.media/posts/122-facebook-et-l-art-de-produire-de-l-ignorance)
+- [Qu’implique la transformation numérique de l’État ?](https://flint.media/posts/84-quimplique-la-transformation-numerique-de-letat)
 - [Passion economy, banques et porno : le bingo OnlyFans](https://flint.media/posts/98-passion-economy-banques-et-porno-le-bingo-onlyfans)
 - [Pourquoi les influenceurs d’extrême-droite font-ils polémique ?](https://flint.media/posts/23-pourquoi-la-video-de-linfluenceur-dextreme-droite-papacito-fait-elle-polemique)
 - [Faut-il libérer Britney Spears ?](https://flint.media/posts/49-faut-il-liberer-britney-spears)
+- [Le nucléaire est-il écologique ?](https://flint.media/posts/57-le-nucleaire-est-il-ecologique)
+- [Faut-il payer la rançon des cyberpirates ?](https://flint.media/posts/2-faut-il-payer-la-rancon-des-cyberpirates)
 - [Les Français détestent-ils l’information ?](https://flint.media/posts/29-les-francais-detestent-ils-linformation)
 
 De fin 2018 à fin 2020, j'ai été journaliste économique chez **mind Fintech**. J'y ai principalement couvert les activités des géants numériques américains et chinois dans le secteur de la banque et de l'assurance, les questions de cybersécurité et les sujets liés à l'écosystème blockchain/crypto. Quelques exemples :
