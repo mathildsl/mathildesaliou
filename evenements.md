@@ -8,8 +8,8 @@ Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/tec
 ## Événements passés
 (pour lesquels il existe une captation)
 
-Keynote d'ouverture, Who Run The Tech ?, Rennes, 30 novembre 2023
-> 📺 [Replay sur YouTube](https://www.youtube.com/watch?v=YCMqfBk4amU&list=PL4MHvaRnrWwEVqeo6Jeqt9_iLeP5thCWe&index=1)
+"Imaginez un monde numérique sans femmes", Who Run The Tech ?, Rennes, 30 novembre 2023
+> 📺 [Replay de la keynote](https://www.youtube.com/watch?v=YCMqfBk4amU&list=PL4MHvaRnrWwEVqeo6Jeqt9_iLeP5thCWe&index=1)
 
 📺 Rencontre en ligne : "Féminisme et réseaux sociaux", 17 novembre 2023, [sur LinkedIn](https://www.linkedin.com/events/liveif-minismeetr-seauxsociaux7111342439524618240/comments/)
 
