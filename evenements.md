@@ -5,12 +5,11 @@ in_menu: true
 ---
 Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/technofeminisme-9782246828822), pour parler tech ou pour évoquer la place des femmes et des minorités dans les médias, il m'arrive de participer à des tables rondes et de donner des conférences. Pour toutes questions, n'hésitez pas à [m'écrire](https://mathildesaliou.com/contact.html).
 
-## Événements à venir
-
-"L'IA, une machine à renforcer les inégalités", Cycle de conférences sur l'intelligence artificielle, Café Le Dorothy, Paris 20, 7 décembre 2023, [infos pratiques](https://www.ledorothy.fr/2023/11/10/cycle-ia/)
-
 ## Événements passés
 (pour lesquels il existe une captation)
+
+Keynote d'ouverture, Who Run The Tech ?, Rennes, 30 novembre 2023
+> 📺 [Replay sur YouTube](https://www.youtube.com/watch?v=YCMqfBk4amU&list=PL4MHvaRnrWwEVqeo6Jeqt9_iLeP5thCWe&index=1)
 
 📺 Rencontre en ligne : "Féminisme et réseaux sociaux", 17 novembre 2023, [sur LinkedIn](https://www.linkedin.com/events/liveif-minismeetr-seauxsociaux7111342439524618240/comments/)
 
