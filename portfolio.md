@@ -111,4 +111,11 @@ Au fil des ans, j'ai aussi travaillé avec des médias comme
   - [Avec Empow’Her, Soazig Barthélémy aide les femmes à devenir entrepreneures
 ](https://www.lesinrocks.com/cheek/empowher-soazig-barthelemy-femmes-entrepreneures-312045-23-05-2017/)
 
+**L'Étudiant**
+  - [Paye ta fac, lumière crue sur le sexisme ordinaire à l'université](https://www.letudiant.fr/educpros/actualite/paye-ta-fac-lumiere-crue-sexisme-ordinaire-universite.html)
+  - [Ces élèves ingénieurs français ont testé la vie sur Mars](https://www.letudiant.fr/etudes/ecole-ingenieur/ces-eleves-ingenieurs-ont-teste-la-vie-sur-mars.html)
+  - [César 2017 : Oulaya Amamra, "divine" comédienne en herbe, meilleur espoir féminin](https://www.letudiant.fr/etudes/ecole-art/oulaya-amamra-divine-comedienne-en-herbe-nominee-cesar-2017.html)
+  - [Liens facs de médecine-industrie pharmaceutique : qu’en disent les étudiants ?](https://www.letudiant.fr/metiers/avenir-sante/independance-des-facultes-vis-a-vis-de-l-industrie-pharmaceutique-qu-en-disent-les-etudiants.html) 
+  - [À 25 ans, elles créent des cosmétiques pour booster le moral des malades du cancer](https://www.letudiant.fr/etudes/ecoles-specialisees/a-25-ans-elles-creent-des-cosmetiques-pour-booster-le-moral-des-malades-du-cancer.html)
+
 J'ai aussi travaillé pour **Industrie et technologies**, **L'Étudiant**, **Petit Web**, **Nichons nous dans l'Internet**, etc. 
