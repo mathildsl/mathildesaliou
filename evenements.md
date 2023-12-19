@@ -5,6 +5,12 @@ in_menu: true
 ---
 Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/technofeminisme-9782246828822), pour parler tech ou pour évoquer la place des femmes et des minorités dans les médias, il m'arrive de participer à des tables rondes et de donner des conférences. Pour toutes questions, n'hésitez pas à [m'écrire](https://mathildesaliou.com/contact.html).
 
+## Événements à venir
+
+L'IA va-t-elle tous nous remplacer ?, Rencontres internationales Saint-François de Sales, Lourdes, 25 janvier 2024
+
+"Agissons pour stopper les inégalités et les violences en ligne !", Rencontre avec Nathalie Sonnac et l'association Les Lumidacieuses, Paris, 8 février 2024 ([inscriptions](https://www.eventbrite.fr/e/billets-agissons-pour-stopper-les-inegalites-et-les-violences-en-ligne-773358113937))
+
 ## Événements passés
 (pour lesquels il existe une captation)
 
