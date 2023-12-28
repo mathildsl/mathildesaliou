@@ -5,6 +5,14 @@ in_menu: true
 ---
 Il m'arrive d'être interviewée par des médias 📰 écrits, 🎧 radio ou 📺 vidéo pour parler de divers sujets :
 
+
+##### Tech et représentations
+📰 ["Pornographie : l’intelligence artificielle, nouvel outil d’humiliation des femmes "](https://www.la-croix.com/france/pornographie-l-intelligence-artificielle-nouvel-outil-dhumiliation-des-femmes-20231217), La Croix, 17 décembre 2023
+
+📰 [Les robots sexuels entretiennent-ils la culture du viol ?](https://www.madmoizelle.com/les-robots-sexuels-entretiennent-ils-la-culturel-du-viol-1491411), Madmoizelle, 7 février 2023
+
+📰 [Cryptomonnaies : concours de bitcoin](https://www.causette.fr/societe/en-france/cryptomonnaies-concours-de-bitcoins), Causette, 1 juin 2022
+
 ##### Intelligence artificielle
 📺 ["L'intelligence artificielle est-elle sexiste ?"](https://www.arte.tv/fr/videos/113219-006-A/l-intelligence-artificielle-est-elle-sexiste/), Kreatur, Arte, 6 juillet 2023
 
@@ -34,11 +42,6 @@ Il m'arrive d'être interviewée par des médias 📰 écrits, 🎧 radio ou �
 📰 [« Faites méga attention » : l’AirTag, ce gadget d’Apple qui facilite le cyberharcèlement des femmes](https://www.ouest-france.fr/high-tech/apple/faites-mega-attention-lairtag-dapple-ce-gadget-qui-facilite-le-cyberharcelement-des-femmes-ae2da88a-0ab0-11ee-8e64-75fa9f3906ed), Ouest France, 15 juin 2023
 
 📺 [Piratage de Vinted : les cagnottes en ligne, point faible de la sécurité numérique ?](https://www.tf1info.fr/conso/video-piratage-de-vinted-les-cagnottes-en-ligne-point-faible-de-la-securite-numerique-2252084.html), TF1, 26 mars 2023
-
-##### Tech et représentations
-📰 [Les robots sexuels entretiennent-ils la culture du viol ?](https://www.madmoizelle.com/les-robots-sexuels-entretiennent-ils-la-culturel-du-viol-1491411), Madmoizelle, 7 février 2023
-
-📰 [Cryptomonnaies : concours de bitcoin](https://www.causette.fr/societe/en-france/cryptomonnaies-concours-de-bitcoins), Causette, 1 juin 2022
 
 ##### Médias et représentations
 📰 ["Inclusion dans les médias : un double déséquilibre à combler"](https://www.medianes.org/inclusion-dans-les-medias-un-double-desequilibre-a-combler/), Médianes, 23 février 2022
