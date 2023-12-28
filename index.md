@@ -24,12 +24,12 @@ J'ai étudié à l'École de journalisme et à l'École de la communication de S
 
 # Welcome!
 
-I am Mathilde Saliou, a journalist and author specializing in digital issues. I study the effects of technology on society and how society shapes current innovations. In other words, I cover topics related to tech, information, and inequalities in the media and connected worlds.
+Mathilde Saliou is a journalist and author specializing in digital issues. She studies the effects of technology on society and how society shapes current innovations. In other words, she covers topics related to tech, information, and inequalities in the media and connected worlds.
 
-I mainly work for [Next](https://next.ink/). In the past, I have published [articles](https://mathildesaliou.com/portfolio.html) in media such as the Guardian or Algorithm Watch (in English), 20 Minutes, Slate, Numerama, les Inrocks and La Déferlante (in French). I also occasionally [speak out](https://mathildesaliou.com/evenements.html) on technology, the media and inequality.
+Mathilde Saliou mainly works for [Next](https://next.ink/). In the past, she has published [articles](https://mathildesaliou.com/portfolio.html) in media such as the Guardian or Algorithm Watch (in English), 20 Minutes, Slate, Numerama, les Inrocks and La Déferlante (in French). She also [gives conferences and talks](https://mathildesaliou.com/evenements.html) on technology, the media and inequality.
 
-My book __Technoféminisme, comment le numérique aggrave les inégalités__ (Technofeminism, how tech exacerbates inequalities) was published in February 2023 [by Grasset](https://www.grasset.fr/livres/technofeminisme-9782246828822).
+Her book __Technoféminisme, comment le numérique aggrave les inégalités__ (Technofeminism, how tech exacerbates inequalities) was published in February 2023 [by Grasset](https://www.grasset.fr/livres/technofeminisme-9782246828822).
 
-From 2020 to 2022, I was Secretary General of the association [Prenons la Une](https://prenonslaune.fr/), which works to improve the representation of women in the media and promote equality in editorial departments. I set up and run cyberbullying awareness [training courses](https://prenonslaune.fr/2020/11/cyberharcelement-journaliste/) on behalf of Prenons la Une.
+From 2020 to 2022, Mathilde was Secretary General of the association [Prenons la Une](https://prenonslaune.fr/), which works to improve the representation of women in the media and promote equality in editorial departments. She set up and runs cyberbullying awareness [training courses](https://prenonslaune.fr/2020/11/cyberharcelement-journaliste/) on behalf of Prenons la Une.
 
-I studied at the École de journalisme and the École de la communication at Sciences Po Paris, after a bachelor's degree at the same university. I also spent an academic year at the Ludwig Maximilians Universität in Munich. 
+Mathilde Saliou studied at the École de journalisme and the École de la communication at Sciences Po Paris, after a bachelor's degree at the same university. She also spent an academic year at the Ludwig Maximilians Universität in Munich. 
