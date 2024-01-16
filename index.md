@@ -7,7 +7,14 @@ in_menu: true
 
 Je suis **Mathilde Saliou**, journaliste et autrice, spécialisée dans le numérique. J'étudie les effets des technologies sur la société et la manière dont cette dernière modèle les innovations en cours. Dit autrement, je couvre des thématiques liées à la tech, à l'information, ainsi qu'aux inégalités présentes dans les médias et les mondes connectés.
 
-Adepte de vulgarisation et soucieuse des questions d’éducation aux médias et à l’information (EMI), je réfléchis aux formats les mieux à même de transmettre des connaissances en fonction des publics visés et je partage des outils [dans ma newsletter Technoculture](https://technoculture.kessel.media/).
+Adepte de vulgarisation et soucieuse des questions d’éducation aux médias et à l’information (EMI), je réfléchis aux formats les mieux à même de transmettre des connaissances en fonction des publics visés et je partage des outils [dans ma newsletter Technoculture](https://technoculture.kessel.media/) : 
+
+<iframe
+    src="https://technoculture.kessel.media/embed" height="300"
+    style="border:1px solid #EEE; background:white;"
+    frameborder="0"
+    scrolling="no"
+    ></iframe>
 
 Je travaille principalement pour [Next](https://www.nextinpact.com/). Par le passé, j'ai publié [des articles](https://mathildesaliou.com/portfolio.html) dans des médias comme the Guardian, 20 Minutes, Slate, Numerama, les Inrocks ou La Déferlante. Il m'arrive aussi de [prendre la parole](https://mathildesaliou.com/evenements.html) pour parler de technologies, de médias et d'inégalités.
 
