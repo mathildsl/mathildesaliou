@@ -12,6 +12,15 @@ Je suis joignable sur tout un tas d'applications de ce vaste réseau qu'est inte
 
 Vous pouvez me demander mon téléphone (pour WhatsApp, Telegram, Signal) ou un CV via l'un des canaux cités ci-dessus.
 
+Ou vous abonner à mon infolettre, Technoculture : 
+
+<iframe
+    src="https://technoculture.kessel.media/embed" width="480" height="320"
+    style="border:1px solid #EEE; background:white;"
+    frameborder="0"
+    scrolling="no"
+    ></iframe>
+
 ____
 
 Ce site a été construit grâce à [Scribouilli](https://scribouilli.org/). 
