@@ -14,12 +14,12 @@ Vous pouvez me demander mon téléphone (pour WhatsApp, Telegram, Signal) ou un 
 
 Ou vous abonner à mon infolettre, Technoculture : 
 
-<iframe
+<div style="width: 800px; height: 600px; margin: auto;"><iframe
     src="https://technoculture.kessel.media/embed" width="480" height="320"
     style="border:1px solid #EEE; background:white;"
     frameborder="0"
     scrolling="no"
-    ></iframe>
+    ></iframe></div>
 
 ____
 
