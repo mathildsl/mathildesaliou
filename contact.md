@@ -15,7 +15,7 @@ Vous pouvez me demander mon téléphone (pour WhatsApp, Telegram, Signal) ou un 
 Ou vous abonner à mon infolettre, [Technoculture](https://technoculture.kessel.media/posts) : 
 
 <iframe
-    src="https://technoculture.kessel.media/embed" height="400"
+    src="https://technoculture.kessel.media/embed" height="300"
     style="border:1px solid #EEE; background:white;"
     frameborder="0"
     scrolling="no"
