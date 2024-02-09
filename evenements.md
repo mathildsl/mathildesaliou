@@ -7,11 +7,7 @@ Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/tec
 
 ## Événements à venir
 
-"L'IA va-t-elle tous nous remplacer ?", Rencontres internationales Saint-François de Sales, Lourdes, 25 janvier 2024, [Programme](https://www.medias-catholiques.fr/edito/JSFS-2023_Francais)
-
-"La liberté de la presse se défend chaque jour, de la Bretah,e à l'Afghanistan", Les États généraux de l'information, Lannion, 3 février 2024 [Programme](https://cotesdarmor.fr/etatsgenerauxdelinformation)
-
-"Agissons pour stopper les inégalités et les violences en ligne !", Rencontre avec Nathalie Sonnac et l'association Les Lumidacieuses, Paris, 8 février 2024 ([inscriptions](https://www.eventbrite.fr/e/billets-agissons-pour-stopper-les-inegalites-et-les-violences-en-ligne-773358113937))
+"Salon du livre féministe", Paris, 2 mars [Programme](https://www.salondulivrefeministe.com/)
 
 ## Événements passés
 (pour lesquels il existe une captation)
