@@ -6,14 +6,9 @@ in_menu: true
 Il m'arrive d'être interviewée par des médias 📰 écrits, 🎧 radio ou 📺 vidéo pour parler de divers sujets :
 
 
-##### Tech et représentations
-📰 ["Pornographie : l’intelligence artificielle, nouvel outil d’humiliation des femmes "](https://www.la-croix.com/france/pornographie-l-intelligence-artificielle-nouvel-outil-dhumiliation-des-femmes-20231217), La Croix, 17 décembre 2023
-
-📰 [Les robots sexuels entretiennent-ils la culture du viol ?](https://www.madmoizelle.com/les-robots-sexuels-entretiennent-ils-la-culturel-du-viol-1491411), Madmoizelle, 7 février 2023
-
-📰 [Cryptomonnaies : concours de bitcoin](https://www.causette.fr/societe/en-france/cryptomonnaies-concours-de-bitcoins), Causette, 1 juin 2022
-
 ##### Intelligence artificielle
+📺/🎧 ["Inteligencia Artificial, ¿se abre la era de la desconfianza?"](https://www.rfi.fr/es/programas/en-primera-plana/20240216-inteligencia-artificial-se-abre-la-era-de-la-desconfianza), En Primera Plana, RFI / France 24, 16 février 2024
+
 📺 ["L'intelligence artificielle est-elle sexiste ?"](https://www.arte.tv/fr/videos/113219-006-A/l-intelligence-artificielle-est-elle-sexiste/), Kreatur, Arte, 6 juillet 2023
 
 📺/🎧 ["¿Hay que tener miedo a la Inteligencia Artificial?"](https://www.rfi.fr/es/programas/en-primera-plana/20230623-hay-que-tener-miedo-a-la-inteligencia-artificial), En Primera Plana, RFI / France 24, 23 juin 2023
@@ -25,6 +20,13 @@ Il m'arrive d'être interviewée par des médias 📰 écrits, 🎧 radio ou �
 📺 ["IA : "Demandez un portrait de femme, vous aurez un décolleté plongeant"](https://www.arretsurimages.net/emissions/arret-sur-images/ia-demandez-un-portrait-de-femme-vous-aurez-un-decollete-plongeant), Arrêt sur images, 20 janvier 2023
 
 🎧 ["La malédiction des algorithmes"](https://frenchspin.fr/2022/05/rdv-tech-461-la-malediction-des-algorithmes/), RDV Tech 461, 31 mai 2022
+
+##### Tech et représentations
+📰 ["Pornographie : l’intelligence artificielle, nouvel outil d’humiliation des femmes "](https://www.la-croix.com/france/pornographie-l-intelligence-artificielle-nouvel-outil-dhumiliation-des-femmes-20231217), La Croix, 17 décembre 2023
+
+📰 [Les robots sexuels entretiennent-ils la culture du viol ?](https://www.madmoizelle.com/les-robots-sexuels-entretiennent-ils-la-culturel-du-viol-1491411), Madmoizelle, 7 février 2023
+
+📰 [Cryptomonnaies : concours de bitcoin](https://www.causette.fr/societe/en-france/cryptomonnaies-concours-de-bitcoins), Causette, 1 juin 2022
 
 ##### Espace public numérique, cyberviolences et discriminations
 🎧 [Technoféminisme et inégalités - Mathilde Saliou](https://open.spotify.com/episode/0An7Lc8EnlKe6PGDtQQqZR), Imaginaires, 12 avril 2023
