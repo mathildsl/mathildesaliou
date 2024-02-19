@@ -3,9 +3,11 @@ title: "Portfolio"
 order: 2
 in_menu: true
 ---
-Je travaille pour toutes sortes de média, le plus souvent écrits, quelquefois radio ou tv/vidéo. Vous trouverez ci-dessous une sélection de mes travaux récents. Si vous préférez avoir les images, vous pouvez aussi scroller dans mon [profil Ginkio](https://ginkio.com/mathilde-saliou) (cela dit, je ne promets rien sur la régularité de sa mise à jour).
+Je travaille pour toutes sortes de média, le plus souvent écrits, quelquefois radio ou tv/vidéo. Vous trouverez ci-dessous une sélection de mes travaux récents.
 
-Je travaille principalement pour **Next**. Une petite sélection des articles que j'y publie :
+Je travaille principalement pour **Next**. Vous pouvez retrouver tous mes articles [ici](https://next.ink/public-profile/?id=54), mais voici une petite sélection :
+ - [[Édito] Liberté d’expression n’est pas synonyme d’irresponsabilité](https://next.ink/125319/edito-liberte-dexpression-nest-pas-synonyme-dirresponsabilite/)
+ - [Midjourney recrache des images Pixar et d’œuvres protégées, parfois sans qu’on le lui demande](https://next.ink/121934/midjourney-pixar-coca-cola-jef-aerosol-c215-droits-auteurs-copyrigh/)
  - [Israël - Hamas : sur le front numérique aussi, le conflit fait rage](https://www.nextinpact.com/article/72763/israel-hamas-sur-front-numerique-aussi-conflit-fait-rage)
  - [Boursorama demande les identifiants et mots de passe des impôts, la CNIL la met en demeure](https://www.nextinpact.com/article/72308/boursorama-demande-identifiants-et-mots-passe-impots-cnil-met-en-demeure)
  - [Derrière le détournement d’AirTag, des atteintes à la vie privée plus courantes](https://www.nextinpact.com/article/71896/derriere-detournement-dairtag-atteintes-a-vie-prive-plus-courantes)
