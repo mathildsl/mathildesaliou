@@ -16,7 +16,7 @@ Adepte de vulgarisation et soucieuse des questions d’éducation aux médias et
     scrolling="no"
     ></iframe>
 
-Je travaille principalement pour [Next](https://www.nextinpact.com/). Par le passé, j'ai publié [des articles](https://mathildesaliou.com/portfolio.html) dans des médias comme the Guardian, 20 Minutes, Slate, Numerama, les Inrocks ou La Déferlante. Il m'arrive aussi de [prendre la parole](https://mathildesaliou.com/evenements.html) pour parler de technologies, de médias et d'inégalités.
+Je travaille principalement pour [Next](https://next.ink/public-profile/?id=54). Par le passé, j'ai publié [des articles](https://mathildesaliou.com/portfolio.html) dans des médias comme the Guardian, 20 Minutes, Slate, Numerama, les Inrocks ou La Déferlante. Il m'arrive aussi de [prendre la parole](https://mathildesaliou.com/evenements.html) pour parler de technologies, de médias et d'inégalités.
 
 Mon enquête **Technoféminisme, comment le numérique aggrave les inégalités** a été publiée en février 2023 [aux éditions Grasset](https://www.grasset.fr/livres/technofeminisme-9782246828822).
 
