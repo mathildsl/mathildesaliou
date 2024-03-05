@@ -7,7 +7,7 @@ Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/tec
 
 ## Événements à venir
 
-"Salon du livre féministe", Paris, 2 mars [Programme](https://www.salondulivrefeministe.com/)
+"L’intelligence artificielle est-elle sexiste ?", Villeurbanne, 29 mars [Réservation](https://lerize.villeurbanne.fr/agenda/lintelligence-artificielle-est-elle-sexiste/)
 
 ## Événements passés
 (pour lesquels il existe une captation)
