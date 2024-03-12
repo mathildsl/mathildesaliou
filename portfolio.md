@@ -3,7 +3,7 @@ title: "Portfolio"
 order: 2
 in_menu: true
 ---
-Je travaille pour toutes sortes de média, le plus souvent écrits, quelquefois radio ou tv/vidéo. Vous trouverez ci-dessous une sélection de mes travaux récents.
+Je travaille pour toutes sortes de média, le plus souvent écrits, quelquefois radio ou tv/vidéo. Vous trouverez ci-dessous une sélection de mes travaux.
 
 Je travaille principalement pour **Next**. Vous pouvez retrouver tous mes articles [ici](https://next.ink/public-profile/?id=54), mais voici une petite sélection :
  - [[Édito] Liberté d’expression n’est pas synonyme d’irresponsabilité](https://next.ink/125319/edito-liberte-dexpression-nest-pas-synonyme-dirresponsabilite/)
