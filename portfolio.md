@@ -47,7 +47,7 @@ De 2020 à 2022, j'ai été journaliste et coordinatrice de la rédaction de **F
 - [Faut-il payer la rançon des cyberpirates ?](https://flint.media/posts/2-faut-il-payer-la-rancon-des-cyberpirates)
 - [Les Français détestent-ils l’information ?](https://flint.media/posts/29-les-francais-detestent-ils-linformation)
 
-De fin 2018 à fin 2020, j'ai été journaliste économique chez **mind Fintech**. J'y ai principalement couvert les activités des géants numériques américains et chinois dans le secteur de la banque et de l'assurance, les questions de cybersécurité et les sujets liés à l'écosystème blockchain/crypto. Quelques exemples :
+De 2018 à 2020, j'ai été journaliste économique chez **mind Fintech**. J'y ai principalement couvert les activités des géants numériques américains et chinois dans le secteur de la banque et de l'assurance, les questions de cybersécurité et les sujets liés à l'écosystème blockchain/crypto. Quelques exemples :
 - [DataJournalisme] [Les “super-apps” chinoises, des écosystèmes financiers à part entière](https://www.mindfintech.fr/services-bancaires/les-super-apps-chinoises-des-ecosystemes-financiers-a-part-entiere/)
 - [Comment de nouveaux médias numériques contribuent à l’éducation financière](https://www.mindfintech.fr/services-bancaires/comment-de-nouveaux-medias-numeriques-contribuent-a-leducation-financiere/)
 - [DataJournalisme] [Crypto-actifs, moyens de paiement, régulation : que disent les activités des GAFAM du secteur financier ?](https://www.mindfintech.fr/services-bancaires/crypto-actifs-moyens-de-paiement-regulation-que-disent-les-activites-des-gafam-du-secteur-financier/)
@@ -61,7 +61,7 @@ De fin 2018 à fin 2020, j'ai été journaliste économique chez **mind Fintech*
 
 #### À la pige
 
-Au fil des ans, j'ai aussi travaillé avec des médias comme
+De 2014 à ce jour, j'ai aussi travaillé avec des médias comme ceux listés ci-dessous (par ordre antéchronologique) :
 
 **La Déferlante** : 
  - [Comment rendre l'intelligence artificielle plus inclusive ?](https://revueladeferlante.fr/intelligence-artificielle-comment-la-rendre-plus-inclusive/)
