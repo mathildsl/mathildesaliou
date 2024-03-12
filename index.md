@@ -5,7 +5,7 @@ in_menu: true
 ---
 # Bienvenue !
 
-Je suis **Mathilde Saliou**, journaliste et autrice, spécialisée dans le numérique. J'étudie les effets des technologies sur la société et la manière dont cette dernière modèle les innovations en cours. Dit autrement, je couvre des thématiques liées à la tech, à l'information, ainsi qu'aux inégalités présentes dans les médias et les mondes connectés.
+Je suis **Mathilde Saliou**, journaliste et autrice, spécialisée dans le numérique et les inégalités. J'étudie les effets des technologies sur la société et la manière dont cette dernière modèle les innovations en cours. Dit autrement, je couvre des thématiques liées à la tech, à l'information, ainsi qu'aux inégalités présentes dans les médias et les mondes connectés.
 
 Adepte de vulgarisation et soucieuse des questions d’éducation aux médias et à l’information (EMI), je réfléchis aux formats les mieux à même de transmettre des connaissances en fonction des publics visés et je partage des outils [dans ma newsletter Technoculture](https://technoculture.kessel.media/) : 
 
@@ -31,7 +31,7 @@ J'ai étudié à l'École de journalisme et à l'École de la communication de S
 
 # Welcome!
 
-Mathilde Saliou is a journalist and author specializing in digital issues. She studies the effects of technology on society and how society shapes current innovations. In other words, she covers topics related to tech, information, and inequalities in the media and connected worlds.
+Mathilde Saliou is a journalist and author specializing in digital and inequalities issues. She studies the effects of technology on society and how society shapes current innovations. In other words, she covers topics related to tech, information, and inequalities in the media and connected worlds.
 
 Mathilde Saliou mainly works for [Next](https://next.ink/). In the past, she has published [articles](https://mathildesaliou.com/portfolio.html) in media such as the Guardian or Algorithm Watch (in English), 20 Minutes, Slate, Numerama, les Inrocks and La Déferlante (in French). She also [gives conferences and talks](https://mathildesaliou.com/evenements.html) on technology, the media and inequality.
 
