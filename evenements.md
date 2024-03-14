@@ -9,6 +9,8 @@ Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/tec
 
 "L’intelligence artificielle est-elle sexiste ?", Villeurbanne, 29 mars [Réservation](https://lerize.villeurbanne.fr/agenda/lintelligence-artificielle-est-elle-sexiste/)
 
+"Cyberviolences, désinformation : comment le débat public se détériore en ligne" intervention suivie d'un atelier d'autodéfense numérique, Bibliothèque universitaire du Havre, 11 avril [Entrée Libre](https://bu.univ-lehavre.fr/evenements-culturels/evenements/article/technofeminisme-comment-le-numerique-aggrave-les-inegalites)
+
 ## Événements passés
 (pour lesquels il existe une captation)
 
