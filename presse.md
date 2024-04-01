@@ -9,6 +9,8 @@ Il m'arrive d'être interviewée par des médias 📰 écrits, 🎧 radio ou �
 ##### Intelligence artificielle
 📺/🎧 ["Inteligencia Artificial, ¿se abre la era de la desconfianza?"](https://www.rfi.fr/es/programas/en-primera-plana/20240216-inteligencia-artificial-se-abre-la-era-de-la-desconfianza), En Primera Plana, RFI / France 24, 16 février 2024
 
+📰 [Racistes, sexistes, classistes : comment les biais algorithmiques creusent les inégalités ?](https://www.techniques-ingenieur.fr/actualite/articles/racistes-sexistes-classistes-comment-les-biais-algorithmiques-creusent-les-inegalites-129555/), Techniques de l'ingénieur, 18 janvier 2024
+
 📺 ["L'intelligence artificielle est-elle sexiste ?"](https://www.arte.tv/fr/videos/113219-006-A/l-intelligence-artificielle-est-elle-sexiste/), Kreatur, Arte, 6 juillet 2023
 
 📺/🎧 ["¿Hay que tener miedo a la Inteligencia Artificial?"](https://www.rfi.fr/es/programas/en-primera-plana/20230623-hay-que-tener-miedo-a-la-inteligencia-artificial), En Primera Plana, RFI / France 24, 23 juin 2023
