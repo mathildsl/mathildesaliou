@@ -5,7 +5,8 @@ in_menu: true
 ---
 Je travaille pour toutes sortes de média, le plus souvent écrits, quelquefois radio ou tv/vidéo. Vous trouverez ci-dessous une sélection de mes travaux.
 
-Je travaille principalement pour **Next**. Vous pouvez retrouver tous mes articles [ici](https://next.ink/public-profile/?id=54), mais voici une petite sélection :
+Je travaille principalement pour **Next**. Vous pouvez retrouver tous mes articles [ici](https://next.ink/public-profile/?id=54), mais voici une sélection :
+ - [[Édito] La sécurité numérique est un enjeu d’éducation populaire](https://next.ink/127134/edito-la-securite-numerique-est-un-enjeu-deducation-populaire/)
  - [[Édito] Liberté d’expression n’est pas synonyme d’irresponsabilité](https://next.ink/125319/edito-liberte-dexpression-nest-pas-synonyme-dirresponsabilite/)
  - [Midjourney recrache des images Pixar et d’œuvres protégées, parfois sans qu’on le lui demande](https://next.ink/121934/midjourney-pixar-coca-cola-jef-aerosol-c215-droits-auteurs-copyrigh/)
  - [Israël - Hamas : sur le front numérique aussi, le conflit fait rage](https://www.nextinpact.com/article/72763/israel-hamas-sur-front-numerique-aussi-conflit-fait-rage)
