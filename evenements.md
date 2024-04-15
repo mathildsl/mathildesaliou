@@ -7,9 +7,7 @@ Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/tec
 
 ## Événements à venir
 
-"Cyberviolences, désinformation : comment le débat public se détériore en ligne" intervention suivie d'un atelier d'autodéfense numérique, Bibliothèque universitaire du Havre, 11 avril [Entrée Libre](https://bu.univ-lehavre.fr/evenements-culturels/evenements/article/technofeminisme-comment-le-numerique-aggrave-les-inegalites)
-
-"Les femmes dans l'espace public numérique : entre oppression et émancipation", table-ronde à Paris I Panthéon Sorbonne, 19 avril, 19h, entrée libre
+"Les femmes dans l'espace public numérique : entre oppression et émancipation", table-ronde à Paris I Panthéon Sorbonne, 19 avril, 19h, [inscription](https://docs.google.com/forms/d/e/1FAIpQLScny71g4pf2UQ8rQzGgogFsp5DBmp8ur-vwhusU62vbJv055w/viewform?pli=1)
 
 ## Événements passés
 (pour lesquels il existe une captation)
