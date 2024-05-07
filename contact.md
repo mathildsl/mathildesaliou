@@ -25,4 +25,4 @@ ____
 
 Ce site a été construit grâce à [Scribouilli](https://scribouilli.org/). 
 
-<a rel="me" color=#FFFFFF href="https://piaille.fr/@mathildesaliou">Mastodon</a> 
+<a rel="me" style=color:white; href="https://piaille.fr/@mathildesaliou">Mastodon</a> 
