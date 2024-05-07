@@ -27,7 +27,6 @@ De 2020 à 2022, j'ai été secrétaire générale de l'association [Prenons la 
 J'ai étudié à l'École de journalisme et à l'École de la communication de Sciences Po Paris, après une licence dans la même université. J'ai aussi passé une année d'échange à la Ludwig Maximilians Universität de Munich.
 
 ---------
-<a rel="me" style="color:white;" href="https://piaille.fr/@mathildesaliou">Mastodon</a> 
 # Welcome!
 
 Mathilde Saliou is a journalist and author specializing in digital and inequalities issues. She studies the effects of technology on society and how society shapes current innovations. In other words, she covers topics related to tech, information, and inequalities in the media and connected worlds.
@@ -38,4 +37,5 @@ Her book __Technoféminisme, comment le numérique aggrave les inégalités__ (T
 
 From 2020 to 2022, Mathilde was Secretary General of the association [Prenons la Une](https://prenonslaune.fr/), which works to improve the representation of women in the media and promote equality in editorial departments. She set up and runs cyberbullying awareness [training courses](https://prenonslaune.fr/2020/11/cyberharcelement-journaliste/) on behalf of Prenons la Une.
 
-Mathilde Saliou studied at the École de journalisme and the École de la communication at Sciences Po Paris, after a bachelor's degree at the same university. She also spent an academic year at the Ludwig Maximilians Universität in Munich. 
+Mathilde Saliou studied at the École de journalisme and the École de la communication at Sciences Po Paris, after a bachelor's degree at the same university. She also spent an academic year at the Ludwig Maximilians Universität in Munich.
+<a rel="me" style="color:white;" href="https://piaille.fr/@mathildesaliou">Mastodon</a> 
