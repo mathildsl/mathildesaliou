@@ -27,7 +27,7 @@ De 2020 à 2022, j'ai été secrétaire générale de l'association [Prenons la 
 J'ai étudié à l'École de journalisme et à l'École de la communication de Sciences Po Paris, après une licence dans la même université. J'ai aussi passé une année d'échange à la Ludwig Maximilians Universität de Munich.
 
 ---------
-
+<a rel="me" style="color:white;" href="https://piaille.fr/@mathildesaliou">Mastodon</a> 
 
 # Welcome!
 
