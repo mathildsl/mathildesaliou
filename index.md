@@ -28,7 +28,6 @@ J'ai étudié à l'École de journalisme et à l'École de la communication de S
 
 ---------
 <a rel="me" style="color:white;" href="https://piaille.fr/@mathildesaliou">Mastodon</a> 
-
 # Welcome!
 
 Mathilde Saliou is a journalist and author specializing in digital and inequalities issues. She studies the effects of technology on society and how society shapes current innovations. In other words, she covers topics related to tech, information, and inequalities in the media and connected worlds.
