@@ -24,5 +24,3 @@ Ou vous abonner à mon infolettre, [Technoculture](https://technoculture.kessel.
 ____
 
 Ce site a été construit grâce à [Scribouilli](https://scribouilli.org/). 
-
-<a rel="me" style="color:white;" href="https://piaille.fr/@mathildesaliou">Mastodon</a> 
