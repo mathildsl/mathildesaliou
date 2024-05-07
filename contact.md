@@ -5,7 +5,7 @@ in_menu: true
 ---
 Je suis joignable sur tout un tas d'applications de ce vaste réseau qu'est internet&nbsp;:
 - sur [LinkedIn](https://www.linkedin.com/in/mathildesaliou/)
-- sur <a rel="me" href="https://piaille.fr/@mathildesaliou">Mastodon</a>
+- sur [Mastodon](https://piaille.fr/@mathildesaliou)
 - sur [Bluesky](https://bsky.app/profile/mathildesaliou.bsky.social)
 - sur [Threads](https://www.threads.net/@mathildsl)
 - ou par mail, à msaliou.pro[@]gmail.com
@@ -24,3 +24,5 @@ Ou vous abonner à mon infolettre, [Technoculture](https://technoculture.kessel.
 ____
 
 Ce site a été construit grâce à [Scribouilli](https://scribouilli.org/). 
+
+<a rel="me" color=#FFFFFF href="https://piaille.fr/@mathildesaliou">Mastodon</a> 
