@@ -5,9 +5,9 @@ in_menu: true
 ---
 Je suis joignable sur tout un tas d'applications de ce vaste réseau qu'est internet&nbsp;:
 - sur [LinkedIn](https://www.linkedin.com/in/mathildesaliou/)
-- sur [Mastodon](https://piaille.fr/@mathildesaliou rel="me")
+- sur <a rel="me" href="https://piaille.fr/@mathildesaliou">Mastodon</a>
 - sur [Bluesky](https://bsky.app/profile/mathildesaliou.bsky.social)
-- sur [Threads](https://www.threads.net/@mathildsl rel="me")
+- sur [Threads](https://www.threads.net/@mathildsl)
 - ou par mail, à msaliou.pro[@]gmail.com
 
 Vous pouvez me demander mon téléphone (pour WhatsApp, Telegram, Signal) ou un CV via l'un des canaux cités ci-dessus.
