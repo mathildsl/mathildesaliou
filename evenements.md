@@ -5,9 +5,6 @@ in_menu: true
 ---
 Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/technofeminisme-9782246828822), pour parler tech ou pour évoquer la place des femmes et des minorités dans les médias, il m'arrive de participer à des tables rondes et de donner des conférences. Pour toutes questions, n'hésitez pas à [m'écrire](https://mathildesaliou.com/contact.html).
 
-## Événements à venir
-
-"Les femmes dans l'espace public numérique : entre oppression et émancipation", table-ronde à Paris I Panthéon Sorbonne, 19 avril, 19h, [inscription](https://docs.google.com/forms/d/e/1FAIpQLScny71g4pf2UQ8rQzGgogFsp5DBmp8ur-vwhusU62vbJv055w/viewform?pli=1)
 
 ## Événements passés
 (pour lesquels il existe une captation)
