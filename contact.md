@@ -8,7 +8,7 @@ Je suis joignable sur tout un tas d'applications de ce vaste réseau qu'est inte
 - sur [Mastodon](https://piaille.fr/@mathildesaliou)
 - sur [Bluesky](https://bsky.app/profile/mathildesaliou.bsky.social)
 - sur [Threads](https://www.threads.net/@mathildsl)
-- ou par mail, à msaliou.pro[@]gmail.com
+- par mail, à msaliou.pro[@]gmail.com ou mon mathilde.saliou sur protonmail
 
 Vous pouvez me demander mon téléphone (pour WhatsApp, Telegram, Signal) ou un CV via l'un des canaux cités ci-dessus.
 
