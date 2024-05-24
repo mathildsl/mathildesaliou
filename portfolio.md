@@ -6,6 +6,7 @@ in_menu: true
 Je travaille pour toutes sortes de média, le plus souvent écrits, quelquefois radio ou tv/vidéo. Vous trouverez ci-dessous une sélection de mes travaux.
 
 Je travaille principalement pour **Next**. Vous pouvez retrouver tous mes articles [ici](https://next.ink/public-profile/?id=54), mais voici une sélection :
+ - [Meredith Whittaker (Signal) : « L’IA est un outil des puissants contre ceux qui ont moins de pouvoir »](https://next.ink/138390/meredith-whittaker-signal-lia-est-un-outil-des-puissants-contre-ceux-qui-ont-moins-de-pouvoir/)
  - [[Édito] La sécurité numérique est un enjeu d’éducation populaire](https://next.ink/127134/edito-la-securite-numerique-est-un-enjeu-deducation-populaire/)
  - [[Édito] Liberté d’expression n’est pas synonyme d’irresponsabilité](https://next.ink/125319/edito-liberte-dexpression-nest-pas-synonyme-dirresponsabilite/)
  - [Midjourney recrache des images Pixar et d’œuvres protégées, parfois sans qu’on le lui demande](https://next.ink/121934/midjourney-pixar-coca-cola-jef-aerosol-c215-droits-auteurs-copyrigh/)
