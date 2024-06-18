@@ -5,13 +5,13 @@ in_menu: true
 ---
 Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/technofeminisme-9782246828822), pour parler tech ou pour évoquer la place des femmes et des minorités dans les médias, il m'arrive de donner des conférences, des formations, et de participer à des tables rondes. Pour toutes questions, n'hésitez pas à [m'écrire](https://mathildesaliou.com/contact.html).
 
-# Formations
+## Formations
 
-Autodéfense numérique
+Autodéfense numérique ([fanzine récapitulatif](https://drive.google.com/file/d/1bRpE9bU_jo8q4btFEBLg7dqT-R8_IAt4/view?usp=sharing) ([par ici pour les consignes de pliage](https://www.lumen.dignelesbains.fr/wp-content/uploads/sites/4/2020/05/tutoriel-fanzine.pdf)))
 
-Sensibilisation au cyberharcèlement
+Sensibilisation au cyberharcèlement (initialement [créée pour Prenons la Une](https://prenonslaune.fr/2020/11/cyberharcelement-journaliste/))
 
-# Événements passés
+## Événements passés
 (pour lesquels il existe une captation)
 
 "Imaginez un monde numérique sans femmes", Who Run The Tech ?, Rennes, 30 novembre 2023
