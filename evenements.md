@@ -3,10 +3,15 @@ title: "Événements"
 order: 4
 in_menu: true
 ---
-Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/technofeminisme-9782246828822), pour parler tech ou pour évoquer la place des femmes et des minorités dans les médias, il m'arrive de participer à des tables rondes et de donner des conférences. Pour toutes questions, n'hésitez pas à [m'écrire](https://mathildesaliou.com/contact.html).
+Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/technofeminisme-9782246828822), pour parler tech ou pour évoquer la place des femmes et des minorités dans les médias, il m'arrive de donner des conférences, des formations, et de participer à des tables rondes. Pour toutes questions, n'hésitez pas à [m'écrire](https://mathildesaliou.com/contact.html).
 
+# Formations
 
-## Événements passés
+Autodéfense numérique
+
+Sensibilisation au cyberharcèlement
+
+# Événements passés
 (pour lesquels il existe une captation)
 
 "Imaginez un monde numérique sans femmes", Who Run The Tech ?, Rennes, 30 novembre 2023
