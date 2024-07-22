@@ -6,6 +6,20 @@ in_menu: true
 Il m'arrive d'être interviewée par des médias 📰 écrits, 🎧 radio ou 📺 vidéo pour parler de divers sujets :
 
 
+##### Espace public numérique, cyberviolences et discriminations
+📺 [Avortement aux États-Unis, un droit en miettes](https://www.france.tv/france-5/le-monde-en-face/6105320-emission-du-dimanche-23-juin-2024.html), Le Monde en Face, France 5, 23 juin 2024
+
+🎧 [Technoféminisme et inégalités - Mathilde Saliou](https://open.spotify.com/episode/0An7Lc8EnlKe6PGDtQQqZR), Imaginaires, 12 avril 2023
+
+📰 [« Les femmes ne sont pas assez incluses dans la création des plateformes »](https://www.lesoir.be/524484/article/2023-07-09/les-femmes-ne-sont-pas-assez-incluses-dans-la-creation-des-plateformes), Le Soir, 9 juillet 2023
+
+🎧 [Justice Sociale : le numérique à la barre](https://trench-tech.fr/podcast/episode/mathilde-saliou-justice-sociale-le-numerique-a-la-barre/), Trench Tech, 21 juin 2023
+> Retranscription par l'April [sur Libre à lire](https://www.librealire.org/justice-sociale-le-numerique-a-la-barre-mathilde-saliou). Merci ! 
+
+🎧 [Geeks, trolls & compagnie, épisode 2](https://www.binge.audio/podcast/les-couilles-sur-la-table/geeks-trolls-cie-2-2), Les Couilles sur la table, Binge Audio, 27 avril 2023
+
+🎧 [Geeks, trolls & compagnie, épisode 1](https://www.binge.audio/podcast/les-couilles-sur-la-table/geeks-trolls-cie-1-2), Les Couilles sur la table, Binge Audio, 20 avril 2023
+
 ##### Intelligence artificielle
 📺/🎧 ["Inteligencia Artificial, ¿se abre la era de la desconfianza?"](https://www.rfi.fr/es/programas/en-primera-plana/20240216-inteligencia-artificial-se-abre-la-era-de-la-desconfianza), En Primera Plana, RFI / France 24, 16 février 2024
 
@@ -29,18 +43,6 @@ Il m'arrive d'être interviewée par des médias 📰 écrits, 🎧 radio ou �
 📰 [Les robots sexuels entretiennent-ils la culture du viol ?](https://www.madmoizelle.com/les-robots-sexuels-entretiennent-ils-la-culturel-du-viol-1491411), Madmoizelle, 7 février 2023
 
 📰 [Cryptomonnaies : concours de bitcoin](https://www.causette.fr/societe/en-france/cryptomonnaies-concours-de-bitcoins), Causette, 1 juin 2022
-
-##### Espace public numérique, cyberviolences et discriminations
-🎧 [Technoféminisme et inégalités - Mathilde Saliou](https://open.spotify.com/episode/0An7Lc8EnlKe6PGDtQQqZR), Imaginaires, 12 avril 2023
-
-📰 [« Les femmes ne sont pas assez incluses dans la création des plateformes »](https://www.lesoir.be/524484/article/2023-07-09/les-femmes-ne-sont-pas-assez-incluses-dans-la-creation-des-plateformes), Le Soir, 9 juillet 2023
-
-🎧 [Justice Sociale : le numérique à la barre](https://trench-tech.fr/podcast/episode/mathilde-saliou-justice-sociale-le-numerique-a-la-barre/), Trench Tech, 21 juin 2023
-> Retranscription par l'April [sur Libre à lire](https://www.librealire.org/justice-sociale-le-numerique-a-la-barre-mathilde-saliou). Merci ! 
-
-🎧 [Geeks, trolls & compagnie, épisode 2](https://www.binge.audio/podcast/les-couilles-sur-la-table/geeks-trolls-cie-2-2), Les Couilles sur la table, Binge Audio, 27 avril 2023
-
-🎧 [Geeks, trolls & compagnie, épisode 1](https://www.binge.audio/podcast/les-couilles-sur-la-table/geeks-trolls-cie-1-2), Les Couilles sur la table, Binge Audio, 20 avril 2023
 
 ##### Cybersécurité
 📰 [« Faites méga attention » : l’AirTag, ce gadget d’Apple qui facilite le cyberharcèlement des femmes](https://www.ouest-france.fr/high-tech/apple/faites-mega-attention-lairtag-dapple-ce-gadget-qui-facilite-le-cyberharcelement-des-femmes-ae2da88a-0ab0-11ee-8e64-75fa9f3906ed), Ouest France, 15 juin 2023
