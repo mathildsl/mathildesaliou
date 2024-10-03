@@ -10,7 +10,7 @@ Je suis joignable sur tout un tas d'applications de ce vaste réseau qu'est inte
 - sur [Threads](https://www.threads.net/@mathildsl)
 - par mail, à msaliou.pro[@]gmail.com ou mathilde.saliou chez protonmail
 
-Vous pouvez me demander mon téléphone (pour WhatsApp, Telegram, Signal) ou un CV via l'un des canaux cités ci-dessus.
+Vous pouvez me demander mon téléphone (pour Signal) ou un CV via l'un des canaux cités ci-dessus.
 
 Ou vous abonner à mon infolettre, [Technoculture](https://technoculture.kessel.media/posts) : 
 
