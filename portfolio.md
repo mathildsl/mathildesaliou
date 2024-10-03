@@ -5,7 +5,11 @@ in_menu: true
 ---
 Je travaille pour toutes sortes de média, le plus souvent écrits, quelquefois radio ou tv/vidéo. Vous trouverez ci-dessous une sélection de mes travaux.
 
-Je travaille principalement pour **Next**. Vous pouvez retrouver tous mes articles [ici](https://next.ink/public-profile/?id=54), mais voici une sélection :
+Je travaille principalement pour **Next**. J'y ai créé le podcast Algorithmique, dédié à vulgariser les enjeux de l'intelligence artificielle :
+  - Épisode 1 : [Intelligence sans conscience](https://next.ink/podcast/algorithmique-1-6-intelligence-sans-conscience/)
+  - Bonus : [« Avec l'IA, l'espace public est en train de disparaître » - entretien avec Jean-Gabriel Ganascia](https://next.ink/152427/jean-gabriel-ganascia-avec-lia-lespace-public-est-en-train-de-disparaitre/)
+
+Vous pouvez retrouver tous mes articles [ici](https://next.ink/public-profile/?id=54), mais voici une sélection :
  - [Meredith Whittaker (Signal) : « L’IA est un outil des puissants contre ceux qui ont moins de pouvoir »](https://next.ink/138390/meredith-whittaker-signal-lia-est-un-outil-des-puissants-contre-ceux-qui-ont-moins-de-pouvoir/)
  - [[Édito] La sécurité numérique est un enjeu d’éducation populaire](https://next.ink/127134/edito-la-securite-numerique-est-un-enjeu-deducation-populaire/)
  - [[Édito] Liberté d’expression n’est pas synonyme d’irresponsabilité](https://next.ink/125319/edito-liberte-dexpression-nest-pas-synonyme-dirresponsabilite/)
