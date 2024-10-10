@@ -7,7 +7,7 @@ Je travaille pour toutes sortes de média, le plus souvent écrits, quelquefois 
 
 Je travaille principalement pour **Next**. 
 - J'y ai créé le podcast **Algorithmique**, dédié à vulgariser les enjeux de l'intelligence artificielle :
-   - Épisode 1 : [Intelligence sans conscience](https://next.ink/podcast/algorithmique-1-6-intelligence-sans-conscience/)
+   - Épisode 1 : [Intelligence sans conscience](https://next.ink/podcast/algorithmique-1-6-intelligence-sans-conscience/), épisode 2 : [Biaisé comme l'IA](https://next.ink/podcast/algorithmique-2-6-biaise-comme-lia/)
    - Bonus : [« Avec l'IA, l'espace public est en train de disparaître » - entretien avec Jean-Gabriel Ganascia](https://next.ink/152427/jean-gabriel-ganascia-avec-lia-lespace-public-est-en-train-de-disparaitre/)
 
 - J'y passe surtout mon temps à écrire. Vous pouvez retrouver tous mes articles [ici](https://next.ink/public-profile/?id=54), mais voici une sélection :
