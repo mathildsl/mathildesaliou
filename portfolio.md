@@ -7,8 +7,8 @@ Je travaille pour toutes sortes de média, le plus souvent écrits, quelquefois 
 
 Je travaille principalement pour **Next**. 
 - J'y ai créé le podcast **Algorithmique**, dédié à vulgariser les enjeux de l'intelligence artificielle :
-   - Épisode 1 : [Intelligence sans conscience](https://next.ink/podcast/algorithmique-1-6-intelligence-sans-conscience/), épisode 2 : [Biaisé comme l'IA](https://next.ink/podcast/algorithmique-2-6-biaise-comme-lia/)
-   - Bonus : [« Avec l'IA, l'espace public est en train de disparaître » - entretien avec Jean-Gabriel Ganascia](https://next.ink/152427/jean-gabriel-ganascia-avec-lia-lespace-public-est-en-train-de-disparaitre/)
+   - Épisode 1 : [Intelligence sans conscience](https://next.ink/podcast/algorithmique-1-6-intelligence-sans-conscience/), épisode 2 : [Biaisé comme l'IA](https://next.ink/podcast/algorithmique-2-6-biaise-comme-lia/), épisode 3 : [Questionner les systèmes](https://next.ink/podcast/algorithmique-3-6-questionner-les-systemes/)
+   - Bonus : [« Avec l'IA, l'espace public est en train de disparaître » - entretien avec Jean-Gabriel Ganascia](https://next.ink/152427/jean-gabriel-ganascia-avec-lia-lespace-public-est-en-train-de-disparaitre/) ; [« Ceux qui financent les projets d’IA les plus fous sont les mêmes qui demandent d’arrêter la recherche » - entretien avec Raziye Buse Çetin](https://next.ink/154324/razie-buse-cetin-les-problematiques-soulevees-par-lia-obligent-a-sinterroger-sur-nos-modeles-economiques-sociaux-politiques/)
 
 - J'y passe surtout mon temps à écrire. Vous pouvez retrouver tous mes articles [ici](https://next.ink/public-profile/?id=54), mais voici une sélection :
   - [Meredith Whittaker (Signal) : « L’IA est un outil des puissants contre ceux qui ont moins de pouvoir »](https://next.ink/138390/meredith-whittaker-signal-lia-est-un-outil-des-puissants-contre-ceux-qui-ont-moins-de-pouvoir/)
