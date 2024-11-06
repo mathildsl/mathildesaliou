@@ -7,7 +7,7 @@ Je travaille pour toutes sortes de média, le plus souvent écrits, quelquefois 
 
 Je travaille principalement pour **Next**. 
 - J'y ai créé le podcast **Algorithmique**, dédié à vulgariser les enjeux de l'intelligence artificielle :
-   - Épisode 1 : [Intelligence sans conscience](https://next.ink/podcast/algorithmique-1-6-intelligence-sans-conscience/), épisode 2 : [Biaisé comme l'IA](https://next.ink/podcast/algorithmique-2-6-biaise-comme-lia/), épisode 3 : [Questionner les systèmes](https://next.ink/podcast/algorithmique-3-6-questionner-les-systemes/)
+   - Épisode 1 : [Intelligence sans conscience](https://next.ink/podcast/algorithmique-1-6-intelligence-sans-conscience/), épisode 2 : [Biaisé comme l'IA](https://next.ink/podcast/algorithmique-2-6-biaise-comme-lia/), épisode 3 : [Questionner les systèmes](https://next.ink/podcast/algorithmique-3-6-questionner-les-systemes/), épisode 4 : [IA qu'à algorithmiser le climat ?](https://next.ink/podcast/algorithmique-4-6-ia-qua-algorithmiser-le-climat/)
    - Bonus : [« Avec l'IA, l'espace public est en train de disparaître » - entretien avec Jean-Gabriel Ganascia](https://next.ink/152427/jean-gabriel-ganascia-avec-lia-lespace-public-est-en-train-de-disparaitre/) ; [« Ceux qui financent les projets d’IA les plus fous sont les mêmes qui demandent d’arrêter la recherche » - entretien avec Raziye Buse Çetin](https://next.ink/154324/razie-buse-cetin-les-problematiques-soulevees-par-lia-obligent-a-sinterroger-sur-nos-modeles-economiques-sociaux-politiques/)
 
 - J'y passe surtout mon temps à écrire. Vous pouvez retrouver tous mes articles [ici](https://next.ink/public-profile/?id=54), mais voici une sélection :
@@ -81,7 +81,7 @@ De 2014 à ce jour, j'ai aussi travaillé avec des médias comme ceux listés ci
 **20 Minutes** : 
   - [Moxy Starr :« Le Web3 est une super opportunité pour les minorités »](https://www.20minutes.fr/20-mint/4008920-20221116-web3-super-opportunite-minorites)
   - [Frédéric Cavazza : « Le Web3 ne résoudra pas la fracture numérique »](https://www.20minutes.fr/20-mint/4008141-20221115-frederic-cavazza-web3-resoudra-fracture-numerique)
-  - [« Les âges d’or viennent après des périodes d’inégalité accrue et de prospérité pour une minorité », selon Carlota Perez](« Les âges d’or viennent après des périodes d’inégalité accrue et de prospérité pour une minorité », selon Carlota Perez)
+  - [« Les âges d’or viennent après des périodes d’inégalité accrue et de prospérité pour une minorité », selon Carlota Perez](https://www.20minutes.fr/arts-stars/web/3327435-20220805-ages-or-viennent-apres-periodes-inegalite-accrue-prosperite-minorite-selon-carlota-perez)
   - [« Panique morale » : Retour sur le #GamerGate, campagne de harcèlement inédite contre les femmes du jeu vidéo](https://www.20minutes.fr/arts-stars/culture/3324839-20220729-panique-morale-feministes-vont-elles-empecher-jouer-jeux-video)
   - [Derrière l’arbre de la conscience de l’IA, la forêt des problématiques politiques et sociales](https://www.20minutes.fr/arts-stars/web/3315831-20220726-derriere-arbre-conscience-ia-foret-problematiques-politiques-sociales)
   - [Quand la tech fait peser des risques sur le droit à l’avortement](https://www.20minutes.fr/arts-stars/web/3292807-20220526-quand-tech-fait-peser-risques-droit-avortement)
