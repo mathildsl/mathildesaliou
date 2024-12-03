@@ -7,8 +7,8 @@ Je travaille pour toutes sortes de média, le plus souvent écrits, quelquefois 
 
 Je travaille principalement pour **Next**. 
 - J'y ai créé le podcast **Algorithmique**, dédié à vulgariser les enjeux de l'intelligence artificielle :
-   - Épisode 1 : [Intelligence sans conscience](https://next.ink/podcast/algorithmique-1-6-intelligence-sans-conscience/), épisode 2 : [Biaisé comme l'IA](https://next.ink/podcast/algorithmique-2-6-biaise-comme-lia/), épisode 3 : [Questionner les systèmes](https://next.ink/podcast/algorithmique-3-6-questionner-les-systemes/), épisode 4 : [IA qu'à algorithmiser le climat ?](https://next.ink/podcast/algorithmique-4-6-ia-qua-algorithmiser-le-climat/)
-   - Bonus : [« Avec l'IA, l'espace public est en train de disparaître » - entretien avec Jean-Gabriel Ganascia](https://next.ink/152427/jean-gabriel-ganascia-avec-lia-lespace-public-est-en-train-de-disparaitre/) ; [« Ceux qui financent les projets d’IA les plus fous sont les mêmes qui demandent d’arrêter la recherche » - entretien avec Raziye Buse Çetin](https://next.ink/154324/razie-buse-cetin-les-problematiques-soulevees-par-lia-obligent-a-sinterroger-sur-nos-modeles-economiques-sociaux-politiques/)
+   - Épisode 1 : [Intelligence sans conscience](https://next.ink/podcast/algorithmique-1-6-intelligence-sans-conscience/), épisode 2 : [Biaisé comme l'IA](https://next.ink/podcast/algorithmique-2-6-biaise-comme-lia/), épisode 3 : [Questionner les systèmes](https://next.ink/podcast/algorithmique-3-6-questionner-les-systemes/), épisode 4 : [IA qu'à algorithmiser le climat ?](https://next.ink/podcast/algorithmique-4-6-ia-qua-algorithmiser-le-climat/), épisode 5 : [La politique de l'IA](https://next.ink/podcast/algorithmique-5-6-la-politique-de-lia/)
+   - Bonus : [« Avec l'IA, l'espace public est en train de disparaître » - entretien avec Jean-Gabriel Ganascia](https://next.ink/152427/jean-gabriel-ganascia-avec-lia-lespace-public-est-en-train-de-disparaitre/) ; [« Ceux qui financent les projets d’IA les plus fous sont les mêmes qui demandent d’arrêter la recherche » - entretien avec Raziye Buse Çetin](https://next.ink/154324/razie-buse-cetin-les-problematiques-soulevees-par-lia-obligent-a-sinterroger-sur-nos-modeles-economiques-sociaux-politiques/) ; [Isabelle Collet : « On peut utiliser l’IA pour dépasser nos biais inconscients »](https://next.ink/155955/isabelle-collet-on-peut-utiliser-lia-pour-depasser-nos-biais-inconscients/) ; [Clément Marquet : « l’IA vient profondément transformer l’architecture des data centers »](https://next.ink/157530/clement-marquet-lia-vient-profondement-transformer-larchitecture-des-data-centers/) ; [Bilel Benbouzid : « À travers la technique, les ingénieurs rêvent de transformer la société de manière neutre » ](https://next.ink/159600/bilel-benbouzid-a-travers-la-technique-les-ingenieurs-revent-de-transformer-la-societe-de-maniere-neutre/)
 
 - J'y passe surtout mon temps à écrire. Vous pouvez retrouver tous mes articles [ici](https://next.ink/public-profile/?id=54), mais voici une sélection :
   - [Meredith Whittaker (Signal) : « L’IA est un outil des puissants contre ceux qui ont moins de pouvoir »](https://next.ink/138390/meredith-whittaker-signal-lia-est-un-outil-des-puissants-contre-ceux-qui-ont-moins-de-pouvoir/)
@@ -69,6 +69,11 @@ De 2018 à 2020, j'ai été journaliste économique chez **mind Fintech**. J'y a
 #### À la pige
 
 De 2014 à ce jour, j'ai aussi travaillé avec des médias comme ceux listés ci-dessous (par ordre antéchronologique) :
+
+**Synth media** : 
+- [Quand les algorithmes antifraude renforcent les inégalités sociales](https://synthmedia.fr/2024/11/politiques/travail/quand-les-algorithmes-anti-fraude-renforcent-les-inegalites-sociales/)
+- [Qui l’eut cru ? Le gouvernement prêt à prolonger la vidéosurveillance algorithmique après les JO ?](https://synthmedia.fr/2024/10/politiques/qui-leut-cru-le-gouvernement-pret-a-prolonger-la-videosurveillance-algorithmique-apres-les-jo/)
+ - [Quand l’IA sert à humilier : épidémie de deepfakes pornographiques en Corée du Sud](https://synthmedia.fr/2024/09/politiques/quand-lia-sert-a-humilier-epidemie-de-deepfakes-pornographiques-en-coree-du-sud/)
 
 **La Déferlante** : 
  - [Comment rendre l'intelligence artificielle plus inclusive ?](https://revueladeferlante.fr/intelligence-artificielle-comment-la-rendre-plus-inclusive/)
