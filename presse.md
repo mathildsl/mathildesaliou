@@ -6,7 +6,19 @@ in_menu: true
 Il m'arrive d'être interviewée par des médias 📰 écrits, 🎧 radio ou 📺 vidéo pour parler de divers sujets :
 
 
+##### Tech et représentations
+🎧 ["Comment le numérique aggrave les inégalités"](https://soundcloud.com/techologie/93-comment-le-numerique-aggrave-les-inegalites), Techologie #93, 20 décembre 2024
+
+📰 ["Pornographie : l’intelligence artificielle, nouvel outil d’humiliation des femmes "](https://www.la-croix.com/france/pornographie-l-intelligence-artificielle-nouvel-outil-dhumiliation-des-femmes-20231217), La Croix, 17 décembre 2023
+
+📰 [Les robots sexuels entretiennent-ils la culture du viol ?](https://www.madmoizelle.com/les-robots-sexuels-entretiennent-ils-la-culturel-du-viol-1491411), Madmoizelle, 7 février 2023
+
+📰 [Cryptomonnaies : concours de bitcoin](https://www.causette.fr/societe/en-france/cryptomonnaies-concours-de-bitcoins), Causette, 1 juin 2022
+
+
 ##### Espace public numérique, cyberviolences et discriminations
+🎧 ["Numérique, égalité et technoféminisme"](https://rdgp.fr/@rdgp/episodes/mathilde-saliou-technofeminisme/transcript), RdGP (Rien de Grave Patron !), 11 décembre 2024
+
 📺 [Avortement aux États-Unis, un droit en miettes](https://www.france.tv/france-5/le-monde-en-face/6105320-emission-du-dimanche-23-juin-2024.html), Le Monde en Face, France 5, 23 juin 2024
 
 🎧 [Technoféminisme et inégalités - Mathilde Saliou](https://open.spotify.com/episode/0An7Lc8EnlKe6PGDtQQqZR), Imaginaires, 12 avril 2023
@@ -36,13 +48,6 @@ Il m'arrive d'être interviewée par des médias 📰 écrits, 🎧 radio ou �
 📺 ["IA : "Demandez un portrait de femme, vous aurez un décolleté plongeant"](https://www.arretsurimages.net/emissions/arret-sur-images/ia-demandez-un-portrait-de-femme-vous-aurez-un-decollete-plongeant), Arrêt sur images, 20 janvier 2023
 
 🎧 ["La malédiction des algorithmes"](https://frenchspin.fr/2022/05/rdv-tech-461-la-malediction-des-algorithmes/), RDV Tech 461, 31 mai 2022
-
-##### Tech et représentations
-📰 ["Pornographie : l’intelligence artificielle, nouvel outil d’humiliation des femmes "](https://www.la-croix.com/france/pornographie-l-intelligence-artificielle-nouvel-outil-dhumiliation-des-femmes-20231217), La Croix, 17 décembre 2023
-
-📰 [Les robots sexuels entretiennent-ils la culture du viol ?](https://www.madmoizelle.com/les-robots-sexuels-entretiennent-ils-la-culturel-du-viol-1491411), Madmoizelle, 7 février 2023
-
-📰 [Cryptomonnaies : concours de bitcoin](https://www.causette.fr/societe/en-france/cryptomonnaies-concours-de-bitcoins), Causette, 1 juin 2022
 
 ##### Cybersécurité
 📰 [« Faites méga attention » : l’AirTag, ce gadget d’Apple qui facilite le cyberharcèlement des femmes](https://www.ouest-france.fr/high-tech/apple/faites-mega-attention-lairtag-dapple-ce-gadget-qui-facilite-le-cyberharcelement-des-femmes-ae2da88a-0ab0-11ee-8e64-75fa9f3906ed), Ouest France, 15 juin 2023
