@@ -5,6 +5,10 @@ in_menu: true
 ---
 Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/technofeminisme-9782246828822), pour parler tech ou pour évoquer la place des femmes et des minorités dans les médias, il m'arrive de donner des conférences, des formations, et de participer à des tables rondes. Pour toutes questions, n'hésitez pas à [m'écrire](https://mathildesaliou.com/contact.html).
 
+## Événements à venir
+
+Ma première conférence : l'intelligence artificielle et moi, Cité des sciences et du numérique, Paris, 22 mai à 14h [plus d'information](https://www.cite-sciences.fr/fr/au-programme/activites-spectacles/conferences/ma-premiere-conference#item-grid-177352)
+
 ## Formations
 
 Autodéfense numérique ([fanzine récapitulatif](https://drive.google.com/file/d/1bRpE9bU_jo8q4btFEBLg7dqT-R8_IAt4/view?usp=sharing) ([par ici pour les consignes de pliage](https://www.lumen.dignelesbains.fr/wp-content/uploads/sites/4/2020/05/tutoriel-fanzine.pdf)))
@@ -13,6 +17,9 @@ Sensibilisation au cyberharcèlement (initialement [créée pour Prenons la Une]
 
 ## Événements passés
 (pour lesquels il existe une captation)
+
+"Technoféminisme : comment rendre le numérique plus inclusif ?", Ethics by Design, Nantes, 14 novembre 2024
+> 📺 [Replay de la keynote](https://peertube.designersethiques.org/w/9bc2ad1f-6ec7-45d7-bc01-5c5175ffe107)
 
 "Imaginez un monde numérique sans femmes", Who Run The Tech ?, Rennes, 30 novembre 2023
 > 📺 [Replay de la keynote](https://www.youtube.com/watch?v=YCMqfBk4amU&list=PL4MHvaRnrWwEVqeo6Jeqt9_iLeP5thCWe&index=1)
