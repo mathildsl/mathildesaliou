@@ -7,9 +7,8 @@ Je travaille pour toutes sortes de média, le plus souvent écrits, quelquefois 
 
 Je travaille principalement pour **Next**. 
 - J'y ai créé le podcast **Algorithmique**, dédié à vulgariser les enjeux de l'intelligence artificielle :
-    <div class="encart"> <p>Épisode 1 : [Intelligence sans conscience](https://next.ink/podcast/algorithmique-1-6-intelligence-sans-conscience/), </p>
-épisode 2 : [Biaisé comme l'IA](https://next.ink/podcast/algorithmique-2-6-biaise-comme-lia/), 
-épisode 3 : [Questionner les systèmes](https://next.ink/podcast/algorithmique-3-6-questionner-les-systemes/), épisode 4 : [IA qu'à algorithmiser le climat ?](https://next.ink/podcast/algorithmique-4-6-ia-qua-algorithmiser-le-climat/), épisode 5 : [La politique de l'IA](https://next.ink/podcast/algorithmique-5-6-la-politique-de-lia/), épisode 6 : [Intelligence artificielle, intelligence collective](https://next.ink/podcast/algorithmique-6-6-intelligence-artificielle-intelligence-collective/)</div>
+    
+<p class="encart"> Épisode 1 : <a href=https://next.ink/podcast/algorithmique-1-6-intelligence-sans-conscience/>Intelligence sans conscience</a>, épisode 2 : <a href=https://next.ink/podcast/algorithmique-2-6-biaise-comme-lia/>Questionner les systèmes</a>, épisode 2 : <a href=https://next.ink/podcast/algorithmique-3-6-questionner-les-systemes/>Biaisé comme l'IA</a>, épisode 4 : <a href=https://next.ink/podcast/algorithmique-4-6-ia-qua-algorithmiser-le-climat/>IA qu'à algorithmiser le climat ?</a>, épisode 5 : <a href=https://next.ink/podcast/algorithmique-5-6-la-politique-de-lia/>La politique de l'IA</a>, épisode 6 : <a href=https://next.ink/podcast/algorithmique-6-6-intelligence-artificielle-intelligence-collective/>Intelligence artificielle, intelligence collective</a>.</p> 
 
 - J'y passe surtout mon temps à écrire. Vous pouvez retrouver tous mes articles [ici](https://next.ink/public-profile/?id=54), mais voici une sélection :
   - [Meredith Whittaker (Signal) : « L’IA est un outil des puissants contre ceux qui ont moins de pouvoir »](https://next.ink/138390/meredith-whittaker-signal-lia-est-un-outil-des-puissants-contre-ceux-qui-ont-moins-de-pouvoir/)
