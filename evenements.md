@@ -5,11 +5,12 @@ in_menu: true
 ---
 Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/technofeminisme-9782246828822), pour parler tech ou pour évoquer la place des femmes et des minorités dans les médias, il m'arrive de donner des conférences, des formations, et de participer à des tables rondes. Pour toutes questions, n'hésitez pas à [m'écrire](https://mathildesaliou.com/contact.html).
 
-## Événements à venir
+<div class="encart">
+<h2>À venir</h2>
 
 Conférence avec Irénée Régnauld ([Mais où va le web](https://maisouvaleweb.fr/)), Journée ADN Ouest, Nantes, 18 mars à 09h30 [plus d'information](https://www.adnouest.org/evenement/journee-du-numerique-responsable-nantes)
 
-Ma première conférence : l'intelligence artificielle et moi, Cité des sciences et du numérique, Paris, 22 mai à 14h [plus d'information](https://www.cite-sciences.fr/fr/au-programme/activites-spectacles/conferences/ma-premiere-conference#item-grid-177352)
+Ma première conférence : l'intelligence artificielle et moi, Cité des sciences et du numérique, Paris, 22 mai à 14h [plus d'information](https://www.cite-sciences.fr/fr/au-programme/activites-spectacles/conferences/ma-premiere-conference#item-grid-177352)</div>
 
 ## Formations
 
