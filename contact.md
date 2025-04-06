@@ -15,7 +15,7 @@ Vous pouvez me demander mon téléphone (pour Signal) ou un CV via l'un des cana
 Ou vous abonner à mon infolettre, [Technoculture](https://technoculture.kessel.media/posts) : 
 
 <iframe
-  src="https://technoculture.kessel.media/iframe" width="480"
+  src="https://technoculture.kessel.media/iframe" width="480" height="400"
   frameborder="0"
   scrolling="no"
 >
