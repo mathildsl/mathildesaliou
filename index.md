@@ -7,14 +7,7 @@ in_menu: true
 
 Je suis **Mathilde Saliou**, journaliste et autrice, spécialisée dans le numérique et les inégalités. J'étudie les effets des technologies sur la société et la manière dont cette dernière modèle les innovations en cours. Dit autrement, je couvre des thématiques liées à la tech, à l'information, ainsi qu'aux inégalités présentes dans les médias et les mondes connectés.
 
-Adepte de vulgarisation et soucieuse des questions d’éducation aux médias et à l’information (EMI), je réfléchis aux formats les mieux à même de transmettre des connaissances en fonction des publics visés et je partage des outils [dans ma newsletter Technoculture](https://technoculture.kessel.media/) : 
-
-<iframe
-    src="https://technoculture.kessel.media/embed" height="300"
-    style="border:1px solid #EEE; background:white;"
-    frameborder="0"
-    scrolling="no"
-    ></iframe>
+Adepte de vulgarisation et soucieuse des questions d’éducation aux médias et à l’information (EMI), je réfléchis aux formats les mieux à même de transmettre des connaissances en fonction des publics visés et je partage des outils [dans ma newsletter Technoculture](https://technoculture.kessel.media/).
 
 Je travaille principalement pour [Next](https://next.ink/public-profile/?id=54), où j'ai créé le podcast [Algorithmique](https://next.ink/podcast/algorithmique-next-lance-son-premier-podcast/). J'interviens quelquefois, [dans d'autres médias](https://mathildesaliou.com/portfolio.html) comme the Guardian, 20 Minutes, Slate, Numerama, Synth ou encore La Déferlante. Il m'arrive aussi de [donner des conférences](https://mathildesaliou.com/evenements.html) pour parler de technologies, de médias et d'inégalités et de donner des formations à l'autodéfense numérique.
 
