@@ -8,9 +8,11 @@ Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/tec
 
 ## À venir
 
-Conférence avec Irénée Régnauld ([Mais où va le web](https://maisouvaleweb.fr/)), Journée ADN Ouest, Nantes, 18 mars à 09h30 [plus d'information](https://www.adnouest.org/evenement/journee-du-numerique-responsable-nantes)
+Welcome to the broligarchy, Meetup Women in Machine Learning and Data Science, Paris, 10 avril à 19h [plus d'informations](https://www.meetup.com/paris-women-in-machine-learning-data-science/events/306792548/)
 
-Ma première conférence : l'intelligence artificielle et moi, Cité des sciences et du numérique, Paris, 22 mai à 14h [plus d'information](https://www.cite-sciences.fr/fr/au-programme/activites-spectacles/conferences/ma-premiere-conference#item-grid-177352)
+Table ronde Humain et tech, Féministes en tous genres, Orléans, 17 mai [plus d'informations](https://www.instagram.com/feministesentousgenres45/)
+
+Ma première conférence : l'intelligence artificielle et moi, Cité des sciences et du numérique, Paris, 22 mai à 14h [plus d'informations](https://www.cite-sciences.fr/fr/au-programme/activites-spectacles/conferences/ma-premiere-conference#item-grid-177352)
 
 ## Formations
 
