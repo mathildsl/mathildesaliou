@@ -1,5 +1,5 @@
 ---
-title: "Mathilde Saliou - Journaliste et essayiste"
+title: "Mathilde Saliou - Journaliste et autrice"
 order: 1
 in_menu: true
 ---
