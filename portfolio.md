@@ -27,7 +27,7 @@ Je travaille principalement pour **Next**.
    - [Milliardaires de la tech : pourquoi altruisme efficace et longtermisme font-ils débat ?](https://www.nextinpact.com/article/70712/milliardaires-tech-pourquoi-altruisme-efficace-et-longtermisme-font-ils-debat)
    - [Comment les mouvements politiques français jouent des techniques de manipulation de l'information sur les réseaux sociaux](https://www.nextinpact.com/article/70132/comment-mouvements-politiques-francais-jouent-techniques-manipulation-information-sur-reseaux-sociaux)
 
-J'interviens quelquefois dans l'émission Twitch Obs.ions.Tech : 
+J'interviens quelquefois dans **l'émission Twitch Obs.ions.Tech** : 
 - En mars 2025, pour [détailler les effets de l'arrivée de la techno-broligarchie à la tête des États-Unis](https://www.youtube.com/watch?v=dwWWCkXAhEA)
 - En juin 2024, pour [évoquer le rôle des algorithmes des réseaux sociaux sur le débat politique](https://www.youtube.com/watch?v=yocqfYJ_rE4)
 
