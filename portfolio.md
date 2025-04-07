@@ -27,6 +27,10 @@ Je travaille principalement pour **Next**.
    - [Milliardaires de la tech : pourquoi altruisme efficace et longtermisme font-ils débat ?](https://www.nextinpact.com/article/70712/milliardaires-tech-pourquoi-altruisme-efficace-et-longtermisme-font-ils-debat)
    - [Comment les mouvements politiques français jouent des techniques de manipulation de l'information sur les réseaux sociaux](https://www.nextinpact.com/article/70132/comment-mouvements-politiques-francais-jouent-techniques-manipulation-information-sur-reseaux-sociaux)
 
+J'interviens quelquefois dans l'émission Twitch Obs.ions.Tech : 
+- En mars 2025, pour [détailler les effets de l'arrivée de la techno-broligarchie à la tête des États-Unis](https://www.youtube.com/watch?v=dwWWCkXAhEA)
+- En juin 2024, pour [évoquer le rôle des algorithmes des réseaux sociaux sur le débat politique](https://www.youtube.com/watch?v=yocqfYJ_rE4)
+
 En 2023, j'ai rejoint le [fellowship](https://algorithmwatch.org/en/second-group-algorithmwatch-fellows/) de l'ONG **AlgorithmWatch**. Ceci m'a conduite à publier :
 - [Fighting in the dark: How Europeans push back against rogue AI](https://algorithmwatch.org/en/europeans-push-back-against-rogue-ai/)
 - [Work inside the machine: How pre-saves and algorithmic marketing turn musicians into influencers](https://algorithmwatch.org/en/pre-saves-algorithmic-marketing-music/)
