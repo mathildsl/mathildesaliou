@@ -73,7 +73,12 @@ De 2018 à 2020, j'ai été journaliste économique chez **mind Fintech**. J'y a
 
 De 2014 à ce jour, j'ai aussi travaillé avec des médias comme ceux listés ci-dessous (par ordre antéchronologique) :
 
-**Synth media** : 
+**Alternatives Économiques** : 
+- [Travail : les promesses de l’IA sont-elles au rendez-vous ?](https://www.alternatives-economiques.fr/promesses-de-lia-rendez/00114000)
+
+[**Synth media**](https://synthmedia.fr/author/mathilde-saliou/) : 
+- [The Tech Coup : entretien avec l’ex-eurodéputée Marietje Schaake](https://synthmedia.fr/2025/03/entretiens/the-tech-coup-marietje-schaake/)
+- [L’extractivisme technologique, nouvelle force néocoloniale ?](https://synthmedia.fr/2025/02/politiques/lextractivisme-technologique-nouvelle-force-neocoloniale/)
 - [De Swartz à Altman, comment le discours sur l’accès aux données a évolué](https://synthmedia.fr/2024/12/techniques-et-prospective/de-swartz-a-altman-comment-le-discours-sur-lacces-aux-donnees-a-evolue/)
 - [Quand les algorithmes antifraude renforcent les inégalités sociales](https://synthmedia.fr/2024/11/politiques/travail/quand-les-algorithmes-anti-fraude-renforcent-les-inegalites-sociales/)
 - [Qui l’eut cru ? Le gouvernement prêt à prolonger la vidéosurveillance algorithmique après les JO ?](https://synthmedia.fr/2024/10/politiques/qui-leut-cru-le-gouvernement-pret-a-prolonger-la-videosurveillance-algorithmique-apres-les-jo/)
