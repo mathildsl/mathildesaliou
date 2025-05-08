@@ -8,8 +8,6 @@ Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/tec
 
 ## À venir
 
-Welcome to the broligarchy, Meetup Women in Machine Learning and Data Science, Paris, 10 avril à 19h [plus d'informations](https://www.meetup.com/paris-women-in-machine-learning-data-science/events/306792548/)
-
 Table ronde Humain et tech, Féministes en tous genres, Orléans, 17 mai [plus d'informations](https://www.instagram.com/feministesentousgenres45/)
 
 Ma première conférence : l'intelligence artificielle et moi, Cité des sciences et du numérique, Paris, 22 mai à 14h [plus d'informations](https://www.cite-sciences.fr/fr/au-programme/activites-spectacles/conferences/ma-premiere-conference#item-grid-177352)
@@ -21,7 +19,10 @@ Autodéfense numérique ([fanzine récapitulatif](https://drive.google.com/file/
 Sensibilisation au cyberharcèlement (initialement [créée pour Prenons la Une](https://prenonslaune.fr/2020/11/cyberharcelement-journaliste/))
 
 ## Événements passés
-(pour lesquels il existe une captation)
+(pour lesquels il existe une captation ou un résumé)
+
+Welcome to the broligarchy, Meetup Women in Machine Learning and Data Science, Paris, 10 avril 2025 
+>  📰 [summary of the event](https://wimlds-paris.medium.com/53-women-in-machine-learning-and-data-science-online-convex-reinforcement-learning-ai-4cb4db5f8d7f)
 
 "Technoféminisme : comment rendre le numérique plus inclusif ?", Ethics by Design, Nantes, 14 novembre 2024
 > 📺 [Replay de la keynote](https://peertube.designersethiques.org/w/9bc2ad1f-6ec7-45d7-bc01-5c5175ffe107)
