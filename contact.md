@@ -11,7 +11,7 @@ Je suis joignable sur tout un tas d'applications de ce vaste réseau qu'est inte
 
 Vous pouvez me demander mon téléphone (pour Signal) ou un CV via l'un des canaux cités ci-dessus.
 
-Ou vous abonner à mon infolettre, [Technoculture](https://technoculture.kessel.media/posts) : 
+Ou vous abonner à mon infolettre, [Technoculture](https://technoculture.kessel.media?source_type=social_network) : 
 
 <iframe
   src="https://technoculture.kessel.media/iframe" width="480" height="400"
