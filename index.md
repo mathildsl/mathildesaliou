@@ -10,13 +10,15 @@ Je suis **Mathilde Saliou**, journaliste et autrice, spécialisée dans le numé
 Adepte de vulgarisation et soucieuse des questions d’éducation aux médias et à l’information (EMI), je réfléchis aux formats les mieux à même de transmettre des connaissances en fonction des publics visés et je partage des outils [dans ma newsletter Technoculture](https://technoculture.kessel.media?source_type=social_network). Pour vous abonner :
 
 <iframe
-  src="https://technoculture.kessel.media/iframe" width="480" height="400"
+  src="https://technoculture.kessel.media/iframe?displayContext=false"
+  width="480"
+  height="130"
   frameborder="0"
   scrolling="no"
 >
 </iframe>
 
-Je travaille principalement pour [Next](https://next.ink/public-profile/?id=54), où j'ai créé le podcast [Algorithmique](https://next.ink/podcast/algorithmique-next-lance-son-premier-podcast/). J'interviens quelquefois, [dans d'autres médias](https://mathildesaliou.com/portfolio.html) comme the Guardian, 20 Minutes, Slate, Numerama, Synth ou encore La Déferlante. Il m'arrive aussi de [donner des conférences](https://mathildesaliou.com/evenements.html) pour parler de technologies, de médias et d'inégalités et de donner des formations à l'autodéfense numérique.
+Je travaille principalement pour [Next](https://next.ink/public-profile/?id=54), où j'ai créé des podcasts : la série [Algorithmique](https://next.ink/podcast/algorithmique-next-lance-son-premier-podcast/), sur les enjeux de l'IA, a été diffusée en 2024, et [Écosystème](https://next.ink/podcast/next-lance-ecosysteme-une-nouvelle-serie-audio-sur-les-enjeux-environnementaux-du-numerique/), sur les enjeux environnementaux du numérique, est en cours de diffusion. J'interviens quelquefois, [dans d'autres médias](https://mathildesaliou.com/portfolio.html) comme the Guardian, 20 Minutes, Slate, Numerama, Synth ou encore La Déferlante. Il m'arrive aussi de [donner des conférences](https://mathildesaliou.com/evenements.html) pour parler de technologies, de médias et d'inégalités et de donner des formations à l'autodéfense numérique.
 
 Mon enquête **Technoféminisme, comment le numérique aggrave les inégalités** a été publiée en février 2023 [aux éditions Grasset](https://www.grasset.fr/livres/technofeminisme-9782246828822).
 
