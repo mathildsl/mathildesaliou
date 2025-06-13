@@ -10,9 +10,9 @@ Je suis **Mathilde Saliou**, journaliste et autrice, spécialisée dans le numé
 Adepte de vulgarisation et soucieuse des questions d’éducation aux médias et à l’information (EMI), je réfléchis aux formats les mieux à même de transmettre des connaissances en fonction des publics visés et je partage des outils [dans ma newsletter Technoculture](https://technoculture.kessel.media?source_type=social_network). Pour vous abonner :
 
 <iframe
-  src="https://technoculture.kessel.media/iframe?displayContext=false"
+  src="https://technoculture.kessel.media/iframe"
   width="480"
-  height="130"
+  height="400"
   frameborder="0"
   scrolling="no"
 >
