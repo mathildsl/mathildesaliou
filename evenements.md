@@ -8,9 +8,7 @@ Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/tec
 
 ## À venir
 
-Table ronde Humain et tech, Féministes en tous genres, Orléans, 17 mai [plus d'informations](https://www.instagram.com/feministesentousgenres45/)
-
-Ma première conférence : l'intelligence artificielle et moi, Cité des sciences et du numérique, Paris, 22 mai à 14h [plus d'informations](https://www.cite-sciences.fr/fr/au-programme/activites-spectacles/conferences/ma-premiere-conference#item-grid-177352)
+Table-ronde "Reprendre sa place : les leviers possibles", Journée "Genre et numérique : work in progress", Université Rennes 2, [Programme](https://nouvelles.univ-rennes2.fr/event/genre-numerique-work-progress)
 
 ## Formations
 
