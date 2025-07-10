@@ -20,9 +20,6 @@ Ou vous abonner à mon infolettre, [Technoculture](https://technoculture.kessel.
 >
 </iframe>
 
-Une lectrice [en a dit](https://piaille.fr/@lila_bliblu@mastodon.opportunis.me/113935399792705149) :"La dernière newsletter [Technoculture](https://technoculture.kessel.media/posts/pst_f645f2bc7dd54e13a14e12d06bcba673/nous-sommes-les-terres-quils-veulent-coloniser) est assez excellente pour que j'en copie le texte brut et le partage à ma famille sur Signal."
-
-La politologue Marie-Cécile Naves [en a dit](https://fak1g.r.ag.d.sendibm3.com/mk/mr/sh/1f8JAEjGcfF85tczAMXB8X9PFg/9U6jrzwlHnQ6) : "« Technoculture » est accessible sur abonnement (et ça en vaut la peine)."
 
 ____
 
