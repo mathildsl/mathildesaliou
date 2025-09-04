@@ -7,10 +7,13 @@ Je travaille pour toutes sortes de média, le plus souvent écrits, quelquefois 
 
 Je travaille principalement pour **Next**. 
 - J'y ai créé les podcasts **Écosystème**, une série d'entretiens pour explorer les enjeux environnementaux du numérique, et **Algorithmique**, dédié à vulgariser les enjeux de l'intelligence artificielle. 
-  - **Écosystème** est en cours de diffusion. Épisode 1 : [Ce que la tech fait à la planète, avec Frédéric Bordage](https://next.ink/podcast/ecosysteme-1-7-ce-que-la-tech-fait-a-la-planete/), épisode 2 : [La Terre derrière la tech, avec Philippe Bihouix](https://next.ink/podcast/ecosysteme-2-7-la-terre-derriere-la-tech/). 
+  - **Écosystème**, épisode 1 : [Ce que la tech fait à la planète](https://next.ink/podcast/ecosysteme-1-7-ce-que-la-tech-fait-a-la-planete/), épisode 2 : [La Terre derrière la tech](https://next.ink/podcast/ecosysteme-2-7-la-terre-derriere-la-tech/), épisode 3 : [Dans les usines de données](https://next.ink/podcast/ecosysteme-3-7-dans-les-usines-de-donnees/), épisode 4 : [Numérique électrique, numérique responsable](https://next.ink/podcast/ecosysteme-4-7-numerique-electrique-numerique-responsable/), épisode 5 : [Des services numériques légers comme l'air](https://next.ink/podcast/ecosysteme-5-7-des-services-numeriques-legers-comme-lair/), épisode 6 : [Démonter, remonter, recycler](https://next.ink/podcast/ecosysteme-6-7-demonter-remonter-recycler/), épisode 7 : [Numérique sobre, numérique démocratique](https://next.ink/podcast/ecosysteme-7-7-numerique-sobre-numerique-democratique/). 
   - Diffusé fin 2024, **Algorithmique** est accessible en entier sur le fil de podcast de Next. Épisode 1 : [Intelligence sans conscience](https://next.ink/podcast/algorithmique-1-6-intelligence-sans-conscience/), épisode 2 : [Biaisé comme l'IA](https://next.ink/podcast/algorithmique-2-6-biaise-comme-lia/), épisode 3 : [Questionner les systèmes](https://next.ink/podcast/algorithmique-3-6-questionner-les-systemes/), épisode 4 : [IA qu'à algorithmiser le climat ?](https://next.ink/podcast/algorithmique-4-6-ia-qua-algorithmiser-le-climat/), épisode 5 : [La politique de l'IA](https://next.ink/podcast/algorithmique-5-6-la-politique-de-lia/), épisode 6 : [Intelligence artificielle, intelligence collective](https://next.ink/podcast/algorithmique-6-6-intelligence-artificielle-intelligence-collective/). 
 
 - J'y passe surtout mon temps à écrire. Vous pouvez retrouver tous mes articles [ici](https://next.ink/public-profile/?id=54), mais voici une sélection :
+  - [Ce que les cités-États des leaders de la tech disent du moment politique](https://next.ink/190956/ce-que-les-cites-etats-des-leaders-de-la-tech-disent-du-moment-politique/)
+  - [Inclusion dans la tech : le repli se fait sentir](https://next.ink/189690/inclusion-dans-la-tech-le-repli-se-fait-sentir/)
+  - [Émotions à l’Assemblée nationale : est-ce vraiment la faute des réseaux sociaux ?](https://next.ink/165896/emotions-a-lassemblee-nationale-est-ce-vraiment-la-faute-des-reseaux-sociaux/)
   - [Meredith Whittaker (Signal) : « L’IA est un outil des puissants contre ceux qui ont moins de pouvoir »](https://next.ink/138390/meredith-whittaker-signal-lia-est-un-outil-des-puissants-contre-ceux-qui-ont-moins-de-pouvoir/)
   - [[Édito] La sécurité numérique est un enjeu d’éducation populaire](https://next.ink/127134/edito-la-securite-numerique-est-un-enjeu-deducation-populaire/)
   - [[Édito] Liberté d’expression n’est pas synonyme d’irresponsabilité](https://next.ink/125319/edito-liberte-dexpression-nest-pas-synonyme-dirresponsabilite/)
@@ -21,9 +24,7 @@ Je travaille principalement pour **Next**.
   - [Aux États-Unis, l’avortement révélateur des problématiques de vie privée et de désinformation](https://www.nextinpact.com/article/71785/aux-etats-unis-lavortement-revelateur-problematiques-vie-privee-et-desinformation)
   - [Fuite de données : l’URSSAF diffuse des dizaines d’échéanciers aux mauvais destinataires](https://www.nextinpact.com/article/71595/fuite-donnees-lurssaf-diffuse-dizaines-decheanciers-aux-mauvais-destinataires)
    - [Mesurer l'empreinte environnementale du numérique, un vrai casse-tête](https://www.nextinpact.com/article/71228/mesurer-empreinte-environnementale-numerique-vrai-casse-tete)
-   - [Si une banque fait faillite, les fonds des particuliers sont-ils sécurisés ?](https://www.nextinpact.com/article/71229/si-banque-fait-faillite-fonds-particuliers-sont-ils-securises)
    - [Peut-on corriger les biais des algorithmes ?](https://www.nextinpact.com/article/70943/peut-on-corriger-biais-algorithmes)
-   - [Les Français veulent des explications claires sur les modèles algorithmiques](https://www.nextinpact.com/article/71068/les-francais-veulent-explications-claires-sur-modeles-algorithmiques)
    - [Qu'implique la construction d'un smartphone équitable ?](https://www.nextinpact.com/article/70871/quimplique-construction-dun-smartphone-equitable)
    - [Milliardaires de la tech : pourquoi altruisme efficace et longtermisme font-ils débat ?](https://www.nextinpact.com/article/70712/milliardaires-tech-pourquoi-altruisme-efficace-et-longtermisme-font-ils-debat)
    - [Comment les mouvements politiques français jouent des techniques de manipulation de l'information sur les réseaux sociaux](https://www.nextinpact.com/article/70132/comment-mouvements-politiques-francais-jouent-techniques-manipulation-information-sur-reseaux-sociaux)
@@ -87,6 +88,7 @@ De 2014 à ce jour, j'ai aussi travaillé avec des médias comme ceux listés ci
  - [Quand l’IA sert à humilier : épidémie de deepfakes pornographiques en Corée du Sud](https://synthmedia.fr/2024/09/politiques/quand-lia-sert-a-humilier-epidemie-de-deepfakes-pornographiques-en-coree-du-sud/)
 
 **La Déferlante** : 
+ - [Réseaux sociaux, armes de désinformation massive](https://revueladeferlante.fr/reseaux-sociaux-armes-de-desinformation-massive/)
  - [Comment rendre l'intelligence artificielle plus inclusive ?](https://revueladeferlante.fr/intelligence-artificielle-comment-la-rendre-plus-inclusive/)
 
 **Plan Cash** : 
