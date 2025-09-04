@@ -30,6 +30,7 @@ Je travaille principalement pour **Next**.
    - [Comment les mouvements politiques français jouent des techniques de manipulation de l'information sur les réseaux sociaux](https://www.nextinpact.com/article/70132/comment-mouvements-politiques-francais-jouent-techniques-manipulation-information-sur-reseaux-sociaux)
 
 J'interviens quelquefois dans **l'émission Twitch Obs.ions.Tech** : 
+- En juillet 2025, sur [les impacts environnementaux de l'IA](https://www.youtube.com/watch?v=Nr-7NBfo6f4)
 - En mars 2025, pour [détailler les effets de l'arrivée de la techno-broligarchie à la tête des États-Unis](https://www.youtube.com/watch?v=dwWWCkXAhEA)
 - En juin 2024, pour [évoquer le rôle des algorithmes des réseaux sociaux sur le débat politique](https://www.youtube.com/watch?v=yocqfYJ_rE4)
 
@@ -76,6 +77,10 @@ De 2018 à 2020, j'ai été journaliste économique chez **mind Fintech**. J'y a
 
 De 2014 à ce jour, j'ai aussi travaillé avec des médias comme ceux listés ci-dessous (par ordre antéchronologique) :
 
+**La Déferlante** : 
+ - [Réseaux sociaux, armes de désinformation massive](https://revueladeferlante.fr/reseaux-sociaux-armes-de-desinformation-massive/)
+ - [Comment rendre l'intelligence artificielle plus inclusive ?](https://revueladeferlante.fr/intelligence-artificielle-comment-la-rendre-plus-inclusive/)
+
 **Alternatives Économiques** : 
 - [Travail : les promesses de l’IA sont-elles au rendez-vous ?](https://www.alternatives-economiques.fr/promesses-de-lia-rendez/00114000)
 
@@ -86,10 +91,6 @@ De 2014 à ce jour, j'ai aussi travaillé avec des médias comme ceux listés ci
 - [Quand les algorithmes antifraude renforcent les inégalités sociales](https://synthmedia.fr/2024/11/politiques/travail/quand-les-algorithmes-anti-fraude-renforcent-les-inegalites-sociales/)
 - [Qui l’eut cru ? Le gouvernement prêt à prolonger la vidéosurveillance algorithmique après les JO ?](https://synthmedia.fr/2024/10/politiques/qui-leut-cru-le-gouvernement-pret-a-prolonger-la-videosurveillance-algorithmique-apres-les-jo/)
  - [Quand l’IA sert à humilier : épidémie de deepfakes pornographiques en Corée du Sud](https://synthmedia.fr/2024/09/politiques/quand-lia-sert-a-humilier-epidemie-de-deepfakes-pornographiques-en-coree-du-sud/)
-
-**La Déferlante** : 
- - [Réseaux sociaux, armes de désinformation massive](https://revueladeferlante.fr/reseaux-sociaux-armes-de-desinformation-massive/)
- - [Comment rendre l'intelligence artificielle plus inclusive ?](https://revueladeferlante.fr/intelligence-artificielle-comment-la-rendre-plus-inclusive/)
 
 **Plan Cash** : 
   - [Le “cashback”, technique anti-inflation ou arnaque?](https://plancash.substack.com/p/n43-le-cashback-technique-anti-inflation)
@@ -107,15 +108,12 @@ De 2014 à ce jour, j'ai aussi travaillé avec des médias comme ceux listés ci
   - [Incidents au Stade de France : La reconnaissance faciale permettrait-elle vraiment d’améliorer la gestion des foules ?](https://www.20minutes.fr/high-tech/3303651-20220609-incidents-stade-france-reconnaissance-faciale-permettrait-vraiment-ameliorer-gestion-foules)
   - [« Hôtel du Temps » : L'émission de Thierry Ardisson est-elle la télévision de demain ou d'hier ?](https://www.20minutes.fr/arts-stars/television/3280539-20220502-hotel-temps-emission-thierry-ardisson-television-demain-hier)
 
-
 **Arte FAQ** :
   - [J'ai placé mes économies en crypto](https://story.snapchat.com/p/da34de3d-c1bc-45bc-abcb-66aa1a4becdf/902921768443904)
-
 
 [**Slate**](https://www.slate.fr/source/170175/mathilde-saliou) :
   - [Boutcha, charnier sur Google, havre de paix sur Yandex](https://www.slate.fr/story/226757/guerre-ukraine-illustre-non-neutralite-moteurs-recherche-russie-propagande)
   - [Comment les algorithmes influencent nos comportements électoraux](https://www.slate.fr/story/226047/election-presidentielle-manipulations-algorithmes-influencent-comportements-electoraux-vote)
-
 
 [**Numerama**](https://www.numerama.com/author/mathildesaliou/) :
   - [C'est quoi le darknet et le dark web ?](https://www.numerama.com/tech/1188862-dark-net-dark-web-de-quoi-parle-t-on.html)
@@ -129,7 +127,6 @@ De 2014 à ce jour, j'ai aussi travaillé avec des médias comme ceux listés ci
 
 **Usbek & Rica**
 - [On a assisté à un cours d’informatique pour les réfugiés](https://usbeketrica.com/fr/article/on-a-assiste-a-un-cours-d-informatique-pour-les-refugies)
-
 
 **Les Inrocks / Cheek Magazine**
   - [Féminiser Wikipédia, le pari féministe de l’association les sans pagEs](https://www.lesinrocks.com/cheek/les-sans-pages-feminisation-wikipedia-313640-21-06-2018/)
