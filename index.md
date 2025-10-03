@@ -22,7 +22,7 @@ Je travaille principalement pour [Next](https://next.ink/public-profile/?id=54),
 
 Mon livre **L'Envers de la Tech, ce que le numérique fait au monde** a été publié aux [éditions Les Pérégrines](https://editionslesperegrines.fr/fr/books/lenvers-de-la-tech) en octobre 2025. Le précédent,  **Technoféminisme, comment le numérique aggrave les inégalités** a été publié en février 2023 [aux éditions Grasset](https://www.grasset.fr/livres/technofeminisme-9782246828822).
 
-![Couvertures L'Envers de la Tech et Technoféminisme](https://github.com/mathildsl/mathildesaliou/blob/main/images/TechnoFem_EnversTech_Saliou.png)
+![Couvertures L'Envers de la Tech et Technoféminisme](https://github.com/mathildsl/mathildesaliou/blob/main/images/TechnoFem_EnversTech_Saliou_small.png)
 
 De 2020 à 2022, j'ai été secrétaire générale de l'association [Prenons la Une](https://prenonslaune.fr/), qui œuvre pour une meilleure représentation des femmes dans les médias et l'égalité dans les rédactions. J'ai créé et j'anime des [formations](https://prenonslaune.fr/2020/11/cyberharcelement-journaliste/) de sensibilisation au cyberharcèlement au nom de Prenons la Une.
 
