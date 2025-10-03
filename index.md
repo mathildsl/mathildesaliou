@@ -5,7 +5,7 @@ in_menu: true
 ---
 # Bienvenue !
 
-Je suis **Mathilde Saliou**, journaliste et autrice, spécialisée dans le numérique et les inégalités. J'étudie les effets des technologies sur la société et la manière dont cette dernière modèle les innovations en cours. Dit autrement, je couvre des thématiques liées à la tech, à l'information, ainsi qu'aux inégalités présentes dans les médias et les mondes connectés.
+Je suis **Mathilde Saliou**, journaliste et autrice. J'étudie les effets des technologies sur la société et la manière dont cette dernière modèle les innovations en cours. Dit autrement, je couvre des thématiques sociales, économiques et politiques liées à la tech, à l'information, ainsi qu'aux inégalités présentes dans les médias et les mondes connectés.
 
 Adepte de vulgarisation et soucieuse des questions d’éducation aux médias et à l’information (EMI), je réfléchis aux formats les mieux à même de transmettre des connaissances en fonction des publics visés et je partage des outils [dans ma newsletter Technoculture](https://technoculture.kessel.media?source_type=social_network). Pour vous abonner :
 
