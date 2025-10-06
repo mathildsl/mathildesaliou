@@ -1,9 +1,16 @@
 ---
-title: "Événements"
+title: "Agenda"
 order: 4
 in_menu: true
 ---
-Que ce soit pour évoquer [_Technoféminisme_](https://www.grasset.fr/livres/technofeminisme-9782246828822), pour parler tech ou pour évoquer la place des femmes et des minorités dans les médias, il m'arrive de donner des conférences, des formations, et de participer à des tables rondes. Pour toutes questions, n'hésitez pas à [m'écrire](https://mathildesaliou.com/contact.html).
+Je donne des conférences, des formations et je participe à des table-rondes sur mes sujets d'expertise. Pour toutes questions, n'hésitez pas à [m'écrire](https://mathildesaliou.com/contact.html). Si vous souhaitez que je vienne parler de [l'Envers de la Tech](https://editionslesperegrines.fr/fr/books/lenvers-de-la-tech) près de chez vous, c'est aussi possible : discutez-en avec votre libraire.
+
+
+## À venir
+
+6 novembre, 19h à la **librairie les Nouveautés, Paris 10e** : Rencontre à l'occasion de la sortie de L'Envers de la tech
+
+21 novembre, 18h à la **librairie Dialogues, à Morlaix** : Rencontre à l'occasion de la sortie de L'Envers de la tech
 
 ## Formations
 
