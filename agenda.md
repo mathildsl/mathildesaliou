@@ -8,9 +8,9 @@ Je donne des conférences, des formations et je participe à des table-rondes su
 
 ## À venir
 
-6 novembre, 19h à la **librairie les Nouveautés, Paris 10e** : Rencontre à l'occasion de la sortie de L'Envers de la tech
+6 novembre, 19h à la **librairie les Nouveautés, Paris 10e** : Rencontre autour de L'Envers de la tech
 
-21 novembre, 18h à la **librairie Dialogues, à Morlaix** : Rencontre à l'occasion de la sortie de L'Envers de la tech
+21 novembre, 18h à la **librairie Dialogues, à Morlaix** : [Rencontre](https://www.dialoguesmorlaix.com/rencontres/42340/) autour de L'Envers de la tech
 
 ## Formations
 
