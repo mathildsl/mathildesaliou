@@ -8,7 +8,15 @@ Je donne des conférences, des formations et je participe à des table-rondes su
 
 ## À venir
 
+30 octobre, 9h30 à **Numérique en Communs, à Strasbourg** : Masterclass "Comment reprendre le contrôle sur le numérique" ([Voir le programme](https://numerique-en-communs.fr/))
+
 6 novembre, 19h à la **librairie les Nouveautés, Paris 10e** : Rencontre autour de L'Envers de la tech
+
+8 novembre, 14h30 aux **Assises de la traduction littéraire, à Arles** table ronde "Observatoire de la traduction et des relations humain-machine", avec Irénée Régnauld et Gauthier Roussilhe ([Voir le programme](https://www.atlas-citl.org/assises-2025/))
+
+15 novembre, **festival Projection Transition**, aux 7 Parnassiens **à Paris** :
+14h15 : projection de The Social Network, de David Fincher
+16h20 : table ronde "20 ans après, que reste-t-il du social", avec Amélie Deloche et David Chavalarias ([Voir le programme](https://projectiontransition.fr/paris/))
 
 21 novembre, 18h à la **librairie Dialogues, à Morlaix** : [Rencontre](https://www.dialoguesmorlaix.com/rencontres/42340/) autour de L'Envers de la tech
 
