@@ -10,7 +10,7 @@ Je donne des conférences, des formations et je participe à des table-rondes su
 
 30 octobre, 9h30 à **Numérique en Communs, à Strasbourg** : Masterclass "Comment reprendre le contrôle sur le numérique" ([Voir le programme](https://numerique-en-communs.fr/))
 
-6 novembre, 19h à la **librairie les Nouveautés, Paris 10e** : Rencontre autour de L'Envers de la tech
+6 novembre, 19h à la **librairie les Nouveautés, Paris 10e** : Rencontre autour de L'Envers de la tech ([Plus d'infos](https://www.librest.com/nos-rendez-vous/06-novembre-2025/6699-rencontre-avec-mathilde-saliou-pour--l-envers-de-la-tech--ce-que-le-numerique-fait-au-monde---les-peregrines-))
 
 8 novembre, 14h30 aux **Assises de la traduction littéraire, à Arles** table ronde "Observatoire de la traduction et des relations humain-machine", avec Irénée Régnauld et Gauthier Roussilhe ([Voir le programme](https://www.atlas-citl.org/assises-2025/))
 
