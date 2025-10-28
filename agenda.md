@@ -20,6 +20,8 @@ Je donne des conférences, des formations et je participe à des table-rondes su
 
 21 novembre, 18h à la **librairie Dialogues, à Morlaix** : [Rencontre](https://www.dialoguesmorlaix.com/rencontres/42340/) autour de L'Envers de la tech
 
+27 novembre au **festival Podcast Hôtel**, **à Lyon** : table-ronde "Plateformes de diffusion,   réseaux sociaux... Une production guidée par les algorithmes ?" ([Voir le programme](https://podcast-hotel.eu/))
+
 ## Formations
 
 Autodéfense numérique ([fanzine récapitulatif](https://drive.google.com/file/d/1bRpE9bU_jo8q4btFEBLg7dqT-R8_IAt4/view?usp=sharing) ([par ici pour les consignes de pliage](https://www.lumen.dignelesbains.fr/wp-content/uploads/sites/4/2020/05/tutoriel-fanzine.pdf)))
