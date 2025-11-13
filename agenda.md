@@ -32,7 +32,7 @@ Sensibilisation au cyberharcèlement (initialement [créée pour Prenons la Une]
 (pour lesquels il existe une captation ou un résumé)
 
 Welcome to the broligarchy, Meetup Women in Machine Learning and Data Science, Paris, 10 avril 2025 
->  📰 [report of the event](https://wimlds-paris.medium.com/53-women-in-machine-learning-and-data-science-online-convex-reinforcement-learning-ai-4cb4db5f8d7f)
+>  📰 [summary of the event](https://wimlds-paris.medium.com/53-women-in-machine-learning-and-data-science-online-convex-reinforcement-learning-ai-4cb4db5f8d7f)
 
 "Technoféminisme : comment rendre le numérique plus inclusif ?", Ethics by Design, Nantes, 14 novembre 2024
 > 📺 [Replay de la keynote](https://peertube.designersethiques.org/w/9bc2ad1f-6ec7-45d7-bc01-5c5175ffe107)
