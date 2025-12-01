@@ -35,7 +35,7 @@ Mathilde Saliou is a journalist and author specializing in digital and inequalit
 
 Mathilde Saliou mainly works for [Next](https://next.ink/). In the past, she has published [articles](https://mathildesaliou.com/portfolio.html) in media such as the Guardian or Algorithm Watch (in English), 20 Minutes, Slate, Numerama, les Inrocks and La Déferlante (in French). She also [gives conferences and talks](https://mathildesaliou.com/evenements.html) on technology, the media and inequality.
 
-Her book __L'Envers de la tech, ce que le numérique fait au monde__ (The flip side of technology: what the tech industry is doing to the world) will be published in october 2025 by Les Pérégrines. Her book __Technoféminisme, comment le numérique aggrave les inégalités__ (Technofeminism, how tech exacerbates inequalities) was published in February 2023 [by Grasset](https://www.grasset.fr/livres/technofeminisme-9782246828822).
+Her book __L'Envers de la tech, ce que le numérique fait au monde__ (The flip side of technology: what the tech industry is doing to the world) was published in october 2025 by Les Pérégrines. Her book __Technoféminisme, comment le numérique aggrave les inégalités__ (Technofeminism, how tech exacerbates inequalities) was published in February 2023 [by Grasset](https://www.grasset.fr/livres/technofeminisme-9782246828822).
 
 From 2020 to 2022, Mathilde was Secretary General of the association [Prenons la Une](https://prenonslaune.fr/), which works to improve the representation of women in the media and promote equality in editorial departments. She set up and runs cyberbullying awareness [training courses](https://prenonslaune.fr/2020/11/cyberharcelement-journaliste/) on behalf of Prenons la Une.
 
