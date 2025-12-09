@@ -7,6 +7,8 @@ Il m'arrive d'être interviewée par des médias 📰 écrits, 🎧 radio ou �
 
 
 ##### L'Envers de la Tech
+📺 [La Tech contre le reste du monde](https://www.youtube.com/watch?v=y8nsPPXUNNI), Penser c'est chouette, 6 décembre 2025
+
 🎧 [Une industrie de la tech plus éthique est-elle possible?](https://www.slate.fr/audio/le-monde-devant-soi/interview-mathilde-saliou-industrie-tech-plus-ethique-possible-envers-nouvelles-technologies-ia-numerique), Le Monde devant soi, Slate, 1 décembre 2025
 
 📰 [Le dossier noir du numérique](https://www.lapresse.ca/contexte/chroniques/2025-11-23/sur-le-banc-d-essais/de-l-etat-du-quebec-au-beguin-pour-rfk-jr.php), La Presse, 23 novembre 2025
@@ -16,6 +18,8 @@ Il m'arrive d'être interviewée par des médias 📰 écrits, 🎧 radio ou �
 📺 [La Tech nous mène à l'extinction (et personne n'en parle)](https://www.youtube.com/watch?v=9nJkYW9zTbk), Synth, 10 novembre 2025
 
 ##### Politique et impact du numérique
+📺 [La fascisation est-elle inscrite dans le code ?](https://video.lqdn.fr/w/f9PFNJMtPXQCtJzcBHnVsK), La Quadrature du Net, 3 décembre 2025
+
 📺 [Larry Ellison, le milliardaire qui veut contrôler le monde](https://www.france.tv/france-5/en-societe/saison-3/7575521-crise-politique-accords-de-paix-et-larry-ellison.html), En société, France 5, 12 octobre 2025
 
 ##### Espace public numérique, cyberviolences et discriminations
