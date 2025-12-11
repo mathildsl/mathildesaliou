@@ -8,13 +8,10 @@ Je donne des conférences, des formations et je participe à des table-rondes su
 
 ## À venir
 
-15 novembre, **festival Projection Transition**, aux 7 Parnassiens **à Paris** :
-- 14h15 : projection de The Social Network, de David Fincher
-- 16h20 : table ronde "20 ans après, que reste-t-il du social", avec Amélie Deloche et David Chavalarias ([Voir le programme](https://projectiontransition.fr/paris/))
+3 février 2026, conférence à la **Journée de l'écoconception numérique**,à Paris ([Voir le programme](https://journee-ecoconception-numerique.fr/))
 
-21 novembre, 18h à la **librairie Dialogues, à Morlaix** : [Rencontre](https://www.dialoguesmorlaix.com/rencontres/42340/) autour de L'Envers de la tech
+7 mars, à Bordeaux, table ronde au **Festival Imprimé** ([Programme à venir](https://www.festival-imprime.fr/))
 
-27 novembre au **festival Podcast Hôtel**, **à Lyon** : table-ronde "Plateformes de diffusion,   réseaux sociaux... Une production guidée par les algorithmes ?" ([Voir le programme](https://podcast-hotel.eu/))
 
 ## Formations
 
