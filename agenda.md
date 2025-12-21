@@ -12,7 +12,7 @@ Je donne des conférences, des formations et je participe à des table-rondes su
 
 15 janvier 2026, lancement Chut ! Magazine et signature de L'Envers de la Tech, à **La Gaîté Lyrique, à Paris**, 19h ([Voir le programme](https://chiche.makesense.org/events/e/emprise-algorithmique-a-la-recherche-de-lesprit-critique-694181be4fda780007be495f))
 
-27 janvier 2026, Peut-on déléguer la traduction aux algorithmes ?, à la **BNF, à Paris*, ([Voir le programme](https://www.bnf.fr/fr/agenda/peut-deleguer-la-traduction-aux-algorithmes))
+27 janvier 2026, Peut-on déléguer la traduction aux algorithmes ?, à la **BNF, à Paris**, ([Voir le programme](https://www.bnf.fr/fr/agenda/peut-deleguer-la-traduction-aux-algorithmes))
 
 3 février 2026, conférence à la **Journée de l'écoconception numérique, à Paris** ([Voir le programme](https://journee-ecoconception-numerique.fr/))
 
