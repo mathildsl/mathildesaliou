@@ -17,7 +17,7 @@ Il m'arrive d'être interviewée par des médias 📰 écrits, 🎧 radio ou �
 
 📺 [La Tech nous mène à l'extinction (et personne n'en parle)](https://www.youtube.com/watch?v=9nJkYW9zTbk), Synth, 10 novembre 2025
 
-##### Politique et impact du numérique
+##### Effets politiques du numérique
 📺 [La fascisation est-elle inscrite dans le code ?](https://video.lqdn.fr/w/f9PFNJMtPXQCtJzcBHnVsK), La Quadrature du Net, 3 décembre 2025
 
 📺 [Larry Ellison, le milliardaire qui veut contrôler le monde](https://www.france.tv/france-5/en-societe/saison-3/7575521-crise-politique-accords-de-paix-et-larry-ellison.html), En société, France 5, 12 octobre 2025
