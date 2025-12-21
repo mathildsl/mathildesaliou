@@ -7,6 +7,8 @@ Il m'arrive d'être interviewée par des médias 📰 écrits, 🎧 radio ou �
 
 
 ##### L'Envers de la Tech
+📺 [Peut-on critiquer l'IA sans faire la morale](https://www.youtube.com/watch?v=kRtDhGZ9rFI), Internet Exploreuses, Origami, 11 décembre 2025
+
 📺 [La Tech contre le reste du monde](https://www.youtube.com/watch?v=y8nsPPXUNNI), Penser c'est chouette, 6 décembre 2025
 
 🎧 [Une industrie de la tech plus éthique est-elle possible?](https://www.slate.fr/audio/le-monde-devant-soi/interview-mathilde-saliou-industrie-tech-plus-ethique-possible-envers-nouvelles-technologies-ia-numerique), Le Monde devant soi, Slate, 1 décembre 2025
