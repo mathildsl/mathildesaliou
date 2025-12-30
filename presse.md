@@ -7,6 +7,8 @@ Il m'arrive d'être interviewée par des médias 📰 écrits, 🎧 radio ou �
 
 
 ##### L'Envers de la Tech
+🎧 [Une intelligence artificielle plus respectueuse du vivant, c'est possible !](https://www.rts.ch/audio-podcast/2025/audio/une-ia-plus-respectueuse-du-vivant-c-est-possible-29100915.html), Tout un monde, RTS, 26 décembre 2025
+
 📺 [Peut-on critiquer l'IA sans faire la morale](https://www.youtube.com/watch?v=kRtDhGZ9rFI), Internet Exploreuses, Origami, 11 décembre 2025
 
 📺 [La Tech contre le reste du monde](https://www.youtube.com/watch?v=y8nsPPXUNNI), Penser c'est chouette, 6 décembre 2025
