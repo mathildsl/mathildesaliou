@@ -36,7 +36,7 @@ J'interviens quelquefois dans **l'émission Twitch Obs.ions.Tech** :
 - En mars 2025, pour [détailler les effets de l'arrivée de la techno-broligarchie à la tête des États-Unis](https://www.youtube.com/watch?v=dwWWCkXAhEA)
 - En juin 2024, pour [évoquer le rôle des algorithmes des réseaux sociaux sur le débat politique](https://www.youtube.com/watch?v=yocqfYJ_rE4)
 
-En 2023, j'ai rejoint le [fellowship](https://algorithmwatch.org/en/second-group-algorithmwatch-fellows/) de l'ONG **AlgorithmWatch**. Ceci m'a conduite à publier :
+En 2023, j'ai rejoint le [fellowship](https://algorithmwatch.org/en/second-group-algorithmwatch-fellows/) de l'ONG **AlgorithmWatch**. Ceci m'a conduite à publier, seule ou en équipe :
 - le podcast [Faux Positifs](https://podcasts.afp.com/michaela-cancela-kieffer-faux-positifs), produit pour l'**AFP**
 - [Fighting in the dark: How Europeans push back against rogue AI](https://algorithmwatch.org/en/europeans-push-back-against-rogue-ai/)
 - [Work inside the machine: How pre-saves and algorithmic marketing turn musicians into influencers](https://algorithmwatch.org/en/pre-saves-algorithmic-marketing-music/)
@@ -50,7 +50,7 @@ En 2022, ma consœur Ingri Bergo et moi avons remporté une bourse du [Journalis
   - [Ce qu'il manque à la lutte contre le «revenge porn» pour qu'elle soit vraiment efficace](https://www.slate.fr/story/235688/revenge-porn-consideration-lois-cyberviolences-femmes-cooperation-europe-reseaux-sociaux-sites-pornographiques)
   - [Diffusion d'images intimes : des activistes au secours des victimes](https://www.slate.fr/story/235976/revenge-porn-diffusion-images-intimes-activistes-associations-secours-victimes-traque-reseaux-sociaux)
 
-De 2020 à 2022, j'ai été journaliste et coordinatrice de la rédaction de **Flint.media**. J'ai participé à l'élaboration de la stratégie éditoriale et construit divers formats : des courts adaptés à la newsletter quotidienne, des séries explicatives ou encore des dispositifs plus ponctuels dédiés à décortiquer de gros débats de société (comme celui qui entourait à l'époque la question de la vaccination contre la Covid-19). Quelques exemples : 
+De 2020 à 2022, j'ai été journaliste et rédactrice en cheffe de **Flint.media**. J'ai participé à l'élaboration de la stratégie éditoriale et construit divers formats : des courts adaptés à la newsletter quotidienne, des séries explicatives ou encore des dispositifs plus ponctuels dédiés à décortiquer de gros débats de société (comme celui qui entourait à l'époque la question de la vaccination contre la Covid-19). Quelques exemples : 
 - [Série] [Algorithmes, intelligence artificielle : quelle est la différence ?](https://flint.media/posts/190-algorithmes-intelligence-artificielle-quelle-est-la-difference)
 - [Série] [La blockchain pour ceux qui n’y connaissent rien (et pour les autres aussi)](https://flint.media/posts/106-la-blockchain-pour-ceux-qui-n-rsquo-y-connaissent-rien-et-pour-les-autres-aussi)
 - [Debunk] [Vaccins anti-covid : comment débattre sans se battre ?](https://flint.media/posts/96-covid-comment-les-vaccins-agissent-t-ils)
@@ -74,6 +74,8 @@ De 2018 à 2020, j'ai été journaliste économique chez **mind Fintech**. J'y a
 À l'**Atelier des médias**, chez **RFI**, j'ai réalisé [plusieurs émissions](https://www.rfi.fr/fr/auteur/mathilde-saliou/) en 2018, dont 
 - une intitulée ["Quand le féminisme rencontre le podcast"](https://www.rfi.fr/fr/emission/20180915-quand-le-feminisme-rencontre-le-podcast) 
 - et une autre, ["Les journalistes face au cyberharcèlement"](https://www.rfi.fr/fr/emission/20181013-journalistes-cyberharcelement-insultes-lynchages-menaces-reseaux-sociaux)
+
+En 2017-2018, j'ai cofondé la newsletter spécialisée dans la tech **Planet**, dont j'ai construit la stratégie éditoriale et géré les publications et la promotion en et hors ligne. 
 
 #### À la pige
 
