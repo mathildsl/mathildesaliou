@@ -3,7 +3,7 @@ title: "Agenda"
 order: 4
 in_menu: true
 ---
-Je donne des conférences, des formations et je participe à des table-rondes sur mes sujets d'expertise. Pour toutes questions, n'hésitez pas à [m'écrire](https://mathildesaliou.com/contact.html). Si vous souhaitez que je vienne parler de [l'Envers de la Tech](https://editionslesperegrines.fr/fr/books/lenvers-de-la-tech) près de chez vous, c'est aussi possible : discutez-en avec votre libraire.
+Je donne des conférences, des formations et je participe à des table-rondes sur mes sujets d'expertise. Pour toutes questions, n'hésitez pas à [m'écrire](https://mathildesaliou.com/contact.html). Si vous souhaitez que je vienne parler de [l'Envers de la Tech](https://editionslesperegrines.fr/products/lenvers-de-la-tech-ce-que-le-numerique-fait-au-monde) près de chez vous, c'est aussi possible : discutez-en avec votre libraire.
 
 
 ## À venir
