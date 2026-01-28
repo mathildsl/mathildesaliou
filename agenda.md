@@ -8,14 +8,6 @@ Je donne des conférences, des formations et je participe à des table-rondes su
 
 ## À venir
 
-14 janvier 2026, rencontre croisée L'Envers de la Tech x Apocalypse Nerds, à la **librairie Le Genre Urbain, à Paris**, 19h30 ([Voir le programme](https://www.librest.com/nos-rendez-vous/14-janvier-2026/6786-rencontre-croisee----apocalypse-nerds--x--l-envers-de-la-tech---ed--divergence-et-les-peregrines-?librairie=le-genre-urbain&partner-link-set-pvPref=27685))
-
-15 janvier 2026, lancement Chut ! Magazine et signature de L'Envers de la Tech, à **La Gaîté Lyrique, à Paris**, 19h ([Voir le programme](https://chiche.makesense.org/events/e/emprise-algorithmique-a-la-recherche-de-lesprit-critique-694181be4fda780007be495f))
-
-22 janvier 2026, café citoyen autour de L'Envers de la Tech, à **Librairie La Vie immédiate, à Charenton-le-Pont**, 19h30
-
-27 janvier 2026, Peut-on déléguer la traduction aux algorithmes ?, à la **BNF, à Paris**, ([Voir le programme](https://www.bnf.fr/fr/agenda/peut-deleguer-la-traduction-aux-algorithmes))
-
 3 février 2026, conférence à la **Journée de l'écoconception numérique, à Paris** ([Voir le programme](https://journee-ecoconception-numerique.fr/))
 
 7 mars, table ronde au **Festival Imprimé, à Bordeaux** ([Programme à venir](https://www.festival-imprime.fr/))
