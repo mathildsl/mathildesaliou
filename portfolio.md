@@ -6,9 +6,9 @@ in_menu: true
 Je travaille pour toutes sortes de média, le plus souvent écrits, quelquefois radio ou tv/vidéo. Vous trouverez ci-dessous une sélection de mes travaux.
 
 Je travaille principalement pour **Next**. 
-- J'y ai créé la [verticale de podcasts](https://next.ink/podcasts/), pour laquelle j'anime les entretiens **Entre la chaise et le clavier**. Auparavant, j'ai fabriqué deux séries : **Écosystème**, pour explorer les enjeux environnementaux du numérique, et **Algorithmique**, dédiée à vulgariser les enjeux de l'intelligence artificielle. 
+- J'y ai créé la [verticale de podcasts](https://next.ink/podcasts/), pour laquelle j'anime les entretiens **Entre la chaise et le clavier**. Auparavant, j'ai fabriqué deux séries, l'une dédiée aux impacts environnementaux du numérique, l'autre pour vulgariser les enjeux de l'intelligence artificielle (les deux sont disponibles en remontant le fil d'Entre la chaise et le clavier). 
   - **Écosystème**, épisode 1 : [Ce que la tech fait à la planète](https://next.ink/podcast/ecosysteme-1-7-ce-que-la-tech-fait-a-la-planete/), épisode 2 : [La Terre derrière la tech](https://next.ink/podcast/ecosysteme-2-7-la-terre-derriere-la-tech/), épisode 3 : [Dans les usines de données](https://next.ink/podcast/ecosysteme-3-7-dans-les-usines-de-donnees/), épisode 4 : [Numérique électrique, numérique responsable](https://next.ink/podcast/ecosysteme-4-7-numerique-electrique-numerique-responsable/), épisode 5 : [Des services numériques légers comme l'air](https://next.ink/podcast/ecosysteme-5-7-des-services-numeriques-legers-comme-lair/), épisode 6 : [Démonter, remonter, recycler](https://next.ink/podcast/ecosysteme-6-7-demonter-remonter-recycler/), épisode 7 : [Numérique sobre, numérique démocratique](https://next.ink/podcast/ecosysteme-7-7-numerique-sobre-numerique-democratique/). 
-  - Diffusé fin 2024, **Algorithmique** est accessible en entier sur le fil de podcast de Next. Épisode 1 : [Intelligence sans conscience](https://next.ink/podcast/algorithmique-1-6-intelligence-sans-conscience/), épisode 2 : [Biaisé comme l'IA](https://next.ink/podcast/algorithmique-2-6-biaise-comme-lia/), épisode 3 : [Questionner les systèmes](https://next.ink/podcast/algorithmique-3-6-questionner-les-systemes/), épisode 4 : [IA qu'à algorithmiser le climat ?](https://next.ink/podcast/algorithmique-4-6-ia-qua-algorithmiser-le-climat/), épisode 5 : [La politique de l'IA](https://next.ink/podcast/algorithmique-5-6-la-politique-de-lia/), épisode 6 : [Intelligence artificielle, intelligence collective](https://next.ink/podcast/algorithmique-6-6-intelligence-artificielle-intelligence-collective/). 
+  - **Algorithmique**, épisode 1 : [Intelligence sans conscience](https://next.ink/podcast/algorithmique-1-6-intelligence-sans-conscience/), épisode 2 : [Biaisé comme l'IA](https://next.ink/podcast/algorithmique-2-6-biaise-comme-lia/), épisode 3 : [Questionner les systèmes](https://next.ink/podcast/algorithmique-3-6-questionner-les-systemes/), épisode 4 : [IA qu'à algorithmiser le climat ?](https://next.ink/podcast/algorithmique-4-6-ia-qua-algorithmiser-le-climat/), épisode 5 : [La politique de l'IA](https://next.ink/podcast/algorithmique-5-6-la-politique-de-lia/), épisode 6 : [Intelligence artificielle, intelligence collective](https://next.ink/podcast/algorithmique-6-6-intelligence-artificielle-intelligence-collective/). 
 
 - J'y passe surtout mon temps à écrire. Vous pouvez retrouver tous mes articles [ici](https://next.ink/public-profile/?id=54), mais voici une sélection :
   - [IA : la valse des contrats entre NVIDIA, OpenAI et consorts ravive les craintes d’une bulle](https://next.ink/203620/ia-la-valse-des-contrats-entre-nvidia-openai-et-consorts-ravive-les-craintes-dune-bulle/)
@@ -81,12 +81,13 @@ En 2017-2018, j'ai cofondé la newsletter spécialisée dans la tech **Planet**,
 
 De 2014 à ce jour, j'ai aussi travaillé avec des médias comme ceux listés ci-dessous (par ordre antéchronologique) :
 
+**Alternatives Économiques** : 
+- [Derrière la dérégulation européenne du numérique, l’ombre des Big Tech](https://www.alternatives-economiques.fr/digital-omnibus-derriere-la-deregulation-du-numerique-lombre-des-big/00117667)
+- [Travail : les promesses de l’IA sont-elles au rendez-vous ?](https://www.alternatives-economiques.fr/promesses-de-lia-rendez/00114000)
+
 **La Déferlante** : 
  - [Réseaux sociaux, armes de désinformation massive](https://revueladeferlante.fr/reseaux-sociaux-armes-de-desinformation-massive/)
  - [Comment rendre l'intelligence artificielle plus inclusive ?](https://revueladeferlante.fr/intelligence-artificielle-comment-la-rendre-plus-inclusive/)
-
-**Alternatives Économiques** : 
-- [Travail : les promesses de l’IA sont-elles au rendez-vous ?](https://www.alternatives-economiques.fr/promesses-de-lia-rendez/00114000)
 
 [**Synth media**](https://synthmedia.fr/author/mathilde-saliou/) : 
 - [The Tech Coup : entretien avec l’ex-eurodéputée Marietje Schaake](https://synthmedia.fr/2025/03/entretiens/the-tech-coup-marietje-schaake/)
