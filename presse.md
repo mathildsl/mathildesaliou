@@ -3,8 +3,24 @@ title: "Presse"
 order: 5
 in_menu: true
 ---
-Il m'arrive d'être interviewée par des médias 📰 écrits, 🎧 radio ou 📺 vidéo pour éboquer mes divers sujets d'expertise :
+Il m'arrive d'être interviewée par des médias 📰 écrits, 🎧 radio ou 📺 vidéo pour évoquer mes divers sujets d'expertise :
 
+##### Intelligence artificielle
+📺/🎧 🇪🇸 ["Cultura generada por IA, ¿oportunidad o amenaza?"](https://www.rfi.fr/es/programas/en-primera-plana/20260130-cultura-generada-por-ia-oportunidad-o-amenaza), En Primera Plana, RFI / France 24, 30 janvier 2026
+
+📺/🎧 🇪🇸 ["Inteligencia Artificial, ¿se abre la era de la desconfianza?"](https://www.rfi.fr/es/programas/en-primera-plana/20240216-inteligencia-artificial-se-abre-la-era-de-la-desconfianza), En Primera Plana, RFI / France 24, 16 février 2024
+
+📰 [Racistes, sexistes, classistes : comment les biais algorithmiques creusent les inégalités ?](https://www.techniques-ingenieur.fr/actualite/articles/racistes-sexistes-classistes-comment-les-biais-algorithmiques-creusent-les-inegalites-129555/), Techniques de l'ingénieur, 18 janvier 2024
+
+📺 ["L'intelligence artificielle est-elle sexiste ?"](https://www.arte.tv/fr/videos/113219-006-A/l-intelligence-artificielle-est-elle-sexiste/), Kreatur, Arte, 6 juillet 2023
+
+📺/🎧 🇪🇸 ["¿Hay que tener miedo a la Inteligencia Artificial?"](https://www.rfi.fr/es/programas/en-primera-plana/20230623-hay-que-tener-miedo-a-la-inteligencia-artificial), En Primera Plana, RFI / France 24, 23 juin 2023
+
+📺 ["Intelligence Artificielle : sommes-nous en danger ?"](https://www.france.tv/france-5/c-ce-soir/c-ce-soir-saison-3/4725334-intelligence-artificielle-sommes-nous-en-danger.html), C ce soir, France 5, 31 mars 2023
+
+📰 [Journée des droits des femmes : pourquoi de nombreux algorithmes sont sexistes](https://www.lesechos.fr/tech-medias/hightech/journee-de-la-femme-pourquoi-de-nombreux-algorithmes-sont-sexistes-1912930), Les Échos, 7 mars 2023
+
+🎧 ["La malédiction des algorithmes"](https://frenchspin.fr/2022/05/rdv-tech-461-la-malediction-des-algorithmes/), RDV Tech 461, 31 mai 2022
 
 ##### Effets politiques du numérique
 📺 [La fascisation est-elle inscrite dans le code ?](https://video.lqdn.fr/w/f9PFNJMtPXQCtJzcBHnVsK), La Quadrature du Net, 3 décembre 2025
@@ -38,30 +54,14 @@ Il m'arrive d'être interviewée par des médias 📰 écrits, 🎧 radio ou �
 
 📺 [Piratage de Vinted : les cagnottes en ligne, point faible de la sécurité numérique ?](https://www.tf1info.fr/conso/video-piratage-de-vinted-les-cagnottes-en-ligne-point-faible-de-la-securite-numerique-2252084.html), TF1, 26 mars 2023
 
-
-##### Intelligence artificielle
-📺/🎧 ["Inteligencia Artificial, ¿se abre la era de la desconfianza?"](https://www.rfi.fr/es/programas/en-primera-plana/20240216-inteligencia-artificial-se-abre-la-era-de-la-desconfianza), En Primera Plana, RFI / France 24, 16 février 2024
-
-📰 [Racistes, sexistes, classistes : comment les biais algorithmiques creusent les inégalités ?](https://www.techniques-ingenieur.fr/actualite/articles/racistes-sexistes-classistes-comment-les-biais-algorithmiques-creusent-les-inegalites-129555/), Techniques de l'ingénieur, 18 janvier 2024
-
-📺 ["L'intelligence artificielle est-elle sexiste ?"](https://www.arte.tv/fr/videos/113219-006-A/l-intelligence-artificielle-est-elle-sexiste/), Kreatur, Arte, 6 juillet 2023
-
-📺/🎧 ["¿Hay que tener miedo a la Inteligencia Artificial?"](https://www.rfi.fr/es/programas/en-primera-plana/20230623-hay-que-tener-miedo-a-la-inteligencia-artificial), En Primera Plana, RFI / France 24, 23 juin 2023
-
-📺 ["Intelligence Artificielle : sommes-nous en danger ?"](https://www.france.tv/france-5/c-ce-soir/c-ce-soir-saison-3/4725334-intelligence-artificielle-sommes-nous-en-danger.html), C ce soir, France 5, 31 mars 2023
-
-📰 [Journée des droits des femmes : pourquoi de nombreux algorithmes sont sexistes](https://www.lesechos.fr/tech-medias/hightech/journee-de-la-femme-pourquoi-de-nombreux-algorithmes-sont-sexistes-1912930), Les Échos, 7 mars 2023
-
-📺 ["IA : "Demandez un portrait de femme, vous aurez un décolleté plongeant"](https://www.arretsurimages.net/emissions/arret-sur-images/ia-demandez-un-portrait-de-femme-vous-aurez-un-decollete-plongeant), Arrêt sur images, 20 janvier 2023
-
-🎧 ["La malédiction des algorithmes"](https://frenchspin.fr/2022/05/rdv-tech-461-la-malediction-des-algorithmes/), RDV Tech 461, 31 mai 2022
-
 ##### Tech et représentations
 🎧 ["Comment le numérique aggrave les inégalités"](https://soundcloud.com/techologie/93-comment-le-numerique-aggrave-les-inegalites), Techologie #93, 20 décembre 2024
 
 📰 ["Pornographie : l’intelligence artificielle, nouvel outil d’humiliation des femmes "](https://www.la-croix.com/france/pornographie-l-intelligence-artificielle-nouvel-outil-dhumiliation-des-femmes-20231217), La Croix, 17 décembre 2023
 
 📰 [Les robots sexuels entretiennent-ils la culture du viol ?](https://www.madmoizelle.com/les-robots-sexuels-entretiennent-ils-la-culturel-du-viol-1491411), Madmoizelle, 7 février 2023
+
+📺 ["IA : "Demandez un portrait de femme, vous aurez un décolleté plongeant"](https://www.arretsurimages.net/emissions/arret-sur-images/ia-demandez-un-portrait-de-femme-vous-aurez-un-decollete-plongeant), Arrêt sur images, 20 janvier 2023
 
 📰 [Cryptomonnaies : concours de bitcoin](https://www.causette.fr/societe/en-france/cryptomonnaies-concours-de-bitcoins), Causette, 1 juin 2022
 
