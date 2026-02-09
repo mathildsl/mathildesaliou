@@ -1,6 +1,6 @@
 ---
 title: "Livres"
-order: 6
+order: 3
 in_menu: true
 ---
 En octobre 2025, j'ai publié L'Envers de la Tech, Ce que le numérique fait au monde aux [éditions les Pérégrines](https://editionslesperegrines.fr/products/lenvers-de-la-tech-ce-que-le-numerique-fait-au-monde). En février 2023, je publiais Technoféminisme, Comment le numérique aggrave les inégalités [chez Grasset](https://www.grasset.fr/livre/technofeminisme-9782246828822/). Rapides revues de presse : 

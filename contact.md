@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-order: 5
+order: 6
 in_menu: true
 ---
 Je suis joignable sur tout un tas d'applications de ce vaste réseau qu'est internet&nbsp;:
