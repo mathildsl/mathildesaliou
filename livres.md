@@ -5,7 +5,7 @@ in_menu: true
 ---
 En octobre 2025, j'ai publié **L'Envers de la Tech, Ce que le numérique fait au monde** aux [éditions les Pérégrines](https://editionslesperegrines.fr/products/lenvers-de-la-tech-ce-que-le-numerique-fait-au-monde). En février 2023, je publiais **Technoféminisme, Comment le numérique aggrave les inégalités** [chez Grasset](https://www.grasset.fr/livre/technofeminisme-9782246828822/). 
 
-Revues de presse liée à ces deux publications (mes [autres interventions sont disponibles ici](https://mathildesaliou.com/presse.html)) : 
+Ci-dessous, une revue de presse liée à ces deux publications. Mes [autres interventions sont disponibles ici](https://mathildesaliou.com/presse.html)). 
 
 ![Couvertures L'Envers de la Tech et Technofeminisme]({% link images/TechnoFem_EnversTech_Saliou_small.png %})
 
