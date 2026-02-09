@@ -39,12 +39,12 @@ J'interviens quelquefois dans **l'émission Twitch Obs.ions.Tech** :
 
 En 2023, j'ai rejoint le [fellowship](https://algorithmwatch.org/en/second-group-algorithmwatch-fellows/) de l'ONG **AlgorithmWatch**. Ceci m'a conduite à publier, seule ou en équipe :
 - le podcast [Faux Positifs](https://podcasts.afp.com/michaela-cancela-kieffer-faux-positifs), produit pour l'**AFP**
-- [Fighting in the dark: How Europeans push back against rogue AI](https://algorithmwatch.org/en/europeans-push-back-against-rogue-ai/)
-- [Work inside the machine: How pre-saves and algorithmic marketing turn musicians into influencers](https://algorithmwatch.org/en/pre-saves-algorithmic-marketing-music/)
-- [Automated navigation systems are still wreaking havoc on small towns’ streets](https://algorithmwatch.org/en/navigation-systems-small-towns/)
+- [Fighting in the dark: How Europeans push back against rogue AI](https://algorithmwatch.org/en/europeans-push-back-against-rogue-ai/) 🇬🇧
+- [Work inside the machine: How pre-saves and algorithmic marketing turn musicians into influencers](https://algorithmwatch.org/en/pre-saves-algorithmic-marketing-music/) 🇬🇧
+- [Automated navigation systems are still wreaking havoc on small towns’ streets](https://algorithmwatch.org/en/navigation-systems-small-towns/) 🇬🇧
 
 En 2022, ma consœur Ingri Bergo et moi avons remporté une bourse du [Journalismfund Europe](https://www.journalismfund.eu/supported-projects/across-europe-revenge-porn-victims-are-taking-digital-abusers) pour enquêter sur le phénomène de la diffusion non consentie d'images à caractère sexuel en Europe. Ç'a donné lieu à plusieurs publications : 
-- dans **the Guardian**, ["‘They said: aren’t you that porn star?’ The woman hunting down image-based abuse"](https://www.theguardian.com/global-development/2022/oct/19/they-said-arent-you-that-porn-star-the-woman-hunting-down-image-based-abuse)
+- dans **the Guardian**, ["‘They said: aren’t you that porn star?’ The woman hunting down image-based abuse"](https://www.theguardian.com/global-development/2022/oct/19/they-said-arent-you-that-porn-star-the-woman-hunting-down-image-based-abuse) 🇬🇧
 - dans **Slate**, une série en quatre épisodes : 
   - [«J'ai eu des pensées suicidaires» : les graves conséquences du «revenge porn» pour les victimes](https://www.slate.fr/story/235033/revenge-porn-pornodivulgation-consequences-mortelles-victimes-suicide-depression)
   - [En ligne, on s'échange du «revenge porn» comme des cartes Pokémon](https://www.slate.fr/story/235372/revenge-porn-cartes-pokemon-collection-insultes-pornographie-intimite-femmes-discord-telegram)
