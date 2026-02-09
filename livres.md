@@ -3,10 +3,14 @@ title: "Livres"
 order: 3
 in_menu: true
 ---
-En octobre 2025, j'ai publié L'Envers de la Tech, Ce que le numérique fait au monde aux [éditions les Pérégrines](https://editionslesperegrines.fr/products/lenvers-de-la-tech-ce-que-le-numerique-fait-au-monde). En février 2023, je publiais Technoféminisme, Comment le numérique aggrave les inégalités [chez Grasset](https://www.grasset.fr/livre/technofeminisme-9782246828822/). Revues de presse : 
+En octobre 2025, j'ai publié L'Envers de la Tech, Ce que le numérique fait au monde aux [éditions les Pérégrines](https://editionslesperegrines.fr/products/lenvers-de-la-tech-ce-que-le-numerique-fait-au-monde). En février 2023, je publiais Technoféminisme, Comment le numérique aggrave les inégalités [chez Grasset](https://www.grasset.fr/livre/technofeminisme-9782246828822/). 
+
+Revues de presse liée à ces deux publications (mes [autres interventions sont disponibles ici](https://mathildesaliou.com/presse.html)) : 
 
 ### L'Envers de la Tech
 📰 [Book club : l'Envers de la Tech de Mathilde Saliou](https://fisheyeimmersive.com/article/book-club-lenvers-de-la-tech-de-mathilde-saliou/), Fisheye Immersive, 5 février 2026
+
+📰 [Ne pas attendre un "chevalier blanc de la tech", mais miser sur la pluralité pour une IA plus responsable](https://www.rts.ch/info/sciences-tech/2026/article/ia-responsable-miser-sur-la-pluralite-plutot-qu-un-chevalier-blanc-29102587.html), RTS, 1er janvier 2026
 
 🎧 [Une intelligence artificielle plus respectueuse du vivant, c'est possible !](https://www.rts.ch/audio-podcast/2025/audio/une-ia-plus-respectueuse-du-vivant-c-est-possible-29100915.html), Tout un monde, RTS, 26 décembre 2025
 
