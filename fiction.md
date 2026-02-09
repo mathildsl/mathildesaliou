@@ -1,6 +1,6 @@
 ---
 title: "Fiction"
-order: 7
+order: 4
 in_menu: true
 ---
 En dehors de mes travaux journalistiques, je m'essaie à la fiction. 
