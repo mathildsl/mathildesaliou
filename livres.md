@@ -7,6 +7,8 @@ En octobre 2025, j'ai publié L'Envers de la Tech, Ce que le numérique fait au 
 
 Revues de presse liée à ces deux publications (mes [autres interventions sont disponibles ici](https://mathildesaliou.com/presse.html)) : 
 
+![Couvertures L'Envers de la Tech et Technofeminisme]({% link images/TechnoFem_EnversTech_Saliou_small.png %})
+
 ### L'Envers de la Tech
 📰 [Book club : l'Envers de la Tech de Mathilde Saliou](https://fisheyeimmersive.com/article/book-club-lenvers-de-la-tech-de-mathilde-saliou/), Fisheye Immersive, 5 février 2026
 
