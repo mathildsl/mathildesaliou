@@ -78,7 +78,7 @@ De 2018 à 2020, j'ai été journaliste économique chez **mind Fintech**. J'y a
 
 En 2017-2018, j'ai cofondé la newsletter spécialisée dans la tech **Planet**, dont j'ai construit la stratégie éditoriale et géré les publications et la promotion en et hors ligne. 
 
-#### À la pige
+### À la pige
 
 De 2014 à ce jour, j'ai aussi travaillé avec des médias comme ceux listés ci-dessous (par ordre antéchronologique) :
 
@@ -150,4 +150,4 @@ De 2014 à ce jour, j'ai aussi travaillé avec des médias comme ceux listés ci
   - [Liens facs de médecine-industrie pharmaceutique : qu’en disent les étudiants ?](https://www.letudiant.fr/metiers/avenir-sante/independance-des-facultes-vis-a-vis-de-l-industrie-pharmaceutique-qu-en-disent-les-etudiants.html) 
   - [À 25 ans, elles créent des cosmétiques pour booster le moral des malades du cancer](https://www.letudiant.fr/etudes/ecoles-specialisees/a-25-ans-elles-creent-des-cosmetiques-pour-booster-le-moral-des-malades-du-cancer.html)
 
-J'ai aussi travaillé pour **Industrie et technologies**, **L'Étudiant**, **Petit Web**, **Nichons nous dans l'Internet**, etc. 
+J'ai aussi travaillé pour **Chut! Magazine**, **Industrie et technologies**, **L'Étudiant**, **Petit Web**, **Nichons nous dans l'Internet**, etc. 
