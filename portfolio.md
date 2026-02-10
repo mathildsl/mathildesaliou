@@ -114,7 +114,7 @@ De 2014 à ce jour, j'ai aussi travaillé avec des médias comme ceux listés ci
   - [Incidents au Stade de France : La reconnaissance faciale permettrait-elle vraiment d’améliorer la gestion des foules ?](https://www.20minutes.fr/high-tech/3303651-20220609-incidents-stade-france-reconnaissance-faciale-permettrait-vraiment-ameliorer-gestion-foules)
   - [« Hôtel du Temps » : L'émission de Thierry Ardisson est-elle la télévision de demain ou d'hier ?](https://www.20minutes.fr/arts-stars/television/3280539-20220502-hotel-temps-emission-thierry-ardisson-television-demain-hier)
 
-**Arte FAQ** :
+**Arte** :
   - [J'ai placé mes économies en crypto](https://story.snapchat.com/p/da34de3d-c1bc-45bc-abcb-66aa1a4becdf/902921768443904)
 
 [**Slate**](https://www.slate.fr/source/170175/mathilde-saliou) :
