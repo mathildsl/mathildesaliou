@@ -1,5 +1,5 @@
 ---
-title: "Agenda"
+title: "Conférences"
 order: 5
 in_menu: true
 ---
@@ -7,8 +7,6 @@ Je donne des conférences, des formations et je participe à des table-rondes su
 
 
 ## À venir
-
-3 février 2026, conférence à la **Journée de l'écoconception numérique, à Paris** ([Voir le programme](https://journee-ecoconception-numerique.fr/))
 
 7 mars, table ronde au **Festival Imprimé, à Bordeaux** ([Programme à venir](https://www.festival-imprime.fr/))
 
@@ -21,6 +19,8 @@ Sensibilisation au cyberharcèlement (initialement [créée pour Prenons la Une]
 
 ## Événements passés
 (pour lesquels il existe une captation ou un résumé)
+
+Rattacher le numérique au réel, keynote d'introduction à la Journée de l'écoconception numérique, Paris, 3 février 2026
 
 Welcome to the broligarchy, Meetup Women in Machine Learning and Data Science, Paris, 10 avril 2025 
 >  📰 [summary of the event](https://wimlds-paris.medium.com/53-women-in-machine-learning-and-data-science-online-convex-reinforcement-learning-ai-4cb4db5f8d7f)
