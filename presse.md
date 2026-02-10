@@ -1,7 +1,7 @@
 ---
 title: "Presse"
-order: 7
-in_menu: false
+order: 4
+in_menu: true
 ---
 Il m'arrive d'être interviewée par des médias 📰 écrits, 🎧 radio ou 📺 vidéo pour évoquer mes divers sujets d'expertise :
 
