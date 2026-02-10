@@ -18,9 +18,11 @@ Autodéfense numérique ([fanzine récapitulatif](https://drive.google.com/file/
 Sensibilisation au cyberharcèlement (initialement [créée pour Prenons la Une](https://prenonslaune.fr/2020/11/cyberharcelement-journaliste/))
 
 ## Événements passés
-(pour lesquels il existe une captation ou un résumé)
+(sélection non exhaustive)
 
-Rattacher le numérique au réel, keynote d'introduction à la Journée de l'écoconception numérique, Paris, 3 février 2026
+"Rattacher le numérique au réel", Keynote d'introduction à la [Journée de l'écoconception numérique](https://journee-ecoconception-numerique.fr/2026/envers-de-la-tech), Paris, 3 février 2026
+
+"Comment reprendre le contrôle sur le numérique ?", Journées [Numérique en Commun(s)](https://numerique-en-communs.fr/wp-content/uploads/2025/10/NEC25_livret_versionweb.pdf), Strasbourg, 31 octobre 2025
 
 Welcome to the broligarchy, Meetup Women in Machine Learning and Data Science, Paris, 10 avril 2025 
 >  📰 [summary of the event](https://wimlds-paris.medium.com/53-women-in-machine-learning-and-data-science-online-convex-reinforcement-learning-ai-4cb4db5f8d7f)
