@@ -5,6 +5,24 @@ in_menu: true
 ---
 Il m'arrive d'être interviewée par des médias 📰 écrits, 🎧 radio ou 📺 vidéo pour évoquer mes divers sujets d'expertise :
 
+
+##### Intelligence artificielle
+📺/🎧 🇪🇸 ["Cultura generada por IA, ¿oportunidad o amenaza?"](https://www.rfi.fr/es/programas/en-primera-plana/20260130-cultura-generada-por-ia-oportunidad-o-amenaza), En Primera Plana, RFI / France 24, 30 janvier 2026
+
+📺/🎧 🇪🇸 ["Inteligencia Artificial, ¿se abre la era de la desconfianza?"](https://www.rfi.fr/es/programas/en-primera-plana/20240216-inteligencia-artificial-se-abre-la-era-de-la-desconfianza), En Primera Plana, RFI / France 24, 16 février 2024
+
+📰 [Racistes, sexistes, classistes : comment les biais algorithmiques creusent les inégalités ?](https://www.techniques-ingenieur.fr/actualite/articles/racistes-sexistes-classistes-comment-les-biais-algorithmiques-creusent-les-inegalites-129555/), Techniques de l'ingénieur, 18 janvier 2024
+
+📺 ["L'intelligence artificielle est-elle sexiste ?"](https://www.arte.tv/fr/videos/113219-006-A/l-intelligence-artificielle-est-elle-sexiste/), Kreatur, Arte, 6 juillet 2023
+
+📺/🎧 🇪🇸 ["¿Hay que tener miedo a la Inteligencia Artificial?"](https://www.rfi.fr/es/programas/en-primera-plana/20230623-hay-que-tener-miedo-a-la-inteligencia-artificial), En Primera Plana, RFI / France 24, 23 juin 2023
+
+📺 ["Intelligence Artificielle : sommes-nous en danger ?"](https://www.france.tv/france-5/c-ce-soir/c-ce-soir-saison-3/4725334-intelligence-artificielle-sommes-nous-en-danger.html), C ce soir, France 5, 31 mars 2023
+
+📰 [Journée des droits des femmes : pourquoi de nombreux algorithmes sont sexistes](https://www.lesechos.fr/tech-medias/hightech/journee-de-la-femme-pourquoi-de-nombreux-algorithmes-sont-sexistes-1912930), Les Échos, 7 mars 2023
+
+🎧 ["La malédiction des algorithmes"](https://frenchspin.fr/2022/05/rdv-tech-461-la-malediction-des-algorithmes/), RDV Tech 461, 31 mai 2022
+
 ##### Espace public numérique
 📰 [Voici ce que les algorithmes montrent vraiment aux adolescents de 13 ans](https://www.mediapart.fr/journal/france/250126/voici-ce-que-les-algorithmes-montrent-vraiment-aux-adolescents-de-13-ans), Mediapart, 25 janvier 2026
 
@@ -26,24 +44,6 @@ Il m'arrive d'être interviewée par des médias 📰 écrits, 🎧 radio ou �
 🎧 [Geeks, trolls & compagnie, épisode 2](https://www.binge.audio/podcast/les-couilles-sur-la-table/geeks-trolls-cie-2-2), Les Couilles sur la table, Binge Audio, 27 avril 2023
 
 🎧 [Geeks, trolls & compagnie, épisode 1](https://www.binge.audio/podcast/les-couilles-sur-la-table/geeks-trolls-cie-1-2), Les Couilles sur la table, Binge Audio, 20 avril 2023
-
-
-##### Intelligence artificielle
-📺/🎧 🇪🇸 ["Cultura generada por IA, ¿oportunidad o amenaza?"](https://www.rfi.fr/es/programas/en-primera-plana/20260130-cultura-generada-por-ia-oportunidad-o-amenaza), En Primera Plana, RFI / France 24, 30 janvier 2026
-
-📺/🎧 🇪🇸 ["Inteligencia Artificial, ¿se abre la era de la desconfianza?"](https://www.rfi.fr/es/programas/en-primera-plana/20240216-inteligencia-artificial-se-abre-la-era-de-la-desconfianza), En Primera Plana, RFI / France 24, 16 février 2024
-
-📰 [Racistes, sexistes, classistes : comment les biais algorithmiques creusent les inégalités ?](https://www.techniques-ingenieur.fr/actualite/articles/racistes-sexistes-classistes-comment-les-biais-algorithmiques-creusent-les-inegalites-129555/), Techniques de l'ingénieur, 18 janvier 2024
-
-📺 ["L'intelligence artificielle est-elle sexiste ?"](https://www.arte.tv/fr/videos/113219-006-A/l-intelligence-artificielle-est-elle-sexiste/), Kreatur, Arte, 6 juillet 2023
-
-📺/🎧 🇪🇸 ["¿Hay que tener miedo a la Inteligencia Artificial?"](https://www.rfi.fr/es/programas/en-primera-plana/20230623-hay-que-tener-miedo-a-la-inteligencia-artificial), En Primera Plana, RFI / France 24, 23 juin 2023
-
-📺 ["Intelligence Artificielle : sommes-nous en danger ?"](https://www.france.tv/france-5/c-ce-soir/c-ce-soir-saison-3/4725334-intelligence-artificielle-sommes-nous-en-danger.html), C ce soir, France 5, 31 mars 2023
-
-📰 [Journée des droits des femmes : pourquoi de nombreux algorithmes sont sexistes](https://www.lesechos.fr/tech-medias/hightech/journee-de-la-femme-pourquoi-de-nombreux-algorithmes-sont-sexistes-1912930), Les Échos, 7 mars 2023
-
-🎧 ["La malédiction des algorithmes"](https://frenchspin.fr/2022/05/rdv-tech-461-la-malediction-des-algorithmes/), RDV Tech 461, 31 mai 2022
 
 ##### Enjeux politiques du numérique
 📺 [La fascisation est-elle inscrite dans le code ?](https://video.lqdn.fr/w/f9PFNJMtPXQCtJzcBHnVsK), La Quadrature du Net, 3 décembre 2025
