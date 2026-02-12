@@ -12,7 +12,8 @@ Vous trouverez ci-dessous une sélection des travaux effectués depuis le début
   - **Algorithmique**, épisode 1 : [Intelligence sans conscience](https://next.ink/podcast/algorithmique-1-6-intelligence-sans-conscience/), épisode 2 : [Biaisé comme l'IA](https://next.ink/podcast/algorithmique-2-6-biaise-comme-lia/), épisode 3 : [Questionner les systèmes](https://next.ink/podcast/algorithmique-3-6-questionner-les-systemes/), épisode 4 : [IA qu'à algorithmiser le climat ?](https://next.ink/podcast/algorithmique-4-6-ia-qua-algorithmiser-le-climat/), épisode 5 : [La politique de l'IA](https://next.ink/podcast/algorithmique-5-6-la-politique-de-lia/), épisode 6 : [Intelligence artificielle, intelligence collective](https://next.ink/podcast/algorithmique-6-6-intelligence-artificielle-intelligence-collective/). 
 
 - J'y passe surtout mon temps à écrire. Vous pouvez retrouver tous mes articles [ici](https://next.ink/public-profile/?id=54), mais voici une sélection :
-  - [IA : la valse des contrats entre NVIDIA, OpenAI et consorts ravive les craintes d’une bulle](https://next.ink/203620/ia-la-valse-des-contrats-entre-nvidia-openai-et-consorts-ravive-les-craintes-dune-bulle/)
+  - [Fred Turner : « Rien ne donne plus de pouvoir que la capacité à contrôler le récit »](https://next.ink/206879/fred-turner-rien-ne-donne-plus-de-pouvoir-que-la-capacite-a-controler-le-recit/)
+  - [Peter Thiel, l’antéchrist et les régulations de la tech](https://next.ink/205720/peter-thiel-lantechrist-et-les-regulations-de-la-tech/)
   - [Fin de Windows 10 : la solution viendra-t-elle du libre ?](https://next.ink/202463/fin-de-windows-10-la-solution-viendra-t-elle-du-libre/)
   - [Ce que les cités-États des leaders de la tech disent du moment politique](https://next.ink/190956/ce-que-les-cites-etats-des-leaders-de-la-tech-disent-du-moment-politique/)
   - [Inclusion dans la tech : le repli se fait sentir](https://next.ink/189690/inclusion-dans-la-tech-le-repli-se-fait-sentir/)
