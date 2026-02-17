@@ -10,6 +10,8 @@ Ci-dessous, une revue de presse liée à ces deux ouvrages :
 ![Couvertures L'Envers de la Tech et Technofeminisme]({% link images/TechnoFem_EnversTech_Saliou_small.png %})
 
 ### L'Envers de la Tech
+📰 [Dans « L’envers de la tech », Mathilde Saliou dévoile le coût invisible du numérique](https://www.meta-media.fr/2026/02/14/dans-lenvers-de-la-tech-mathilde-saliou-devoile-le-cout-invisible-du-numerique.html), Méta-media, France info, 14 février 2026
+
 📰 [Book club : l'Envers de la Tech de Mathilde Saliou](https://fisheyeimmersive.com/article/book-club-lenvers-de-la-tech-de-mathilde-saliou/), Fisheye Immersive, 5 février 2026
 
 📰 [Ne pas attendre un "chevalier blanc de la tech", mais miser sur la pluralité pour une IA plus responsable](https://www.rts.ch/info/sciences-tech/2026/article/ia-responsable-miser-sur-la-pluralite-plutot-qu-un-chevalier-blanc-29102587.html), RTS, 1er janvier 2026
