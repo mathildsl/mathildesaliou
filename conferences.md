@@ -10,6 +10,8 @@ Si vous souhaitez que je vienne parler de [l'Envers de la Tech](https://editions
 
 ## À venir
 
+23 février, "Big Tech, social networks and the circulation of scientific (mis)information", **EURIP Workshop, à Paris** ([Programme](https://u-paris.fr/%C3%A9v%C3%A8nement/eurip-workshop-comment-communiquer-la-science-en-periode-de-crise/))
+
 7 mars, table ronde au **Festival Imprimé, à Bordeaux** ([Programme](https://www.festival-imprime.fr/))
 
 2 avril, table ronde "Techno-impérialismes, le numérique comme outil de puissance ?", **Académie du Climat, à Paris** ([Inscriptions](https://www.academieduclimat.paris/evenements/techno-imperialismes-le-numerique-comme-outil-de-puissance/))
