@@ -10,8 +10,9 @@ Si vous souhaitez que je vienne parler de [l'Envers de la Tech](https://editions
 
 ## À venir
 
-7 mars, table ronde au **Festival Imprimé, à Bordeaux** ([Programme à venir](https://www.festival-imprime.fr/))
+7 mars, table ronde au **Festival Imprimé, à Bordeaux** ([Programme](https://www.festival-imprime.fr/))
 
+2 avril, table ronde "Techno-impérialismes, le numérique comme outil de puissance ?", **Académie du Climat, à Paris** ([Inscriptions](https://www.academieduclimat.paris/evenements/techno-imperialismes-le-numerique-comme-outil-de-puissance/))
 
 ## Formations
 
