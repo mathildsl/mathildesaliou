@@ -12,6 +12,8 @@ Si vous souhaitez que je vienne parler de [l'Envers de la Tech](https://editions
 
 7 mars, table ronde au **Festival Imprimé, à Bordeaux** ([Programme](https://www.festival-imprime.fr/))
 
+17 mars, Violences basées sur le genre facilitées par la technologie (VBGFT) : coopérer pour un numérique plus sûr, Gender Week à la **Cité Audacieuse, à Paris** ([Programme](https://www.expertisefrance.fr/fr/evenements/conference-violences-basees-sur-le-genre-facilitees-par-la-technologie))
+
 2 avril, table ronde "Techno-impérialismes, le numérique comme outil de puissance ?", **Académie du Climat, à Paris** ([Inscriptions](https://www.academieduclimat.paris/evenements/techno-imperialismes-le-numerique-comme-outil-de-puissance/))
 
 ## Formations
