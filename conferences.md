@@ -28,6 +28,7 @@ Sensibilisation au cyberharcèlement (initialement [créée pour Prenons la Une]
 "Big Tech, social networks and the circulation of scientific (mis)information", [EURIP Workshop](https://u-paris.fr/%C3%A9v%C3%A8nement/eurip-workshop-comment-communiquer-la-science-en-periode-de-crise/), Paris, 23 février
 
 "Rattacher le numérique au réel", Keynote d'introduction à la [Journée de l'écoconception numérique](https://journee-ecoconception-numerique.fr/2026/envers-de-la-tech), Paris, 3 février 2026
+> 📺 [Replay de la keynote](https://peertube.designersethiques.org/w/xnWS4iPcMzUBoRiPheePBd)
 
 "Comment reprendre le contrôle sur le numérique ?", Journées [Numérique en Commun(s)](https://numerique-en-communs.fr/wp-content/uploads/2025/10/NEC25_livret_versionweb.pdf), Strasbourg, 31 octobre 2025
 
