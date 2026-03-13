@@ -23,6 +23,9 @@ Sensibilisation au cyberharcèlement (initialement [créée pour Prenons la Une]
 ## Événements passés
 (sélection non exhaustive)
 
+"Comment la tech s'est invitée dans la politique ?", [Festival Imprimé](https://www.festival-imprime.fr/programmation-2026/), Bordeaux, 7 mars 2026
+> 📺 [Discussion + replay dans l'émission Abonnez-vous de Mediapart](https://youtu.be/AeEHyQ-qpR8?t=16477)
+
 "Big Tech, social networks and the circulation of scientific (mis)information", [EURIP Workshop](https://u-paris.fr/%C3%A9v%C3%A8nement/eurip-workshop-comment-communiquer-la-science-en-periode-de-crise/), Paris, 23 février
 
 "Rattacher le numérique au réel", Keynote d'introduction à la [Journée de l'écoconception numérique](https://journee-ecoconception-numerique.fr/2026/envers-de-la-tech), Paris, 3 février 2026
