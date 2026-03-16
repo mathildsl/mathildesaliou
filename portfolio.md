@@ -40,6 +40,7 @@ J'interviens quelquefois dans **l'émission Twitch Obs.ions.Tech** :
 
 En 2023, j'ai rejoint le [fellowship](https://algorithmwatch.org/en/second-group-algorithmwatch-fellows/) de l'ONG **AlgorithmWatch**. Ceci m'a conduite à publier, seule ou en équipe :
 - le podcast [Faux Positifs](https://podcasts.afp.com/michaela-cancela-kieffer-faux-positifs), produit par l'**AFP**
+- [For Trans People, Online Transitioning Can Be a Nightmare](https://algorithmwatch.org/en/trans-people-online-transitioning/) 🇬🇧
 - [Fighting in the dark: How Europeans push back against rogue AI](https://algorithmwatch.org/en/europeans-push-back-against-rogue-ai/) 🇬🇧
 - [Work inside the machine: How pre-saves and algorithmic marketing turn musicians into influencers](https://algorithmwatch.org/en/pre-saves-algorithmic-marketing-music/) 🇬🇧
 - [Automated navigation systems are still wreaking havoc on small towns’ streets](https://algorithmwatch.org/en/navigation-systems-small-towns/) 🇬🇧
