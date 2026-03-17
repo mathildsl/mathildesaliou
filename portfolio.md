@@ -89,7 +89,7 @@ De 2018 à 2020, j'ai été journaliste économique chez **mind Fintech**. J'y a
 
 En 2017-2018, j'ai cofondé la newsletter spécialisée dans la tech **Planet**, dont j'ai construit la stratégie éditoriale et géré les publications et la promotion en et hors ligne. 
 
-### À la pige
+### À la pige / as a freelancer
 
 De 2014 à ce jour, j'ai aussi travaillé avec des médias comme ceux listés ci-dessous (par ordre antéchronologique) :
 
