@@ -7,10 +7,9 @@ Je travaille pour toutes sortes de médias, le plus souvent écrits, quelquefois
 
 Vous trouverez ci-dessous une sélection des travaux effectués depuis le début de ma carrière. Ces activités alimentent aussi mes prises de parole lorsque je suis [interviewée dans d'autres médias](https://mathildesaliou.com/presse.html) (y compris 🇪🇸 hispanophones).
 
-#### In english
-I work for all kinds of media outlets, mostly print, but sometimes radio or TV/video. Since 2023, I have been working mainly for Next, a tech-focused publication, but I also continue to contribute to other publications, including English-language ones (these are marked with the 🇬🇧 emoji).
+_I work for all kinds of media outlets, mostly print, but sometimes radio or TV/video. Since 2023, I have been working mainly for Next, a tech-focused publication, but I also continue to contribute to other publications, including English-language ones (these are marked with the 🇬🇧 emoji)._
 
-Below you will find a selection of work I have produced throughout my career. These activities also inform my comments when I am [interviewed in other media](https://mathildesaliou.com/presse.html) (including 🇪🇸 Spanish-language outlets).
+_Below you will find a selection of work I have produced throughout my career. These activities also inform my comments when I am [interviewed in other media](https://mathildesaliou.com/presse.html) (including 🇪🇸 Spanish-language outlets)._
 
 ____
 
