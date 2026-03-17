@@ -3,9 +3,11 @@ title: "Conférences"
 order: 5
 in_menu: true
 ---
-Je donne des conférences, des formations et je participe à des table-rondes sur mes sujets d'expertise. Pour toutes questions, n'hésitez pas à [m'écrire](https://mathildesaliou.com/contact.html). 
+<div class="encart">
+<p>Je donne des conférences, des formations et je participe à des table-rondes sur mes sujets d'expertise. Pour toutes questions, n'hésitez pas à <a href="https://mathildesaliou.com/contact.html">m'écrire</a>.</p>
 
-Si vous souhaitez que je vienne parler de [l'Envers de la Tech](https://editionslesperegrines.fr/products/lenvers-de-la-tech-ce-que-le-numerique-fait-au-monde) près de chez vous, c'est aussi possible : le plus simple est d'en discuter avec votre libraire ou votre bibliothécaire.
+<p>Si vous souhaitez que je vienne parler de <a href="https://editionslesperegrines.fr/products/lenvers-de-la-tech-ce-que-le-numerique-fait-au-monde">l'Envers de la Tech</a> près de chez vous, c'est aussi possible : le plus simple est d'en discuter avec votre libraire ou votre bibliothécaire.</p>
+</div>
 
 
 ## À venir
