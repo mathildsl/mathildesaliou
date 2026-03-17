@@ -5,6 +5,7 @@ in_menu: true
 ---
 <p class="encart">Je donne des conférences, des formations et je participe à des table-rondes sur mes sujets d'expertise. Pour toutes questions, n'hésitez pas à <a href="https://mathildesaliou.com/contact.html">m'écrire</a>. Si vous souhaitez que je vienne parler de <a href="https://editionslesperegrines.fr/products/lenvers-de-la-tech-ce-que-le-numerique-fait-au-monde">l'Envers de la Tech</a> près de chez vous, c'est aussi possible : le plus simple est d'en discuter avec votre libraire ou votre bibliothécaire.</p>
 
+_I give talks, run training sessions and take part in panel discussions on my areas of expertise. If you have any questions, feel free to [get in touch](https://mathildesaliou.com/contact.html)._
 
 ## À venir
 
@@ -26,14 +27,14 @@ Sensibilisation au cyberharcèlement (initialement [créée pour Prenons la Une]
 "Comment la tech s'est invitée dans la politique ?", [Festival Imprimé](https://www.festival-imprime.fr/programmation-2026/), Bordeaux, 7 mars 2026
 > 📺 [Discussion + replay dans l'émission Abonnez-vous de Mediapart](https://youtu.be/AeEHyQ-qpR8?t=16477)
 
-"Big Tech, social networks and the circulation of scientific (mis)information", [EURIP Workshop](https://u-paris.fr/%C3%A9v%C3%A8nement/eurip-workshop-comment-communiquer-la-science-en-periode-de-crise/), Paris, 23 février
+🇬🇧 "Big Tech, social networks and the circulation of scientific (mis)information", [EURIP Workshop](https://u-paris.fr/%C3%A9v%C3%A8nement/eurip-workshop-comment-communiquer-la-science-en-periode-de-crise/), Paris, 23 février
 
 "Rattacher le numérique au réel", Keynote d'introduction à la [Journée de l'écoconception numérique](https://journee-ecoconception-numerique.fr/2026/envers-de-la-tech), Paris, 3 février 2026
 > 📺 [Replay de la keynote](https://peertube.designersethiques.org/w/xnWS4iPcMzUBoRiPheePBd)
 
 "Comment reprendre le contrôle sur le numérique ?", Journées [Numérique en Commun(s)](https://numerique-en-communs.fr/wp-content/uploads/2025/10/NEC25_livret_versionweb.pdf), Strasbourg, 31 octobre 2025
 
-Welcome to the broligarchy, Meetup Women in Machine Learning and Data Science, Paris, 10 avril 2025 
+🇬🇧 "Welcome to the broligarchy", Meetup Women in Machine Learning and Data Science, Paris, 10 avril 2025 
 >  📰 [summary of the event](https://wimlds-paris.medium.com/53-women-in-machine-learning-and-data-science-online-convex-reinforcement-learning-ai-4cb4db5f8d7f)
 
 "Technoféminisme : comment rendre le numérique plus inclusif ?", Ethics by Design, Nantes, 14 novembre 2024
