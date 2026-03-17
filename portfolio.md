@@ -3,15 +3,16 @@ title: "Portfolio"
 order: 2
 in_menu: true
 ---
-<div class="encart">
-<p>Je travaille pour toutes sortes de médias, le plus souvent écrits, quelquefois radio ou tv/vidéo. Depuis 2023, je travaille principalement pour le média spécialisé dans la tech Next, mais je continue aussi de collaborer avec d'autres titres, y compris 🇬🇧 anglophones.</p>
+🇫🇷 Je travaille pour toutes sortes de médias, le plus souvent écrits, quelquefois radio ou tv/vidéo. Depuis 2023, je travaille principalement pour le média spécialisé dans la tech Next, mais je continue aussi de collaborer avec d'autres titres, y compris anglophones.
 
-<p>Vous trouverez ci-dessous une sélection des travaux effectués depuis le début de ma carrière. Ces activités alimentent aussi mes prises de parole lorsque je suis <a href="https://mathildesaliou.com/presse.html">interviewée dans d'autres médias</a> (y compris 🇪🇸 hispanophones).</p>
+Vous trouverez ci-dessous une sélection des travaux effectués depuis le début de ma carrière. Ces activités alimentent aussi mes prises de parole lorsque je suis [interviewée dans d'autres médias](https://mathildesaliou.com/presse.html) (y compris 🇪🇸 hispanophones).
 
-<p>I work for all kinds of media outlets, mostly print, but sometimes radio or TV/video. Since 2023, I have been working mainly for Next, a tech-focused publication, but I also continue to contribute to other publications, including English-language ones. These are marked with the 🇬🇧 emoji.</p>
 
-<p>Below you will find a selection of work I have produced throughout my career. These activities also inform my comments when I am <a href="https://mathildesaliou.com/presse.html">interviewed in other media</a>  (including 🇪🇸 Spanish-language outlets).</p>
-</div>
+🇬🇧 I work for all kinds of media outlets, mostly print, but sometimes radio or TV/video. Since 2023, I have been working mainly for Next, a tech-focused publication, but I also continue to contribute to other publications, including English-language ones (these are marked with the 🇬🇧 emoji).
+
+Below you will find a selection of work I have produced throughout my career. These activities also inform my comments when I am [interviewed in other media](https://mathildesaliou.com/presse.html) (including 🇪🇸 Spanish-language outlets).
+
+____
 
 En 2026, j'ai participé au projet [Dirty Data](https://algorithmwatch.org/en/second-group-algorithmwatch-fellows/) avec l'**Environmental Reporting Collective**. Ceci m'a conduite à publier, avec une quinzaine de collègues, une série d'articles sur les impacte environnementaux et sociaux de la multiplication de centres de données en Europe, Asie et Amérique latine. 
 - Explorer [Dirty Data : The Cost of Data Center Infrastructures Powering AI and the People Paying the Price](https://www.dirtydata.earth/) 🇬🇧
