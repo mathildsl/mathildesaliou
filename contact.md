@@ -7,7 +7,7 @@ Je suis joignable sur tout un tas d'applications de ce vaste réseau qu'est inte
 - sur [LinkedIn](https://www.linkedin.com/in/mathildesaliou/)
 - sur [Bluesky](https://bsky.app/profile/mathildesaliou.bsky.social)
 - sur [Mastodon](https://piaille.fr/@mathildesaliou)
-- par mail, à msaliou.pro chez gmail.com ou mathilde.saliou chez protonmail.com (pas de communiqués de presse, svp, je ne les lirai pas)
+- par mail, à msaliou.pro chez gmail.com ou mathilde.saliou chez protonmail.com (Pas de communiqués de presse, svp, je ne les lirai pas. Autrement dit : pas besoin d'ajouter ces adresses à vos listes de diffusion sans prévenir, c'est le plus sûr moyen de me voir m'en désabonner en vertu du RGPD.)
 
 Vous pouvez me demander mon identifiant Signal ou un CV via l'un des canaux cités ci-dessus.
 
