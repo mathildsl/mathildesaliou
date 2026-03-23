@@ -9,7 +9,7 @@ _I give talks, run training sessions and take part in panel discussions on my ar
 
 ## À venir
 
-17 mars : Violences basées sur le genre facilitées par la technologie (VBGFT) : coopérer pour un numérique plus sûr, Gender Week à la **Cité Audacieuse, à Paris** ([Programme](https://www.expertisefrance.fr/fr/evenements/conference-violences-basees-sur-le-genre-facilitees-par-la-technologie))
+25 mars : « Intelligence artificielle générative et gouvernementalité algorithmique », séminaire Politique des Sciences, **à l'EHESS, à Paris** ([Programme](https://rogueesr.fr/politique-des-sciences-2025-2026/)
 
 2 avril : table ronde "Techno-impérialismes, le numérique comme outil de puissance ?", **Académie du Climat, à Paris** ([Inscriptions](https://www.academieduclimat.paris/evenements/techno-imperialismes-le-numerique-comme-outil-de-puissance/))
 
