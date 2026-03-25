@@ -28,6 +28,7 @@ J'y passe surtout mon temps à écrire. Vous pouvez retrouver tous mes articles 
   - [Inclusion dans la tech : le repli se fait sentir](https://next.ink/189690/inclusion-dans-la-tech-le-repli-se-fait-sentir/)
   - [Émotions à l’Assemblée nationale : est-ce vraiment la faute des réseaux sociaux ?](https://next.ink/165896/emotions-a-lassemblee-nationale-est-ce-vraiment-la-faute-des-reseaux-sociaux/)
   - [Meredith Whittaker (Signal) : « L’IA est un outil des puissants contre ceux qui ont moins de pouvoir »](https://next.ink/138390/meredith-whittaker-signal-lia-est-un-outil-des-puissants-contre-ceux-qui-ont-moins-de-pouvoir/)
+  - [Photos intimes, deepnudes : 13 femmes en colère s’organisent](https://next.ink/132807/photos-intimes-deepnudes-13-femmes-en-colere-sorganisent/)
   - [[Édito] La sécurité numérique est un enjeu d’éducation populaire](https://next.ink/127134/edito-la-securite-numerique-est-un-enjeu-deducation-populaire/)
   - [[Édito] Liberté d’expression n’est pas synonyme d’irresponsabilité](https://next.ink/125319/edito-liberte-dexpression-nest-pas-synonyme-dirresponsabilite/)
   - [Midjourney recrache des images Pixar et d’œuvres protégées, parfois sans qu’on le lui demande](https://next.ink/121934/midjourney-pixar-coca-cola-jef-aerosol-c215-droits-auteurs-copyrigh/)
