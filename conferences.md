@@ -9,11 +9,9 @@ _I give talks, run training sessions and take part in panel discussions on my ar
 
 ## À venir
 
-25 mars : « Intelligence artificielle générative et gouvernementalité algorithmique », séminaire Politique des Sciences, **à l'EHESS, à Paris** ([Programme](https://rogueesr.fr/politique-des-sciences-2025-2026/))
+12 avril : table ronde "Friperie, tech, écologie : un pas vers la sobriété", **Forum du livre, Saint-Louis**, 14h ([Plus d'info](https://www.forumlivre.fr/))
 
-2 avril : table ronde "Techno-impérialismes, le numérique comme outil de puissance ?", **Académie du Climat, à Paris** ([Inscriptions](https://www.academieduclimat.paris/evenements/techno-imperialismes-le-numerique-comme-outil-de-puissance/))
-
-14 avril : rencontre autour de l'Envers de la Tech avec Confer'ENS Paris-Saclay, **ENS Paris-Saclay, à Gif-sur-Yvette**, 18h30
+14 avril : rencontre autour de l'Envers de la Tech avec Confer'ENS Paris-Saclay, **ENS Paris-Saclay, à Gif-sur-Yvette**, 18h30 ([Inscription](https://www.billetweb.fr/conference-de-mathilde-saliou))
 
 ## Formations
 
@@ -23,6 +21,10 @@ Sensibilisation au cyberharcèlement (initialement [créée pour Prenons la Une]
 
 ## Événements passés
 (sélection non exhaustive)
+
+Table ronde "Techno-impérialismes, le numérique comme outil de puissance ?", Académie du Climat, Paris, 2 avril 2026 (replay à venir)
+
+"Intelligence artificielle générative et gouvernementalité algorithmique", [séminaire Politique des Sciences](https://rogueesr.fr/politique-des-sciences-2025-2026/), EHESS, 25 mars 2026
 
 "Comment la tech s'est invitée dans la politique ?", [Festival Imprimé](https://www.festival-imprime.fr/programmation-2026/), Bordeaux, 7 mars 2026
 > 📺 [Discussion + replay dans l'émission Abonnez-vous de Mediapart](https://youtu.be/AeEHyQ-qpR8?t=16477)
