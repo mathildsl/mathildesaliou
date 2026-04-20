@@ -9,9 +9,6 @@ _I give talks, run training sessions and take part in panel discussions on my ar
 
 ## À venir
 
-12 avril : table ronde "Friperie, tech, écologie : un pas vers la sobriété", **Forum du livre, Saint-Louis**, 14h ([Plus d'info](https://www.forumlivre.fr/))
-
-14 avril : rencontre autour de l'Envers de la Tech avec Confer'ENS Paris-Saclay, **ENS Paris-Saclay, à Gif-sur-Yvette**, 18h30 ([Inscription](https://www.billetweb.fr/conference-de-mathilde-saliou))
 
 ## Formations
 
@@ -21,6 +18,9 @@ Sensibilisation au cyberharcèlement (initialement [créée pour Prenons la Une]
 
 ## Événements passés
 (sélection non exhaustive)
+
+Table ronde "Information et I.A : une chaîne de valeur à recomposer", Assises du Journalisme, Tours, 7 avril 2026 
+> 🎧 [Replay des échanges](https://journalisme.com/programmation/information-ia-2026/)
 
 Table ronde "Techno-impérialismes, le numérique comme outil de puissance ?", Académie du Climat, Paris, 2 avril 2026 (replay à venir)
 
