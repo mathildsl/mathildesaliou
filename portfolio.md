@@ -98,6 +98,7 @@ De 2014 à ce jour, j'ai aussi travaillé avec des médias comme ceux listés ci
 - [En Seine-Saint-Denis, les promesses d’emploi non tenues des centres de données](https://www.mediapart.fr/journal/economie-et-social/180326/en-seine-saint-denis-les-promesses-d-emploi-non-tenues-des-centres-de-donnees)
 
 **Alternatives Économiques** : 
+- [La France veut multiplier les centres de données sans calculer leurs conséquences](https://www.alternatives-economiques.fr/la-france-veut-multiplier-les-centres-de-donnees-sans-calculer-leurs-consequen/00118157)
 - [Derrière la dérégulation européenne du numérique, l’ombre des Big Tech](https://www.alternatives-economiques.fr/digital-omnibus-derriere-la-deregulation-du-numerique-lombre-des-big/00117667)
 - [Travail : les promesses de l’IA sont-elles au rendez-vous ?](https://www.alternatives-economiques.fr/promesses-de-lia-rendez/00114000)
 
