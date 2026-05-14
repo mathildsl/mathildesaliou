@@ -22,7 +22,8 @@ Sensibilisation au cyberharcèlement (initialement [créée pour Prenons la Une]
 Table ronde "Information et I.A : une chaîne de valeur à recomposer", Assises du Journalisme, Tours, 7 avril 2026 
 > 🎧 [Replay des échanges](https://journalisme.com/programmation/information-ia-2026/)
 
-Table ronde "Techno-impérialismes, le numérique comme outil de puissance ?", Académie du Climat, Paris, 2 avril 2026 (replay à venir)
+Table ronde "Techno-impérialismes, le numérique comme outil de puissance ?", Académie du Climat, Paris, 2 avril 2026 
+> 📺 [Replay des échanges](https://www.youtube.com/watch?v=-J1qc765Nrs)
 
 "Intelligence artificielle générative et gouvernementalité algorithmique", [séminaire Politique des Sciences](https://rogueesr.fr/politique-des-sciences-2025-2026/), EHESS, 25 mars 2026
 
