@@ -94,6 +94,9 @@ En 2017-2018, j'ai cofondé la newsletter spécialisée dans la tech **Planet**,
 
 De 2014 à ce jour, j'ai aussi travaillé avec des médias comme ceux listés ci-dessous (par ordre antéchronologique) :
 
+**Reporterre** :
+- [Pourquoi les recherches Google se dégradent avec l’IA générative](https://reporterre.net/Merdification-comment-les-recherches-Google-se-degradent-avec-l-IA-generative)
+
 **Mediapart**
 - [En Seine-Saint-Denis, les promesses d’emploi non tenues des centres de données](https://www.mediapart.fr/journal/economie-et-social/180326/en-seine-saint-denis-les-promesses-d-emploi-non-tenues-des-centres-de-donnees)
 
