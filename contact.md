@@ -5,7 +5,7 @@ in_menu: true
 ---
 Je suis joignable sur tout un tas d'applications de ce vaste réseau qu'est internet&nbsp;:
 - sur [LinkedIn](https://www.linkedin.com/in/mathildesaliou/)
-- sur [Mu](https://mu.social/profile/mathildesaliou.com) (c'est fonctionne sur le même protocole que Bluesky, ce qui me permet d'interagir avec les gens qui y sont, mais c'est européen)
+- sur [Mu](https://mu.social/profile/mathildesaliou.com) (c'est comme Bluesky, ça fonctionne sur le même protocole que Bluesky, ce qui me permet d'interagir avec les gens qui y sont, mais c'est européen.)
 - sur [Mastodon](https://piaille.fr/@mathildesaliou)
 - par mail, à msaliou.pro chez gmail.com ou mathilde.saliou chez protonmail.com (Pas de communiqués de presse, svp, je ne les lirai pas. Autrement dit : pas besoin d'ajouter ces adresses à vos listes de diffusion sans prévenir, c'est le plus sûr moyen de me voir m'en désabonner en vertu du RGPD.)
 
