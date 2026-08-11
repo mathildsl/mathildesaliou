@@ -5,6 +5,10 @@ in_menu: true
 ---
 Il m'arrive d'être interviewée par des médias 📰 écrits, 🎧 radio ou 📺 vidéo pour évoquer mes divers sujets d'expertise :
 
+##### Médias
+📺 ["Ce que l'IA fait au journalisme"](https://www.arretsurimages.net/emissions/arret-sur-images/ce-que-lia-fait-au-journalisme), Arrêt sur images, 7 août 2026
+
+📰 ["Inclusion dans les médias : un double déséquilibre à combler"](https://www.medianes.org/inclusion-dans-les-medias-un-double-desequilibre-a-combler/), Médianes, 23 février 2022 
 
 ##### Intelligence artificielle
 📰 [Intelligence artificielle et biais de genre : des dangers accrus pour les femmes](https://www.rtbf.be/article/intelligence-artificielle-et-biais-de-genre-des-dangers-accrus-pour-les-femmes-11693891), RTBF, 13 mars 2026
@@ -72,7 +76,4 @@ Il m'arrive d'être interviewée par des médias 📰 écrits, 🎧 radio ou �
 
 📺 ["IA : "Demandez un portrait de femme, vous aurez un décolleté plongeant"](https://www.arretsurimages.net/emissions/arret-sur-images/ia-demandez-un-portrait-de-femme-vous-aurez-un-decollete-plongeant), Arrêt sur images, 20 janvier 2023
 
-📰 [Cryptomonnaies : concours de bitcoin](https://www.causette.fr/societe/en-france/cryptomonnaies-concours-de-bitcoins), Causette, 1 juin 2022
-
-##### Médias et représentations
-📰 ["Inclusion dans les médias : un double déséquilibre à combler"](https://www.medianes.org/inclusion-dans-les-medias-un-double-desequilibre-a-combler/), Médianes, 23 février 2022 
+📰 [Cryptomonnaies : concours de bitcoin](https://www.causette.fr/societe/en-france/cryptomonnaies-concours-de-bitcoins), Causette, 1 juin 2022 
