@@ -3,7 +3,7 @@ title: "Portfolio"
 order: 2
 in_menu: true
 ---
-Je travaille pour toutes sortes de médias, écrits, radio ou tv/vidéo. Depuis 2023, je travaille principalement pour le média spécialisé dans la tech Next, mais je continue aussi de collaborer avec d'autres titres, y compris anglophones (marqués par l'emoji 🇬🇧).
+Je produis de l'information écrite, radio ou tv/vidéo. Depuis 2023, je travaille principalement pour le titre spécialisé dans la tech Next, mais je continue aussi de collaborer avec d'autres médias, y compris anglophones (marqués par l'emoji 🇬🇧).
 
 Vous trouverez ci-dessous une sélection des travaux effectués depuis le début de ma carrière. Ces activités alimentent aussi mes prises de parole lorsque je suis [interviewée dans d'autres médias](https://mathildesaliou.com/presse.html) (y compris 🇪🇸 hispanophones).
 
