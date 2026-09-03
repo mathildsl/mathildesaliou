@@ -31,7 +31,7 @@ J'ai étudié à l'École de journalisme et à l'École de la communication de S
 ---------
 # Welcome!
 
-Mathilde Saliou is a journalist and author specializing in digital and inequalities issues. She studies the effects of technology on society and how society shapes current innovations. In other words, she covers topics related to tech, information, and inequalities in the media and connected worlds.
+Mathilde Saliou is a journalist and author specializing in digital and inequalities issues. She studies the effects of technology on society and how society shapes current innovations. In other words, she covers topics related to tech, information, and inequalities in the media and digital worlds.
 
 Mathilde Saliou mainly works for [Next](https://next.ink/). In the past, she has published [articles](https://mathildesaliou.com/portfolio.html) in media such as the Guardian or Algorithm Watch (in English), 20 Minutes, Slate, Numerama, les Inrocks and La Déferlante (in French). She also [gives conferences and talks](https://mathildesaliou.com/evenements.html) on technology, the media and inequality.
 
