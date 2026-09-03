@@ -9,6 +9,7 @@ _I give talks, run training sessions and take part in panel discussions on my ar
 
 ## À venir
 
+Table ronde "Féminisation du numérique, un enjeu de robustesse", Green IT Day, Montpellier, 10 septembre 2026 
 
 ## Formations
 
