@@ -11,6 +11,8 @@ _I give talks, run training sessions and take part in panel discussions on my ar
 
 Table ronde "Féminisation du numérique, un enjeu de robustesse", Green IT Day, Montpellier, 10 septembre 2026 
 
+Table ronde sur la [profitabilité des contenus haineux pour les plateformes numériques](https://antipub.org/les-contenus-haineux-et-negatifs-sont-rentables-pour-les-medias-sociaux-publicitaires/), Barnum de [Non-Violence XXI](https://nonviolence21.org/), [Fête de l'Humanité](https://fete.humanite.fr/), 12 septembre 2026
+
 ## Formations
 
 Autodéfense numérique ([fanzine récapitulatif](https://drive.google.com/file/d/1bRpE9bU_jo8q4btFEBLg7dqT-R8_IAt4/view?usp=sharing) ([par ici pour les consignes de pliage](https://www.lumen.dignelesbains.fr/wp-content/uploads/sites/4/2020/05/tutoriel-fanzine.pdf)))
