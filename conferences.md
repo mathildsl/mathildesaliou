@@ -13,6 +13,8 @@ Table ronde "Féminisation du numérique, un enjeu de robustesse", Green IT Day,
 
 Table ronde sur la [profitabilité des contenus haineux pour les plateformes numériques](https://antipub.org/les-contenus-haineux-et-negatifs-sont-rentables-pour-les-medias-sociaux-publicitaires/), Barnum de [Non-Violence XXI](https://nonviolence21.org/), [Fête de l'Humanité](https://fete.humanite.fr/), 12 septembre 2026
 
+Table ronde "Désobéissantes plutôt que plantes vertes : activistes écoféministes", festival [Celles qui Sèment](https://www.instagram.com/p/DdCKrpZjv6v/?img_index=5) de la Fondation des femmes, Paris, 29 septembre 2026
+
 ## Formations
 
 Autodéfense numérique ([fanzine récapitulatif](https://drive.google.com/file/d/1bRpE9bU_jo8q4btFEBLg7dqT-R8_IAt4/view?usp=sharing) ([par ici pour les consignes de pliage](https://www.lumen.dignelesbains.fr/wp-content/uploads/sites/4/2020/05/tutoriel-fanzine.pdf)))
