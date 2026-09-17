@@ -9,11 +9,7 @@ _I give talks, run training sessions and take part in panel discussions on my ar
 
 ## À venir
 
-Table ronde "Féminisation du numérique, un enjeu de robustesse", Green IT Day, Montpellier, 10 septembre 2026 
-
-Table ronde sur la [profitabilité des contenus haineux pour les plateformes numériques](https://antipub.org/les-contenus-haineux-et-negatifs-sont-rentables-pour-les-medias-sociaux-publicitaires/), Barnum de [Non-Violence XXI](https://nonviolence21.org/), [Fête de l'Humanité](https://fete.humanite.fr/), 12 septembre 2026
-
-Table ronde "Désobéissantes plutôt que plantes vertes : activistes écoféministes", festival [Celles qui Sèment](https://www.instagram.com/p/DdCKrpZjv6v/?img_index=5) de la Fondation des femmes, Paris, 29 septembre 2026
+Table ronde "Désobéissantes plutôt que plantes vertes : activistes écoféministes", festival [Celles qui Sèment](https://www.paris.fr/evenements/festival-celles-qui-sement-2026-123452) de la Fondation des femmes, Paris, 29 septembre 2026 ([Inscription](https://www.helloasso.com/associations/fondation-des-femmes/evenements/table-ronde-desobeissantes-plutot-que-plantes-vertes-activistes-ecofeministes))
 
 ## Formations
 
