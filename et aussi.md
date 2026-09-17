@@ -3,7 +3,7 @@ title: "Et aussi"
 order: 7
 in_menu: true
 ---
-En dehors de mes travaux journalistiques, je m'essaie à d'autres formes de littérature.
+En dehors de mes travaux journalistiques, je m'essaie à d'autres formes d'écriture.
 
 J'ai participé au livre collectif **La Grande Évasion**, paru aux éditions [Buchet-Chastel](https://www.buchetchastel.fr/catalogue/la-grande-evasion/) en septembre 2026. 
 
