@@ -11,6 +11,8 @@ _I give talks, run training sessions and take part in panel discussions on my ar
 
 Table ronde "Désobéissantes plutôt que plantes vertes : activistes écoféministes", festival [Celles qui Sèment](https://www.paris.fr/evenements/festival-celles-qui-sement-2026-123452) de la Fondation des femmes, Paris, 29 septembre 2026 ([Inscription](https://www.helloasso.com/associations/fondation-des-femmes/evenements/table-ronde-desobeissantes-plutot-que-plantes-vertes-activistes-ecofeministes))
 
+Table ronde "Un numérique responsable est-il vraiment possible ?", Bibliothèque M. Yourcenar, Paris, 26 novembre 2026 ([Informations](https://www.paris.fr/evenements/un-numerique-responsable-est-il-vraiment-possible-124268))
+
 ## Formations
 
 Autodéfense numérique ([fanzine récapitulatif](https://drive.google.com/file/d/1bRpE9bU_jo8q4btFEBLg7dqT-R8_IAt4/view?usp=sharing) ([par ici pour les consignes de pliage](https://www.lumen.dignelesbains.fr/wp-content/uploads/sites/4/2020/05/tutoriel-fanzine.pdf)))
