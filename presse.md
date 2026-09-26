@@ -1,9 +1,19 @@
 ---
 title: "Presse"
 order: 4
-in_menu: false
+in_menu: true
 ---
 Il m'arrive d'être interviewée par des médias 📰 écrits, 🎧 radio ou 📺 vidéo pour évoquer mes divers sujets d'expertise :
+
+
+##### Enjeux politiques du numérique
+🎧 ["Mon voisin est un data center"](https://www.radiofrance.fr/franceinter/podcasts/le-telephone-sonne/le-18-20-le-telephone-sonne-du-jeudi-24-septembre-2026-9930330), Le Téléphone Sonne, France Inter, 24 septembre 2026
+
+📺 [La fascisation est-elle inscrite dans le code ?](https://video.lqdn.fr/w/f9PFNJMtPXQCtJzcBHnVsK), La Quadrature du Net, 3 décembre 2025
+
+📺 [Larry Ellison, le milliardaire qui veut contrôler le monde](https://www.france.tv/france-5/en-societe/saison-3/7575521-crise-politique-accords-de-paix-et-larry-ellison.html), En société, France 5, 12 octobre 2025
+
+🎧 ["Numérique, égalité et technoféminisme"](https://rdgp.fr/@rdgp/episodes/mathilde-saliou-technofeminisme/transcript), RdGP (Rien de Grave Patron !), 11 décembre 2024
 
 ##### Médias
 📺 ["Ce que l'IA fait au journalisme"](https://www.arretsurimages.net/emissions/arret-sur-images/ce-que-lia-fait-au-journalisme), Arrêt sur images, 7 août 2026
@@ -50,13 +60,6 @@ Il m'arrive d'être interviewée par des médias 📰 écrits, 🎧 radio ou �
 🎧 [Geeks, trolls & compagnie, épisode 2](https://www.binge.audio/podcast/les-couilles-sur-la-table/geeks-trolls-cie-2-2), Les Couilles sur la table, Binge Audio, 27 avril 2023
 
 🎧 [Geeks, trolls & compagnie, épisode 1](https://www.binge.audio/podcast/les-couilles-sur-la-table/geeks-trolls-cie-1-2), Les Couilles sur la table, Binge Audio, 20 avril 2023
-
-##### Enjeux politiques du numérique
-📺 [La fascisation est-elle inscrite dans le code ?](https://video.lqdn.fr/w/f9PFNJMtPXQCtJzcBHnVsK), La Quadrature du Net, 3 décembre 2025
-
-📺 [Larry Ellison, le milliardaire qui veut contrôler le monde](https://www.france.tv/france-5/en-societe/saison-3/7575521-crise-politique-accords-de-paix-et-larry-ellison.html), En société, France 5, 12 octobre 2025
-
-🎧 ["Numérique, égalité et technoféminisme"](https://rdgp.fr/@rdgp/episodes/mathilde-saliou-technofeminisme/transcript), RdGP (Rien de Grave Patron !), 11 décembre 2024
 
 ##### Cybersécurité
 📺 [Mails frauduleux, les escrocs surfent sur l'actualité](https://www.tf1.fr/tf1/jt-13h/videos/le-jt-de-13-heures-de-tf1-du-vendredi-10-octobre-2025-56516930.html), TF1, 10 octobre 2025
