@@ -22,6 +22,9 @@ Sensibilisation au cyberharcèlement (initialement [créée pour Prenons la Une]
 ## Événements passés
 (sélection non exhaustive)
 
+Table ronde "Féminisation du numérique : un enjeu de robustesse", Green IT Day, Montpellier, 10 septembre 2026 
+> 📰 [“Les choses ne changent pas” : la mixité de la tech au ralenti](https://alliancy.fr/les-choses-ne-changent-pas-la-mixite-de-la-tech-au-ralenti-54f48066-e148-4722-a354-a153f51e7bcb), Alliancy, 2 octobre 2026
+
 Table ronde "Information et I.A : une chaîne de valeur à recomposer", Assises du Journalisme, Tours, 7 avril 2026 
 > 🎧 [Replay des échanges](https://journalisme.com/programmation/information-ia-2026/)
 
