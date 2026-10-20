@@ -26,6 +26,7 @@ J'y passe surtout mon temps à écrire. Vous pouvez retrouver tous mes articles 
   - [Fin de Windows 10 : la solution viendra-t-elle du libre ?](https://next.ink/202463/fin-de-windows-10-la-solution-viendra-t-elle-du-libre/)
   - [Ce que les cités-États des leaders de la tech disent du moment politique](https://next.ink/190956/ce-que-les-cites-etats-des-leaders-de-la-tech-disent-du-moment-politique/)
   - [Inclusion dans la tech : le repli se fait sentir](https://next.ink/189690/inclusion-dans-la-tech-le-repli-se-fait-sentir/)
+  - [Comment se défendre face au cyberharcèlement ? L’avocat Alexandre Archambault nous explique](https://next.ink/149888/comment-se-defendre-face-au-cyberharcelement-lavocat-alexandre-archambault-nous-explique/)
   - [Émotions à l’Assemblée nationale : est-ce vraiment la faute des réseaux sociaux ?](https://next.ink/165896/emotions-a-lassemblee-nationale-est-ce-vraiment-la-faute-des-reseaux-sociaux/)
   - [Meredith Whittaker (Signal) : « L’IA est un outil des puissants contre ceux qui ont moins de pouvoir »](https://next.ink/138390/meredith-whittaker-signal-lia-est-un-outil-des-puissants-contre-ceux-qui-ont-moins-de-pouvoir/)
   - [Photos intimes, deepnudes : 13 femmes en colère s’organisent](https://next.ink/132807/photos-intimes-deepnudes-13-femmes-en-colere-sorganisent/)
