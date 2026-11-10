@@ -9,8 +9,6 @@ _I give talks, run training sessions and take part in panel discussions on my ar
 
 ## À venir
 
-Table ronde sur les usages et les impacts de l'IA, Semaine du Numérique, Médiathèque de Gennevilliers, 24 octobre 2026 ([Informations](https://mediatheques.ville-gennevilliers.fr/agenda/animations/atelier/table-ronde-ia-quinzaine-du-numerique-intelligence-artificielle-et-robotique))
-
 Table ronde "Un numérique responsable est-il vraiment possible ?", Bibliothèque M. Yourcenar, Paris, 26 novembre 2026 ([Informations](https://www.paris.fr/evenements/un-numerique-responsable-est-il-vraiment-possible-124268))
 
 ## Formations
