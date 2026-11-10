@@ -9,6 +9,8 @@ _I give talks, run training sessions and take part in panel discussions on my ar
 
 ## À venir
 
+Conférence "Le genre dans l’espace public numérique : un enjeu démocratique", Université populaire d'Arcueil, Espace J. Vilar, 24 novembre 2026 ([Informations](https://www.arcueil.fr/demarches-et-services/culture/universite-populaire-darcueil/))
+
 Table ronde "Un numérique responsable est-il vraiment possible ?", Bibliothèque M. Yourcenar, Paris, 26 novembre 2026 ([Informations](https://www.paris.fr/evenements/un-numerique-responsable-est-il-vraiment-possible-124268))
 
 ## Formations
